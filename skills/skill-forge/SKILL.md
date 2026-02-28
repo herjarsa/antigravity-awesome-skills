@@ -1,36 +1,24 @@
 ---
 name: skillforge
-description: Intelligent skill router and creator. Analyzes ANY input to
-  recommend existing skills, improve them, or create new ones. Uses deep
-  iterative analysis with 11 thinking models, regression questioning, evolution
-  lens, and multi-agent synthesis panel. Phase 0 triage ensures you never
-  duplicate existing functionality.
+description: "Intelligent skill router and creator. Analyzes ANY input to recommend existing skills, improve them, or create new ones. Uses deep iterative analysis with 11 thinking models, regression questioning, evolution lens, and multi-agent synthesis panel. Phase 0 triage ensures you never duplicate existing functionality."
 license: MIT
-allowed-tools: Read Glob Grep Write Edit
+model: claude-opus-4-5-20251101
+user-invocable: true
+allowed-tools:
+  - Read
+  - Glob
+  - Grep
+  - Write
+  - Edit
 metadata:
   version: 4.1.0
   subagent_model: claude-opus-4-5-20251101
-  domains:
-    - meta-skill
-    - automation
-    - skill-creation
-    - orchestration
-    - agentic
-    - routing
+  domains: [meta-skill, automation, skill-creation, orchestration, agentic, routing]
   type: orchestrator
-  inputs:
-    - any-input
-    - user-goal
-    - domain-hints
-  outputs:
-    - SKILL.md
-    - references/
-    - scripts/
-    - SKILL_SPEC.md
-    - recommendations
-  model: claude-opus-4-5-20251101
-  user-invocable: "true"
+  inputs: [any-input, user-goal, domain-hints]
+  outputs: [SKILL.md, references/, scripts/, SKILL_SPEC.md, recommendations]
 ---
+
 # SkillForge 4.1 - Intelligent Skill Router & Creator
 
 Analyzes ANY input to find, improve, or create the right skill.
@@ -1027,15 +1015,3 @@ SKILLCREATOR_CONFIG:
 
 ### v1.0.0
 - Basic skill structure
-
-
-## When to Use
-This skill is applicable to execute the workflow or actions described in the overview.
-
-
-## Do not use
-Do not use this skill for tasks unrelated to its primary purpose.
-
-
-## Instructions
-Follow the procedures described in the overview and use cases.

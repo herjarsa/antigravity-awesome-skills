@@ -2,7 +2,7 @@
 
 Generated at: 2026-02-08T00:00:00.000Z
 
-Total skills: 954
+Total skills: 967
 
 ## architecture (61)
 
@@ -46,7 +46,6 @@ Total skills: 954
 | `kotlin-coroutines-expert` | Expert patterns for Kotlin Coroutines and Flow, covering structured concurrency, error handling, and testing. | kotlin, coroutines | kotlin, coroutines, flow, covering, structured, concurrency, error, handling, testing |
 | `monorepo-architect` | Expert in monorepo architecture, build systems, and dependency management at scale. Masters Nx, Turborepo, Bazel, and Lerna for efficient multi-project devel... | monorepo | monorepo, architect, architecture, dependency, scale, masters, nx, turborepo, bazel, lerna, efficient, multi |
 | `multi-agent-patterns` | Master orchestrator, peer-to-peer, and hierarchical multi-agent architectures | multi, agent | multi, agent, orchestrator, peer, hierarchical, architectures |
-| `n8n-mcp-tools-expert` | Expert guide for using n8n-mcp MCP tools effectively. Use when searching for nodes, validating configurations, accessing templates, managing workflows, or us... | n8n, mcp | n8n, mcp, effectively, searching, nodes, validating, configurations, accessing, managing, any, provides, selection |
 | `nerdzao-elite` | Senior Elite Software Engineer (15+) and Senior Product Designer. Full workflow with planning, architecture, TDD, clean code, and pixel-perfect UX validation. | nerdzao, elite | nerdzao, elite, senior, software, engineer, 15, product, designer, full, planning, architecture, tdd |
 | `nx-workspace-patterns` | Configure and optimize Nx monorepo workspaces. Use when setting up Nx, configuring project boundaries, optimizing build caching, or implementing affected com... | nx, workspace | nx, workspace, configure, optimize, monorepo, workspaces, setting, up, configuring, boundaries, optimizing, caching |
 | `on-call-handoff-patterns` | Master on-call shift handoffs with context transfer, escalation procedures, and documentation. Use when transitioning on-call responsibilities, documenting s... | on, call, handoff | on, call, handoff, shift, handoffs, context, transfer, escalation, procedures, documentation, transitioning, responsibilities |
@@ -120,7 +119,7 @@ Total skills: 954
 | `startup-metrics-framework` |  | startup, metrics, framework | startup, metrics, framework |
 | `whatsapp-automation` | Automate WhatsApp Business tasks via Rube MCP (Composio): send messages, manage templates, upload media, and handle contacts. Always search tools first for c... | whatsapp | whatsapp, automation, automate, business, tasks, via, rube, mcp, composio, send, messages, upload |
 
-## data-ai (150)
+## data-ai (152)
 
 | Skill | Description | Tags | Triggers |
 | --- | --- | --- | --- |
@@ -229,6 +228,8 @@ Total skills: 954
 | `llm-evaluation` | Implement comprehensive evaluation strategies for LLM applications using automated metrics, human feedback, and benchmarking. Use when testing LLM performanc... | llm, evaluation | llm, evaluation, applications, automated, metrics, human, feedback, benchmarking, testing, performance, measuring, ai |
 | `mailchimp-automation` | Automate Mailchimp email marketing including campaigns, audiences, subscribers, segments, and analytics via Rube MCP (Composio). Always search tools first fo... | mailchimp | mailchimp, automation, automate, email, marketing, including, campaigns, audiences, subscribers, segments, analytics, via |
 | `ml-engineer` |  | ml | ml, engineer |
+| `n8n-expression-syntax` | Validate n8n expression syntax and fix common errors. Use when writing n8n expressions, using {{}} syntax, accessing $json/$node variables, troubleshooting e... | n8n, expression, syntax | n8n, expression, syntax, validate, fix, common, errors, writing, expressions, accessing, json, node |
+| `n8n-workflow-patterns` | Proven workflow architectural patterns from real n8n workflows. Use when building new workflows, designing workflow structure, choosing workflow patterns, pl... | n8n | n8n, proven, architectural, real, building, new, designing, structure, choosing, planning, architecture, asking |
 | `nanobanana-ppt-skills` | AI-powered PPT generation with document analysis and styled images | nanobanana, ppt, skills | nanobanana, ppt, skills, ai, powered, generation, document, analysis, styled, images |
 | `neon-postgres` | Expert patterns for Neon serverless Postgres, branching, connection pooling, and Prisma/Drizzle integration Use when: neon database, serverless postgres, dat... | neon, postgres | neon, postgres, serverless, branching, connection, pooling, prisma, drizzle, integration, database |
 | `nextjs-app-router-patterns` | Master Next.js 14+ App Router with Server Components, streaming, parallel routes, and advanced data fetching. Use when building Next.js applications, impleme... | nextjs, app, router | nextjs, app, router, next, js, 14, server, components, streaming, parallel, routes, data |
@@ -275,7 +276,7 @@ Total skills: 954
 | `xlsx-official` | Comprehensive spreadsheet creation, editing, and analysis with support for formulas, formatting, data analysis, and visualization. When Claude needs to work ... | xlsx, official | xlsx, official, spreadsheet, creation, editing, analysis, formulas, formatting, data, visualization, claude, work |
 | `youtube-automation` | Automate YouTube tasks via Rube MCP (Composio): upload videos, manage playlists, search content, get analytics, and handle comments. Always search tools firs... | youtube | youtube, automation, automate, tasks, via, rube, mcp, composio, upload, videos, playlists, search |
 
-## development (150)
+## development (153)
 
 | Skill | Description | Tags | Triggers |
 | --- | --- | --- | --- |
@@ -411,6 +412,7 @@ Total skills: 954
 | `remotion-best-practices` | Best practices for Remotion - Video creation in React | remotion, video, react, animation, composition | remotion, video, react, animation, composition, creation |
 | `ruby-pro` |  | ruby | ruby, pro |
 | `rust-async-patterns` | Master Rust async programming with Tokio, async traits, error handling, and concurrent patterns. Use when building async Rust applications, implementing conc... | rust, async | rust, async, programming, tokio, traits, error, handling, concurrent, building, applications, implementing, debugging |
+| `rust-ffmpeg` | Use when user asks to implement, evaluate, compare, select, or migrate Rust code for: video processing, audio processing, media conversion, multimedia handli... | rust, ffmpeg | rust, ffmpeg, user, asks, evaluate, compare, select, migrate, code, video, processing, audio |
 | `rust-pro` |  | rust | rust, pro |
 | `senior-fullstack` | Comprehensive fullstack development skill for building complete web applications with React, Next.js, Node.js, GraphQL, and PostgreSQL. Includes project scaf... | senior, fullstack | senior, fullstack, development, skill, building, complete, web, applications, react, next, js, node |
 | `shopify-apps` | Expert patterns for Shopify app development including Remix/React Router apps, embedded apps with App Bridge, webhook handling, GraphQL Admin API, Polaris co... | shopify, apps | shopify, apps, app, development, including, remix, react, router, embedded, bridge, webhook, handling |
@@ -432,7 +434,7 @@ Total skills: 954
 | `webapp-testing` | Toolkit for interacting with and testing local web applications using Playwright. Supports verifying frontend functionality, debugging UI behavior, capturing... | webapp | webapp, testing, toolkit, interacting, local, web, applications, playwright, supports, verifying, frontend, functionality |
 | `zustand-store-ts` | Create Zustand stores with TypeScript, subscribeWithSelector middleware, and proper state/action separation. Use when building React state management, creati... | zustand, store, ts | zustand, store, ts, stores, typescript, subscribewithselector, middleware, proper, state, action, separation, building |
 
-## general (242)
+## general (249)
 
 | Skill | Description | Tags | Triggers |
 | --- | --- | --- | --- |
@@ -447,7 +449,7 @@ Total skills: 954
 | `angular-migration` | Migrate from AngularJS to Angular using hybrid mode, incremental component rewriting, and dependency injection updates. Use when upgrading AngularJS applicat... | angular, migration | angular, migration, migrate, angularjs, hybrid, mode, incremental, component, rewriting, dependency, injection, updates |
 | `anti-reversing-techniques` | Understand anti-reversing, obfuscation, and protection techniques encountered during software analysis. Use when analyzing protected binaries, bypassing anti... | anti, reversing, techniques | anti, reversing, techniques, understand, obfuscation, protection, encountered, during, software, analysis, analyzing, protected |
 | `app-builder` | Main application building orchestrator. Creates full-stack applications from natural language requests. Determines project type, selects tech stack, coordina... | app, builder | app, builder, main, application, building, orchestrator, creates, full, stack, applications, natural, language |
-| `app-builder/templates` | Project scaffolding templates for new applications. Use when creating new projects from scratch. Contains 12 templates for various tech stacks. | app, builder/templates | app, builder/templates, scaffolding, new, applications, creating, scratch, contains, 12, various, tech, stacks |
+| `app-builder\templates` | Project scaffolding templates for new applications. Use when creating new projects from scratch. Contains 12 templates for various tech stacks. | app, builder\templates | app, builder\templates, scaffolding, new, applications, creating, scratch, contains, 12, various, tech, stacks |
 | `arm-cortex-expert` |  | arm, cortex | arm, cortex |
 | `avalonia-layout-zafiro` | Guidelines for modern Avalonia UI layout using Zafiro.Avalonia, emphasizing shared styles, generic components, and avoiding XAML redundancy. | avalonia, layout, zafiro | avalonia, layout, zafiro, guidelines, ui, emphasizing, shared, styles, generic, components, avoiding, xaml |
 | `avalonia-zafiro-development` | Mandatory skills, conventions, and behavioral rules for Avalonia UI development using the Zafiro toolkit. | avalonia, zafiro | avalonia, zafiro, development, mandatory, skills, conventions, behavioral, rules, ui, toolkit |
@@ -535,6 +537,7 @@ Total skills: 954
 | `elixir-pro` |  | elixir | elixir, pro |
 | `email-sequence` | When the user wants to create or optimize an email sequence, drip campaign, automated email flow, or lifecycle email program. Also use when the user mentions... | email, sequence | email, sequence, user, wants, optimize, drip, campaign, automated, flow, lifecycle, program, mentions |
 | `energy-procurement` |  | energy, procurement | energy, procurement |
+| `enhance-prompt` | Transforms vague UI ideas into polished, Stitch-optimized prompts. Enhances specificity, adds UI/UX keywords, injects design system context, and structures o... | enhance, prompt | enhance, prompt, transforms, vague, ui, ideas, polished, stitch, optimized, prompts, enhances, specificity |
 | `environment-setup-guide` | Guide developers through setting up development environments with proper tools, dependencies, and configurations | environment, setup | environment, setup, developers, through, setting, up, development, environments, proper, dependencies, configurations |
 | `error-debugging-multi-agent-review` | Use when working with error debugging multi agent review | error, debugging, multi, agent | error, debugging, multi, agent, review, working |
 | `error-detective` |  | error, detective | error, detective |
@@ -644,6 +647,7 @@ Total skills: 954
 | `scala-pro` |  | scala | scala, pro |
 | `schema-markup` |  | schema, markup | schema, markup |
 | `search-specialist` | Expert web researcher using advanced search techniques and | search | search, web, researcher, techniques |
+| `shadcn-ui` | Expert guidance for integrating and building applications with shadcn/ui components, including component discovery, installation, customization, and best pra... | shadcn, ui | shadcn, ui, guidance, integrating, building, applications, components, including, component, discovery, installation, customization |
 | `shader-programming-glsl` | Expert guide for writing efficient GLSL shaders (Vertex/Fragment) for web and game engines, covering syntax, uniforms, and common effects. | shader, programming, glsl | shader, programming, glsl, writing, efficient, shaders, vertex, fragment, web, game, engines, covering |
 | `sharp-edges` | Identify error-prone APIs and dangerous configurations | sharp, edges | sharp, edges, identify, error, prone, apis, dangerous, configurations |
 | `shellcheck-configuration` | Master ShellCheck static analysis configuration and usage for shell script quality. Use when setting up linting infrastructure, fixing code issues, or ensuri... | shellcheck, configuration | shellcheck, configuration, static, analysis, usage, shell, script, quality, setting, up, linting, infrastructure |
@@ -651,6 +655,7 @@ Total skills: 954
 | `shopify-development` |  | shopify | shopify, development |
 | `signup-flow-cro` | When the user wants to optimize signup, registration, account creation, or trial activation flows. Also use when the user mentions "signup conversions," "reg... | signup, flow, cro | signup, flow, cro, user, wants, optimize, registration, account, creation, trial, activation, flows |
 | `skill-creator` | This skill should be used when the user asks to create a new skill, build a skill, make a custom skill, develop a CLI skill, or wants to extend the CLI with ... | [automation, scaffolding, skill-creation, meta-skill] | [automation, scaffolding, skill-creation, meta-skill], skill, creator, should, used, user, asks, new, custom |
+| `skill-forge` | Intelligent skill router and creator. Analyzes ANY input to recommend existing skills, improve them, or create new ones. Uses deep iterative analysis with 11... | skill, forge | skill, forge, skillforge, intelligent, router, creator, analyzes, any, input, recommend, existing, skills |
 | `skill-rails-upgrade` | Analyze Rails apps and provide upgrade assessments | skill, rails, upgrade | skill, rails, upgrade, analyze, apps, provide, assessments |
 | `slack-gif-creator` | Knowledge and utilities for creating animated GIFs optimized for Slack. Provides constraints, validation tools, and animation concepts. Use when users reques... | slack, gif, creator | slack, gif, creator, knowledge, utilities, creating, animated, gifs, optimized, provides, constraints, validation |
 | `social-content` | When the user wants help creating, scheduling, or optimizing social media content for LinkedIn, Twitter/X, Instagram, TikTok, Facebook, or other platforms. A... | social, content | social, content, user, wants, creating, scheduling, optimizing, media, linkedin, twitter, instagram, tiktok |
@@ -862,10 +867,10 @@ Total skills: 954
 | `security-scanning-security-dependencies` | You are a security expert specializing in dependency vulnerability analysis, SBOM generation, and supply chain security. Scan project dependencies across eco... | security, scanning, dependencies | security, scanning, dependencies, specializing, dependency, vulnerability, analysis, sbom, generation, supply, chain, scan |
 | `security-scanning-security-hardening` | Coordinate multi-layer security scanning and hardening across application, infrastructure, and compliance controls. | security, scanning, hardening | security, scanning, hardening, coordinate, multi, layer, application, infrastructure, compliance, controls |
 | `security-scanning-security-sast` |  | security, scanning, sast | security, scanning, sast |
-| `security/aws-compliance-checker` | Automated compliance checking against CIS, PCI-DSS, HIPAA, and SOC 2 benchmarks | [aws, compliance, audit, cis, pci-dss, hipaa, kiro-cli] | [aws, compliance, audit, cis, pci-dss, hipaa, kiro-cli], aws, checker, automated, checking, against |
-| `security/aws-iam-best-practices` | IAM policy review, hardening, and least privilege implementation | [aws, iam, security, access-control, kiro-cli, least-privilege] | [aws, iam, security, access-control, kiro-cli, least-privilege], aws, policy, review, hardening, least, privilege |
-| `security/aws-secrets-rotation` | Automate AWS secrets rotation for RDS, API keys, and credentials | [aws, secrets-manager, security, automation, kiro-cli, credentials] | [aws, secrets-manager, security, automation, kiro-cli, credentials], aws, secrets, rotation, automate, rds, api |
-| `security/aws-security-audit` | Comprehensive AWS security posture assessment using AWS CLI and security best practices | [aws, security, audit, compliance, kiro-cli, security-assessment] | [aws, security, audit, compliance, kiro-cli, security-assessment], aws, posture, assessment, cli |
+| `security\aws-compliance-checker` | Automated compliance checking against CIS, PCI-DSS, HIPAA, and SOC 2 benchmarks | [aws, compliance, audit, cis, pci-dss, hipaa, kiro-cli] | [aws, compliance, audit, cis, pci-dss, hipaa, kiro-cli], aws, checker, automated, checking, against |
+| `security\aws-iam-best-practices` | IAM policy review, hardening, and least privilege implementation | [aws, iam, security, access-control, kiro-cli, least-privilege] | [aws, iam, security, access-control, kiro-cli, least-privilege], aws, policy, review, hardening, least, privilege |
+| `security\aws-secrets-rotation` | Automate AWS secrets rotation for RDS, API keys, and credentials | [aws, secrets-manager, security, automation, kiro-cli, credentials] | [aws, secrets-manager, security, automation, kiro-cli, credentials], aws, secrets, rotation, automate, rds, api |
+| `security\aws-security-audit` | Comprehensive AWS security posture assessment using AWS CLI and security best practices | [aws, security, audit, compliance, kiro-cli, security-assessment] | [aws, security, audit, compliance, kiro-cli, security-assessment], aws, posture, assessment, cli |
 | `seo-forensic-incident-response` | Investigate sudden drops in organic traffic or rankings and run a structured forensic SEO incident response with triage, root-cause analysis and recovery plan. | seo, forensic, incident, response | seo, forensic, incident, response, investigate, sudden, drops, organic, traffic, rankings, run, structured |
 | `service-mesh-expert` | Expert service mesh architect specializing in Istio, Linkerd, and cloud-native networking patterns. Masters traffic management, security policies, observabil... | service, mesh | service, mesh, architect, specializing, istio, linkerd, cloud, native, networking, masters, traffic, security |
 | `solidity-security` | Master smart contract security best practices to prevent common vulnerabilities and implement secure Solidity patterns. Use when writing smart contracts, aud... | solidity, security | solidity, security, smart, contract, prevent, common, vulnerabilities, secure, writing, contracts, auditing, existing |
@@ -920,7 +925,7 @@ Total skills: 954
 | `wordpress-penetration-testing` | This skill should be used when the user asks to "pentest WordPress sites", "scan WordPress for vulnerabilities", "enumerate WordPress users, themes, or plugi... | wordpress, penetration | wordpress, penetration, testing, skill, should, used, user, asks, pentest, sites, scan, vulnerabilities |
 | `xss-html-injection` | This skill should be used when the user asks to "test for XSS vulnerabilities", "perform cross-site scripting attacks", "identify HTML injection flaws", "exp... | xss, html, injection | xss, html, injection, skill, should, used, user, asks, test, vulnerabilities, perform, cross |
 
-## workflow (85)
+## workflow (86)
 
 | Skill | Description | Tags | Triggers |
 | --- | --- | --- | --- |

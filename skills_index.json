@@ -1,7 +1,7 @@
 [
   {
     "id": "00-andruia-consultant",
-    "path": "skills/00-andruia-consultant",
+    "path": "skills\\00-andruia-consultant",
     "category": "andruia",
     "name": "00-andruia-consultant",
     "description": "Arquitecto de Soluciones Principal y Consultor Tecnol\u00f3gico de Andru.ia. Diagnostica y traza la hoja de ruta \u00f3ptima para proyectos de IA en espa\u00f1ol.",
@@ -11,7 +11,7 @@
   },
   {
     "id": "20-andruia-niche-intelligence",
-    "path": "skills/20-andruia-niche-intelligence",
+    "path": "skills\\20-andruia-niche-intelligence",
     "category": "andruia",
     "name": "20-andruia-niche-intelligence",
     "description": "Estratega de Inteligencia de Dominio de Andru.ia. Analiza el nicho espec\u00edfico de un proyecto para inyectar conocimientos, regulaciones y est\u00e1ndares \u00fanicos del sector. Act\u00edvalo tras definir el nicho.",
@@ -201,7 +201,7 @@
   },
   {
     "id": "ai-agent-development",
-    "path": "skills/ai-agent-development",
+    "path": "skills\\ai-agent-development",
     "category": "granular-workflow-bundle",
     "name": "ai-agent-development",
     "description": "AI agent development workflow for building autonomous agents, multi-agent systems, and agent orchestration with CrewAI, LangGraph, and custom agents.",
@@ -231,7 +231,7 @@
   },
   {
     "id": "ai-ml",
-    "path": "skills/ai-ml",
+    "path": "skills\\ai-ml",
     "category": "workflow-bundle",
     "name": "ai-ml",
     "description": "AI and machine learning workflow covering LLM application development, RAG implementation, agent architecture, ML pipelines, and AI-powered features.",
@@ -331,7 +331,7 @@
   },
   {
     "id": "android_ui_verification",
-    "path": "skills/android_ui_verification",
+    "path": "skills\\android_ui_verification",
     "category": "uncategorized",
     "name": "android_ui_verification",
     "description": "Automated end-to-end UI testing and verification on an Android Emulator using ADB.",
@@ -421,7 +421,7 @@
   },
   {
     "id": "api-documentation",
-    "path": "skills/api-documentation",
+    "path": "skills\\api-documentation",
     "category": "granular-workflow-bundle",
     "name": "api-documentation",
     "description": "API documentation workflow for generating OpenAPI specs, creating developer guides, and maintaining comprehensive API documentation.",
@@ -481,7 +481,7 @@
   },
   {
     "id": "api-security-testing",
-    "path": "skills/api-security-testing",
+    "path": "skills\\api-security-testing",
     "category": "granular-workflow-bundle",
     "name": "api-security-testing",
     "description": "API security testing workflow for REST and GraphQL APIs covering authentication, authorization, rate limiting, input validation, and security best practices.",
@@ -621,7 +621,7 @@
   },
   {
     "id": "audio-transcriber",
-    "path": "skills/audio-transcriber",
+    "path": "skills\\audio-transcriber",
     "category": "content",
     "name": "audio-transcriber",
     "description": "Transform audio recordings into professional Markdown documentation with intelligent summaries using LLM integration",
@@ -814,7 +814,7 @@
     "path": "skills\\azure-ai-agents-persistent-java",
     "category": "uncategorized",
     "name": "azure-ai-agents-persistent-java",
-    "description": "Low-level SDK for creating and managing persistent AI agents with threads, messages, runs, and tools.",
+    "description": "Triggers: \"PersistentAgentsClient\", \"persistent agents java\", \"agent threads java\", \"agent runs java\", \"streaming agents java\". metadata: package: com.azure:azure-ai-agents-persistent ---",
     "risk": "unknown",
     "source": "community",
     "date_added": "2026-02-27"
@@ -844,7 +844,7 @@
     "path": "skills\\azure-ai-contentsafety-py",
     "category": "uncategorized",
     "name": "azure-ai-contentsafety-py",
-    "description": "Detect harmful user-generated and AI-generated content in applications.",
+    "description": "Triggers: \"azure-ai-contentsafety\", \"ContentSafetyClient\", \"content moderation\", \"harmful content\", \"text analysis\", \"image analysis\". metadata: package: azure-ai-contentsafety ---",
     "risk": "unknown",
     "source": "community",
     "date_added": "2026-02-27"
@@ -864,7 +864,7 @@
     "path": "skills\\azure-ai-contentunderstanding-py",
     "category": "uncategorized",
     "name": "azure-ai-contentunderstanding-py",
-    "description": "Multimodal AI service that extracts semantic content from documents, video, audio, and image files for RAG and automated workflows.",
+    "description": "Triggers: \"azure-ai-contentunderstanding\", \"ContentUnderstandingClient\", \"multimodal analysis\", \"document extraction\", \"video analysis\", \"audio transcription\". metadata: package: azure-ai-contentunderstanding ---",
     "risk": "unknown",
     "source": "community",
     "date_added": "2026-02-27"
@@ -904,7 +904,7 @@
     "path": "skills\\azure-ai-ml-py",
     "category": "uncategorized",
     "name": "azure-ai-ml-py",
-    "description": "Client library for managing Azure ML resources: workspaces, jobs, models, data, and compute.",
+    "description": "Triggers: \"azure-ai-ml\", \"MLClient\", \"workspace\", \"model registry\", \"training jobs\", \"datasets\". metadata: package: azure-ai-ml ---",
     "risk": "unknown",
     "source": "community",
     "date_added": "2026-02-27"
@@ -934,7 +934,7 @@
     "path": "skills\\azure-ai-projects-java",
     "category": "uncategorized",
     "name": "azure-ai-projects-java",
-    "description": "High-level SDK for Azure AI Foundry project management with access to connections, datasets, indexes, and evaluations.",
+    "description": "Triggers: \"AIProjectClient java\", \"azure ai projects java\", \"Foundry project java\", \"ConnectionsClient\", \"DatasetsClient\", \"IndexesClient\". metadata: package: com.azure:azure-ai-projects ---",
     "risk": "unknown",
     "source": "community",
     "date_added": "2026-02-27"
@@ -964,7 +964,7 @@
     "path": "skills\\azure-ai-textanalytics-py",
     "category": "uncategorized",
     "name": "azure-ai-textanalytics-py",
-    "description": "Client library for Azure AI Language service NLP capabilities including sentiment, entities, key phrases, and more.",
+    "description": "Triggers: \"text analytics\", \"sentiment analysis\", \"entity recognition\", \"key phrase\", \"PII detection\", \"TextAnalyticsClient\". metadata: package: azure-ai-textanalytics ---",
     "risk": "unknown",
     "source": "community",
     "date_added": "2026-02-27"
@@ -974,7 +974,7 @@
     "path": "skills\\azure-ai-transcription-py",
     "category": "uncategorized",
     "name": "azure-ai-transcription-py",
-    "description": "Client library for Azure AI Transcription (speech-to-text) with real-time and batch transcription.",
+    "description": "Triggers: \"transcription\", \"speech to text\", \"Azure AI Transcription\", \"TranscriptionClient\". metadata: package: azure-ai-transcription ---",
     "risk": "unknown",
     "source": "community",
     "date_added": "2026-02-27"
@@ -984,7 +984,7 @@
     "path": "skills\\azure-ai-translation-document-py",
     "category": "uncategorized",
     "name": "azure-ai-translation-document-py",
-    "description": "Client library for Azure AI Translator document translation service for batch document translation with format preservation.",
+    "description": "Triggers: \"document translation\", \"batch translation\", \"translate documents\", \"DocumentTranslationClient\". metadata: package: azure-ai-translation-document ---",
     "risk": "unknown",
     "source": "community",
     "date_added": "2026-02-27"
@@ -994,7 +994,7 @@
     "path": "skills\\azure-ai-translation-text-py",
     "category": "uncategorized",
     "name": "azure-ai-translation-text-py",
-    "description": "Client library for Azure AI Translator text translation service for real-time text translation, transliteration, and language operations.",
+    "description": "Triggers: \"text translation\", \"translator\", \"translate text\", \"transliterate\", \"TextTranslationClient\". metadata: package: azure-ai-translation-text ---",
     "risk": "unknown",
     "source": "community",
     "date_added": "2026-02-27"
@@ -1024,7 +1024,7 @@
     "path": "skills\\azure-ai-vision-imageanalysis-py",
     "category": "uncategorized",
     "name": "azure-ai-vision-imageanalysis-py",
-    "description": "Client library for Azure AI Vision 4.0 image analysis including captions, tags, objects, OCR, and more.",
+    "description": "Triggers: \"image analysis\", \"computer vision\", \"OCR\", \"object detection\", \"ImageAnalysisClient\", \"image caption\". metadata: package: azure-ai-vision-imageanalysis ---",
     "risk": "unknown",
     "source": "community",
     "date_added": "2026-02-27"
@@ -1044,7 +1044,7 @@
     "path": "skills\\azure-ai-voicelive-java",
     "category": "uncategorized",
     "name": "azure-ai-voicelive-java",
-    "description": "Real-time, bidirectional voice conversations with AI assistants using WebSocket technology.",
+    "description": "Triggers: \"VoiceLiveClient java\", \"voice assistant java\", \"real-time voice java\", \"audio streaming java\", \"voice activity detection java\". metadata: package: com.azure:azure-ai-voicelive ---",
     "risk": "unknown",
     "source": "community",
     "date_added": "2026-02-27"
@@ -1074,7 +1074,7 @@
     "path": "skills\\azure-appconfiguration-java",
     "category": "uncategorized",
     "name": "azure-appconfiguration-java",
-    "description": "Client library for Azure App Configuration, a managed service for centralizing application configurations.",
+    "description": "Triggers: \"ConfigurationClient java\", \"app configuration java\", \"feature flag java\", \"configuration setting java\", \"azure config java\". metadata: package: com.azure:azure-data-appconfiguration ---",
     "risk": "unknown",
     "source": "community",
     "date_added": "2026-02-27"
@@ -1084,7 +1084,7 @@
     "path": "skills\\azure-appconfiguration-py",
     "category": "uncategorized",
     "name": "azure-appconfiguration-py",
-    "description": "Centralized configuration management with feature flags and dynamic settings.",
+    "description": "Triggers: \"azure-appconfiguration\", \"AzureAppConfigurationClient\", \"feature flags\", \"configuration\", \"key-value settings\". metadata: package: azure-appconfiguration ---",
     "risk": "unknown",
     "source": "community",
     "date_added": "2026-02-27"
@@ -1164,7 +1164,7 @@
     "path": "skills\\azure-containerregistry-py",
     "category": "uncategorized",
     "name": "azure-containerregistry-py",
-    "description": "Manage container images, artifacts, and repositories in Azure Container Registry.",
+    "description": "Triggers: \"azure-containerregistry\", \"ContainerRegistryClient\", \"container images\", \"docker registry\", \"ACR\". metadata: package: azure-containerregistry ---",
     "risk": "unknown",
     "source": "community",
     "date_added": "2026-02-27"
@@ -1184,7 +1184,7 @@
     "path": "skills\\azure-cosmos-java",
     "category": "uncategorized",
     "name": "azure-cosmos-java",
-    "description": "Client library for Azure Cosmos DB NoSQL API with global distribution and reactive patterns.",
+    "description": "Triggers: \"CosmosClient java\", \"CosmosAsyncClient\", \"cosmos database java\", \"cosmosdb java\", \"document database java\". metadata: package: azure-cosmos ---",
     "risk": "unknown",
     "source": "community",
     "date_added": "2026-02-27"
@@ -1194,7 +1194,7 @@
     "path": "skills\\azure-cosmos-py",
     "category": "uncategorized",
     "name": "azure-cosmos-py",
-    "description": "Client library for Azure Cosmos DB NoSQL API \u2014 globally distributed, multi-model database.",
+    "description": "Triggers: \"cosmos db\", \"CosmosClient\", \"container\", \"document\", \"NoSQL\", \"partition key\". metadata: package: azure-cosmos ---",
     "risk": "unknown",
     "source": "community",
     "date_added": "2026-02-27"
@@ -1204,7 +1204,7 @@
     "path": "skills\\azure-cosmos-rust",
     "category": "uncategorized",
     "name": "azure-cosmos-rust",
-    "description": "Client library for Azure Cosmos DB NoSQL API \u2014 globally distributed, multi-model database.",
+    "description": "Triggers: \"cosmos db rust\", \"CosmosClient rust\", \"container\", \"document rust\", \"NoSQL rust\", \"partition key\". metadata: package: azure_data_cosmos ---",
     "risk": "unknown",
     "source": "community",
     "date_added": "2026-02-27"
@@ -1234,7 +1234,7 @@
     "path": "skills\\azure-data-tables-py",
     "category": "uncategorized",
     "name": "azure-data-tables-py",
-    "description": "NoSQL key-value store for structured data (Azure Storage Tables or Cosmos DB Table API).",
+    "description": "Triggers: \"table storage\", \"TableServiceClient\", \"TableClient\", \"entities\", \"PartitionKey\", \"RowKey\". metadata: package: azure-data-tables ---",
     "risk": "unknown",
     "source": "community",
     "date_added": "2026-02-27"
@@ -1264,7 +1264,7 @@
     "path": "skills\\azure-eventgrid-py",
     "category": "uncategorized",
     "name": "azure-eventgrid-py",
-    "description": "Event routing service for building event-driven applications with pub/sub semantics.",
+    "description": "Triggers: \"event grid\", \"EventGridPublisherClient\", \"CloudEvent\", \"EventGridEvent\", \"publish events\". metadata: package: azure-eventgrid ---",
     "risk": "unknown",
     "source": "community",
     "date_added": "2026-02-27"
@@ -1294,7 +1294,7 @@
     "path": "skills\\azure-eventhub-py",
     "category": "uncategorized",
     "name": "azure-eventhub-py",
-    "description": "Big data streaming platform for high-throughput event ingestion.",
+    "description": "Triggers: \"event hubs\", \"EventHubProducerClient\", \"EventHubConsumerClient\", \"streaming\", \"partitions\". metadata: package: azure-eventhub ---",
     "risk": "unknown",
     "source": "community",
     "date_added": "2026-02-27"
@@ -1304,7 +1304,7 @@
     "path": "skills\\azure-eventhub-rust",
     "category": "uncategorized",
     "name": "azure-eventhub-rust",
-    "description": "Client library for Azure Event Hubs \u2014 big data streaming platform and event ingestion service.",
+    "description": "Triggers: \"event hubs rust\", \"ProducerClient rust\", \"ConsumerClient rust\", \"send event rust\", \"streaming rust\". metadata: package: azure_messaging_eventhubs ---",
     "risk": "unknown",
     "source": "community",
     "date_added": "2026-02-27"
@@ -1354,7 +1354,7 @@
     "path": "skills\\azure-identity-py",
     "category": "uncategorized",
     "name": "azure-identity-py",
-    "description": "Authentication library for Azure SDK clients using Microsoft Entra ID (formerly Azure AD).",
+    "description": "Triggers: \"azure-identity\", \"DefaultAzureCredential\", \"authentication\", \"managed identity\", \"service principal\", \"credential\". metadata: package: azure-identity ---",
     "risk": "unknown",
     "source": "community",
     "date_added": "2026-02-27"
@@ -1364,7 +1364,7 @@
     "path": "skills\\azure-identity-rust",
     "category": "uncategorized",
     "name": "azure-identity-rust",
-    "description": "Authentication library for Azure SDK clients using Microsoft Entra ID (formerly Azure AD).",
+    "description": "Triggers: \"azure-identity\", \"DeveloperToolsCredential\", \"authentication rust\", \"managed identity rust\", \"credential rust\". metadata: package: azure_identity ---",
     "risk": "unknown",
     "source": "community",
     "date_added": "2026-02-27"
@@ -1384,7 +1384,7 @@
     "path": "skills\\azure-keyvault-certificates-rust",
     "category": "uncategorized",
     "name": "azure-keyvault-certificates-rust",
-    "description": "Client library for Azure Key Vault Certificates \u2014 secure storage and management of certificates.",
+    "description": "Triggers: \"keyvault certificates rust\", \"CertificateClient rust\", \"create certificate rust\", \"import certificate rust\". metadata: package: azure_security_keyvault_certificates ---",
     "risk": "unknown",
     "source": "community",
     "date_added": "2026-02-27"
@@ -1394,7 +1394,7 @@
     "path": "skills\\azure-keyvault-keys-rust",
     "category": "uncategorized",
     "name": "azure-keyvault-keys-rust",
-    "description": "Client library for Azure Key Vault Keys \u2014 secure storage and management of cryptographic keys.",
+    "description": "Triggers: \"keyvault keys rust\", \"KeyClient rust\", \"create key rust\", \"encrypt rust\", \"sign rust\". metadata: package: azure_security_keyvault_keys ---",
     "risk": "unknown",
     "source": "community",
     "date_added": "2026-02-27"
@@ -1414,7 +1414,7 @@
     "path": "skills\\azure-keyvault-py",
     "category": "uncategorized",
     "name": "azure-keyvault-py",
-    "description": "Secure storage and management for secrets, cryptographic keys, and certificates.",
+    "description": "Triggers: \"key vault\", \"SecretClient\", \"KeyClient\", \"CertificateClient\", \"secrets\", \"encryption keys\". metadata: package: azure-keyvault-secrets, azure-keyvault-keys, azure-keyvault-certificates ---",
     "risk": "unknown",
     "source": "community",
     "date_added": "2026-02-27"
@@ -1424,7 +1424,7 @@
     "path": "skills\\azure-keyvault-secrets-rust",
     "category": "uncategorized",
     "name": "azure-keyvault-secrets-rust",
-    "description": "Client library for Azure Key Vault Secrets \u2014 secure storage for passwords, API keys, and other secrets.",
+    "description": "Triggers: \"keyvault secrets rust\", \"SecretClient rust\", \"get secret rust\", \"set secret rust\". metadata: package: azure_security_keyvault_secrets ---",
     "risk": "unknown",
     "source": "community",
     "date_added": "2026-02-27"
@@ -1464,7 +1464,7 @@
     "path": "skills\\azure-messaging-webpubsubservice-py",
     "category": "uncategorized",
     "name": "azure-messaging-webpubsubservice-py",
-    "description": "Real-time messaging with WebSocket connections at scale.",
+    "description": "Triggers: \"azure-messaging-webpubsubservice\", \"WebPubSubServiceClient\", \"real-time\", \"WebSocket\", \"pub/sub\". metadata: package: azure-messaging-webpubsubservice ---",
     "risk": "unknown",
     "source": "community",
     "date_added": "2026-02-27"
@@ -1484,7 +1484,7 @@
     "path": "skills\\azure-mgmt-apicenter-py",
     "category": "uncategorized",
     "name": "azure-mgmt-apicenter-py",
-    "description": "Manage API inventory, metadata, and governance in Azure API Center.",
+    "description": "Triggers: \"azure-mgmt-apicenter\", \"ApiCenterMgmtClient\", \"API Center\", \"API inventory\", \"API governance\". metadata: package: azure-mgmt-apicenter ---",
     "risk": "unknown",
     "source": "community",
     "date_added": "2026-02-27"
@@ -1504,7 +1504,7 @@
     "path": "skills\\azure-mgmt-apimanagement-py",
     "category": "uncategorized",
     "name": "azure-mgmt-apimanagement-py",
-    "description": "Manage Azure API Management services, APIs, products, and policies.",
+    "description": "Triggers: \"azure-mgmt-apimanagement\", \"ApiManagementClient\", \"APIM\", \"API gateway\", \"API Management\". metadata: package: azure-mgmt-apimanagement ---",
     "risk": "unknown",
     "source": "community",
     "date_added": "2026-02-27"
@@ -1524,7 +1524,7 @@
     "path": "skills\\azure-mgmt-arizeaiobservabilityeval-dotnet",
     "category": "uncategorized",
     "name": "azure-mgmt-arizeaiobservabilityeval-dotnet",
-    "description": ".NET SDK for managing Arize AI Observability and Evaluation resources on Azure.",
+    "description": "on Azure via Azure Marketplace, creating/updating/deleting Arize resources, or integrating Arize ML observability",
     "risk": "unknown",
     "source": "community",
     "date_added": "2026-02-27"
@@ -1604,7 +1604,7 @@
     "path": "skills\\azure-monitor-ingestion-java",
     "category": "uncategorized",
     "name": "azure-monitor-ingestion-java",
-    "description": "Client library for sending custom logs to Azure Monitor using the Logs Ingestion API via Data Collection Rules.",
+    "description": "Triggers: \"LogsIngestionClient java\", \"azure monitor ingestion java\", \"custom logs java\", \"DCR java\", \"data collection rule java\". metadata: package: com.azure:azure-monitor-ingestion ---",
     "risk": "unknown",
     "source": "community",
     "date_added": "2026-02-27"
@@ -1614,7 +1614,7 @@
     "path": "skills\\azure-monitor-ingestion-py",
     "category": "uncategorized",
     "name": "azure-monitor-ingestion-py",
-    "description": "Send custom logs to Azure Monitor Log Analytics workspace using the Logs Ingestion API.",
+    "description": "Triggers: \"azure-monitor-ingestion\", \"LogsIngestionClient\", \"custom logs\", \"DCR\", \"data collection rule\", \"Log Analytics\". metadata: package: azure-monitor-ingestion ---",
     "risk": "unknown",
     "source": "community",
     "date_added": "2026-02-27"
@@ -1624,7 +1624,7 @@
     "path": "skills\\azure-monitor-opentelemetry-exporter-java",
     "category": "uncategorized",
     "name": "azure-monitor-opentelemetry-exporter-java",
-    "description": "> **\u26a0\ufe0f DEPRECATION NOTICE**: This package is deprecated. Migrate to `azure-monitor-opentelemetry-autoconfigure`. > > See [Migration Guide](https://github.com/Azure/azure-sdk-for-java/blob/main/sdk/monitor/azure-monitor-opentelemetry-exporter/MIGRATIO",
+    "description": "Triggers: \"AzureMonitorExporter java\", \"opentelemetry azure java\", \"application insights java otel\", \"azure monitor tracing java\".",
     "risk": "unknown",
     "source": "community",
     "date_added": "2026-02-27"
@@ -1634,7 +1634,7 @@
     "path": "skills\\azure-monitor-opentelemetry-exporter-py",
     "category": "uncategorized",
     "name": "azure-monitor-opentelemetry-exporter-py",
-    "description": "Low-level exporter for sending OpenTelemetry traces, metrics, and logs to Application Insights.",
+    "description": "Triggers: \"azure-monitor-opentelemetry-exporter\", \"AzureMonitorTraceExporter\", \"AzureMonitorMetricExporter\", \"AzureMonitorLogExporter\". metadata: package: azure-monitor-opentelemetry-exporter ---",
     "risk": "unknown",
     "source": "community",
     "date_added": "2026-02-27"
@@ -1644,7 +1644,7 @@
     "path": "skills\\azure-monitor-opentelemetry-py",
     "category": "uncategorized",
     "name": "azure-monitor-opentelemetry-py",
-    "description": "One-line setup for Application Insights with OpenTelemetry auto-instrumentation.",
+    "description": "Triggers: \"azure-monitor-opentelemetry\", \"configure_azure_monitor\", \"Application Insights\", \"OpenTelemetry distro\", \"auto-instrumentation\". metadata: package: azure-monitor-opentelemetry ---",
     "risk": "unknown",
     "source": "community",
     "date_added": "2026-02-27"
@@ -1664,7 +1664,7 @@
     "path": "skills\\azure-monitor-query-java",
     "category": "uncategorized",
     "name": "azure-monitor-query-java",
-    "description": "> **DEPRECATION NOTICE**: This package is deprecated in favor of: > - `azure-monitor-query-logs` \u2014 For Log Analytics queries > - `azure-monitor-query-metrics` \u2014 For metrics queries > > See migration guides: [Logs Migration](https://github.com/Azure/a",
+    "description": "Triggers: \"LogsQueryClient java\", \"MetricsQueryClient java\", \"kusto query java\", \"log analytics java\", \"azure monitor query java\".",
     "risk": "unknown",
     "source": "community",
     "date_added": "2026-02-27"
@@ -1674,7 +1674,7 @@
     "path": "skills\\azure-monitor-query-py",
     "category": "uncategorized",
     "name": "azure-monitor-query-py",
-    "description": "Query logs and metrics from Azure Monitor and Log Analytics workspaces.",
+    "description": "Triggers: \"azure-monitor-query\", \"LogsQueryClient\", \"MetricsQueryClient\", \"Log Analytics\", \"Kusto queries\", \"Azure metrics\". metadata: package: azure-monitor-query ---",
     "risk": "unknown",
     "source": "community",
     "date_added": "2026-02-27"
@@ -1774,7 +1774,7 @@
     "path": "skills\\azure-search-documents-py",
     "category": "uncategorized",
     "name": "azure-search-documents-py",
-    "description": "Full-text, vector, and hybrid search with AI enrichment capabilities.",
+    "description": "Triggers: \"azure-search-documents\", \"SearchClient\", \"SearchIndexClient\", \"vector search\", \"hybrid search\", \"semantic search\". metadata: package: azure-search-documents ---",
     "risk": "unknown",
     "source": "community",
     "date_added": "2026-02-27"
@@ -1834,7 +1834,7 @@
     "path": "skills\\azure-servicebus-py",
     "category": "uncategorized",
     "name": "azure-servicebus-py",
-    "description": "Enterprise messaging for reliable cloud communication with queues and pub/sub topics.",
+    "description": "Triggers: \"service bus\", \"ServiceBusClient\", \"queue\", \"topic\", \"subscription\", \"message broker\". metadata: package: azure-servicebus ---",
     "risk": "unknown",
     "source": "community",
     "date_added": "2026-02-27"
@@ -1874,7 +1874,7 @@
     "path": "skills\\azure-storage-blob-py",
     "category": "uncategorized",
     "name": "azure-storage-blob-py",
-    "description": "Client library for Azure Blob Storage \u2014 object storage for unstructured data.",
+    "description": "Triggers: \"blob storage\", \"BlobServiceClient\", \"ContainerClient\", \"BlobClient\", \"upload blob\", \"download blob\". metadata: package: azure-storage-blob ---",
     "risk": "unknown",
     "source": "community",
     "date_added": "2026-02-27"
@@ -1884,7 +1884,7 @@
     "path": "skills\\azure-storage-blob-rust",
     "category": "uncategorized",
     "name": "azure-storage-blob-rust",
-    "description": "Client library for Azure Blob Storage \u2014 Microsoft's object storage solution for the cloud.",
+    "description": "Triggers: \"blob storage rust\", \"BlobClient rust\", \"upload blob rust\", \"download blob rust\", \"container rust\". metadata: package: azure_storage_blob ---",
     "risk": "unknown",
     "source": "community",
     "date_added": "2026-02-27"
@@ -1904,7 +1904,7 @@
     "path": "skills\\azure-storage-file-datalake-py",
     "category": "uncategorized",
     "name": "azure-storage-file-datalake-py",
-    "description": "Hierarchical file system for big data analytics workloads.",
+    "description": "Triggers: \"data lake\", \"DataLakeServiceClient\", \"FileSystemClient\", \"ADLS Gen2\", \"hierarchical namespace\". metadata: package: azure-storage-file-datalake ---",
     "risk": "unknown",
     "source": "community",
     "date_added": "2026-02-27"
@@ -1934,7 +1934,7 @@
     "path": "skills\\azure-storage-queue-py",
     "category": "uncategorized",
     "name": "azure-storage-queue-py",
-    "description": "Simple, cost-effective message queuing for asynchronous communication.",
+    "description": "Triggers: \"queue storage\", \"QueueServiceClient\", \"QueueClient\", \"message queue\", \"dequeue\". metadata: package: azure-storage-queue ---",
     "risk": "unknown",
     "source": "community",
     "date_added": "2026-02-27"
@@ -2021,7 +2021,7 @@
   },
   {
     "id": "base",
-    "path": "skills/libreoffice/base",
+    "path": "skills\\libreoffice\\base",
     "category": "database-processing",
     "name": "base",
     "description": "Database management, forms, reports, and data operations with LibreOffice Base.",
@@ -2071,7 +2071,7 @@
   },
   {
     "id": "bash-scripting",
-    "path": "skills/bash-scripting",
+    "path": "skills\\bash-scripting",
     "category": "granular-workflow-bundle",
     "name": "bash-scripting",
     "description": "Bash scripting workflow for creating production-ready shell scripts with defensive patterns, error handling, and testing.",
@@ -2381,7 +2381,7 @@
   },
   {
     "id": "calc",
-    "path": "skills/libreoffice/calc",
+    "path": "skills\\libreoffice\\calc",
     "category": "spreadsheet-processing",
     "name": "calc",
     "description": "Spreadsheet creation, format conversion (ODS/XLSX/CSV), formulas, data automation with LibreOffice Calc.",
@@ -2681,7 +2681,7 @@
   },
   {
     "id": "cloud-devops",
-    "path": "skills/cloud-devops",
+    "path": "skills\\cloud-devops",
     "category": "workflow-bundle",
     "name": "cloud-devops",
     "description": "Cloud infrastructure and DevOps workflow covering AWS, Azure, GCP, Kubernetes, Terraform, CI/CD, monitoring, and cloud-native development.",
@@ -3021,7 +3021,7 @@
   },
   {
     "id": "content-creator",
-    "path": "skills/content-creator",
+    "path": "skills\\content-creator",
     "category": "marketing",
     "name": "content-creator",
     "description": "Create SEO-optimized marketing content with consistent brand voice. Includes brand voice analyzer, SEO optimizer, content frameworks, and social media templates. Use when writing blog posts, creati...",
@@ -3161,7 +3161,7 @@
   },
   {
     "id": "convex",
-    "path": "skills/convex",
+    "path": "skills\\convex",
     "category": "uncategorized",
     "name": "convex",
     "description": "Convex reactive backend expert: schema design, TypeScript functions, real-time subscriptions, auth, file storage, scheduling, and deployment.",
@@ -3391,7 +3391,7 @@
   },
   {
     "id": "database",
-    "path": "skills/database",
+    "path": "skills\\database",
     "category": "workflow-bundle",
     "name": "database",
     "description": "Database development and operations workflow covering SQL, NoSQL, database design, migrations, optimization, and data engineering.",
@@ -3691,7 +3691,7 @@
   },
   {
     "id": "development",
-    "path": "skills/development",
+    "path": "skills\\development",
     "category": "workflow-bundle",
     "name": "development",
     "description": "Comprehensive web, mobile, and backend development workflow bundling frontend, backend, full-stack, and mobile development skills for end-to-end application delivery.",
@@ -3781,7 +3781,7 @@
   },
   {
     "id": "docker-expert",
-    "path": "skills/docker-expert",
+    "path": "skills\\docker-expert",
     "category": "devops",
     "name": "docker-expert",
     "description": "Docker containerization expert with deep knowledge of multi-stage builds, image optimization, container security, Docker Compose orchestration, and production deployment patterns. Use PROACTIVELY f...",
@@ -3801,7 +3801,7 @@
   },
   {
     "id": "documentation",
-    "path": "skills/documentation",
+    "path": "skills\\documentation",
     "category": "workflow-bundle",
     "name": "documentation",
     "description": "Documentation generation workflow covering API docs, architecture docs, README files, code comments, and technical writing.",
@@ -3891,7 +3891,7 @@
   },
   {
     "id": "draw",
-    "path": "skills/libreoffice/draw",
+    "path": "skills\\libreoffice\\draw",
     "category": "graphics-processing",
     "name": "draw",
     "description": "Vector graphics and diagram creation, format conversion (ODG/SVG/PDF) with LibreOffice Draw.",
@@ -3921,7 +3921,7 @@
   },
   {
     "id": "e2e-testing",
-    "path": "skills/e2e-testing",
+    "path": "skills\\e2e-testing",
     "category": "granular-workflow-bundle",
     "name": "e2e-testing",
     "description": "End-to-end testing workflow with Playwright for browser automation, visual regression, cross-browser testing, and CI/CD integration.",
@@ -3998,6 +3998,16 @@
     "risk": "safe",
     "source": "https://github.com/ai-evos/agent-skills",
     "date_added": "2026-02-27"
+  },
+  {
+    "id": "enhance-prompt",
+    "path": "skills\\enhance-prompt",
+    "category": "uncategorized",
+    "name": "enhance-prompt",
+    "description": "Transforms vague UI ideas into polished, Stitch-optimized prompts. Enhances specificity, adds UI/UX keywords, injects design system context, and structures output for better generation results.",
+    "risk": "unknown",
+    "source": "unknown",
+    "date_added": null
   },
   {
     "id": "environment-setup-guide",
@@ -4941,7 +4951,7 @@
   },
   {
     "id": "hierarchical-agent-memory",
-    "path": "skills/hierarchical-agent-memory",
+    "path": "skills\\hierarchical-agent-memory",
     "category": "uncategorized",
     "name": "hierarchical-agent-memory",
     "description": "Scoped CLAUDE.md memory system that reduces context token spend. Creates directory-level context files, tracks savings via dashboard, and routes agents to the right sub-context.",
@@ -5221,7 +5231,7 @@
   },
   {
     "id": "impress",
-    "path": "skills/libreoffice/impress",
+    "path": "skills\\libreoffice\\impress",
     "category": "presentation-processing",
     "name": "impress",
     "description": "Presentation creation, format conversion (ODP/PPTX/PDF), slide automation with LibreOffice Impress.",
@@ -5521,7 +5531,7 @@
   },
   {
     "id": "kubernetes-deployment",
-    "path": "skills/kubernetes-deployment",
+    "path": "skills\\kubernetes-deployment",
     "category": "granular-workflow-bundle",
     "name": "kubernetes-deployment",
     "description": "Kubernetes deployment workflow for container orchestration, Helm charts, service mesh, and production-ready K8s configurations.",
@@ -5701,7 +5711,7 @@
   },
   {
     "id": "linux-troubleshooting",
-    "path": "skills/linux-troubleshooting",
+    "path": "skills\\linux-troubleshooting",
     "category": "granular-workflow-bundle",
     "name": "linux-troubleshooting",
     "description": "Linux system troubleshooting workflow for diagnosing and resolving system issues, performance problems, and service failures.",
@@ -5761,7 +5771,7 @@
   },
   {
     "id": "local-legal-seo-audit",
-    "path": "skills/local-legal-seo-audit",
+    "path": "skills\\local-legal-seo-audit",
     "category": "uncategorized",
     "name": "local-legal-seo-audit",
     "description": "Audit and improve local SEO for law firms, attorneys, forensic experts and legal/professional services sites with local presence, focusing on GBP, directories, E-E-A-T and practice/location pages.",
@@ -5936,7 +5946,8 @@
     "name": "mcp-superpowers",
     "description": "Intelligent integration of external capabilities via the awesome-mcp-servers catalog. Detects capability gaps, looks up MCP servers, and automates their setup in .gemini/mcp_config.json.",
     "risk": "unknown",
-    "source": "unknown"
+    "source": "unknown",
+    "date_added": null
   },
   {
     "id": "memory-forensics",
@@ -6245,7 +6256,8 @@
     "name": "n8n-code-javascript",
     "description": "Write JavaScript code in n8n Code nodes. Use when writing JavaScript in n8n, using $input/$json/$node syntax, making HTTP requests with $helpers, working with dates using DateTime, troubleshooting Code node errors, or choosing between Code node modes.",
     "risk": "unknown",
-    "source": "unknown"
+    "source": "unknown",
+    "date_added": null
   },
   {
     "id": "n8n-code-python",
@@ -6256,6 +6268,16 @@
     "risk": "safe",
     "source": "https://github.com/czlonkowski/n8n-skills/tree/main/skills/n8n-code-python",
     "date_added": "2026-02-27"
+  },
+  {
+    "id": "n8n-expression-syntax",
+    "path": "skills\\n8n-expression-syntax",
+    "category": "uncategorized",
+    "name": "n8n-expression-syntax",
+    "description": "Validate n8n expression syntax and fix common errors. Use when writing n8n expressions, using {{}} syntax, accessing $json/$node variables, troubleshooting expression errors, or working with webhook data in workflows.",
+    "risk": "unknown",
+    "source": "unknown",
+    "date_added": null
   },
   {
     "id": "n8n-mcp-tools-expert",
@@ -6276,6 +6298,26 @@
     "risk": "safe",
     "source": "https://github.com/czlonkowski/n8n-skills/tree/main/skills/n8n-node-configuration",
     "date_added": "2026-02-27"
+  },
+  {
+    "id": "n8n-validation-expert",
+    "path": "skills\\n8n-validation-expert",
+    "category": "uncategorized",
+    "name": "n8n-validation-expert",
+    "description": "Interpret validation errors and guide fixing them. Use when encountering validation errors, validation warnings, false positives, operator structure issues, or need help understanding validation results. Also use when asking about validation profiles, error types, or the validation loop process.",
+    "risk": "unknown",
+    "source": "unknown",
+    "date_added": null
+  },
+  {
+    "id": "n8n-workflow-patterns",
+    "path": "skills\\n8n-workflow-patterns",
+    "category": "uncategorized",
+    "name": "n8n-workflow-patterns",
+    "description": "Proven workflow architectural patterns from real n8n workflows. Use when building new workflows, designing workflow structure, choosing workflow patterns, planning workflow architecture, or asking about webhook processing, HTTP API integration, database operations, AI agent workflows, or scheduled tasks.",
+    "risk": "unknown",
+    "source": "unknown",
+    "date_added": null
   },
   {
     "id": "nanobanana-ppt-skills",
@@ -6319,7 +6361,7 @@
   },
   {
     "id": "nestjs-expert",
-    "path": "skills/nestjs-expert",
+    "path": "skills\\nestjs-expert",
     "category": "framework",
     "name": "nestjs-expert",
     "description": "Nest.js framework expert specializing in module architecture, dependency injection, middleware, guards, interceptors, testing with Jest/Supertest, TypeORM/Mongoose integration, and Passport.js auth...",
@@ -6509,7 +6551,7 @@
   },
   {
     "id": "office-productivity",
-    "path": "skills/office-productivity",
+    "path": "skills\\office-productivity",
     "category": "workflow-bundle",
     "name": "office-productivity",
     "description": "Office productivity workflow covering document creation, spreadsheet automation, presentation generation, and integration with LibreOffice and Microsoft Office formats.",
@@ -6559,7 +6601,7 @@
   },
   {
     "id": "os-scripting",
-    "path": "skills/os-scripting",
+    "path": "skills\\os-scripting",
     "category": "workflow-bundle",
     "name": "os-scripting",
     "description": "Operating system and shell scripting troubleshooting workflow for Linux, macOS, and Windows. Covers bash scripting, system administration, debugging, and automation.",
@@ -6879,7 +6921,7 @@
   },
   {
     "id": "postgresql-optimization",
-    "path": "skills/postgresql-optimization",
+    "path": "skills\\postgresql-optimization",
     "category": "granular-workflow-bundle",
     "name": "postgresql-optimization",
     "description": "PostgreSQL database optimization workflow for query tuning, indexing strategies, performance analysis, and production database management.",
@@ -7039,7 +7081,7 @@
   },
   {
     "id": "prompt-engineer",
-    "path": "skills/prompt-engineer",
+    "path": "skills\\prompt-engineer",
     "category": "automation",
     "name": "prompt-engineer",
     "description": "Transforms user prompts into optimized prompts using frameworks (RTF, RISEN, Chain of Thought, RODES, Chain of Density, RACE, RISE, STAR, SOAP, CLEAR, GROW)",
@@ -7119,7 +7161,7 @@
   },
   {
     "id": "python-fastapi-development",
-    "path": "skills/python-fastapi-development",
+    "path": "skills\\python-fastapi-development",
     "category": "granular-workflow-bundle",
     "name": "python-fastapi-development",
     "description": "Python FastAPI backend development with async patterns, SQLAlchemy, Pydantic, authentication, and production API patterns.",
@@ -7219,7 +7261,7 @@
   },
   {
     "id": "rag-implementation",
-    "path": "skills/rag-implementation",
+    "path": "skills\\rag-implementation",
     "category": "granular-workflow-bundle",
     "name": "rag-implementation",
     "description": "RAG (Retrieval-Augmented Generation) implementation workflow covering embedding selection, vector database setup, chunking strategies, and retrieval optimization.",
@@ -7279,7 +7321,7 @@
   },
   {
     "id": "react-nextjs-development",
-    "path": "skills/react-nextjs-development",
+    "path": "skills\\react-nextjs-development",
     "category": "granular-workflow-bundle",
     "name": "react-nextjs-development",
     "description": "React and Next.js 14+ application development with App Router, Server Components, TypeScript, Tailwind CSS, and modern frontend patterns.",
@@ -7324,7 +7366,8 @@
     "name": "react:components",
     "description": "Converts Stitch designs into modular Vite and React components using system-level networking and AST-based validation.",
     "risk": "unknown",
-    "source": "unknown"
+    "source": "unknown",
+    "date_added": null
   },
   {
     "id": "readme",
@@ -7403,7 +7446,8 @@
     "name": "remotion",
     "description": "Generate walkthrough videos from Stitch projects using Remotion with smooth transitions, zooming, and text overlays",
     "risk": "unknown",
-    "source": "unknown"
+    "source": "unknown",
+    "date_added": null
   },
   {
     "id": "remotion-best-practices",
@@ -7512,7 +7556,8 @@
     "name": "rust-ffmpeg",
     "description": "Use when user asks to implement, evaluate, compare, select, or migrate Rust code for: video processing, audio processing, media conversion, multimedia handling. Triggers: (1) 'Rust function' + video/audio/media/mp4/mp3/wav/flac/mkv/avi/mov, (2) 'implement'/'write'/'create' + extract audio/convert video/transcode/encode/decode, (3) struct/trait design for media processing (VideoProcessor, MediaInfo, FilterGraph, TranscodeTask, AudioResampler, StreamReader, FrameConverter), (4) FFmpeg terms: AVPacket, AVFrame, IOContext, filter graph, loudnorm, overlay, mux, demux, remux, (5) media operations: extract audio, convert to mp4, resize video, trim video, merge videos, add watermark, generate thumbnail, batch convert, normalize audio, (6) batch/bulk: 'all .wav/.mp3/.mp4 files', 'batch transcode', 'convert all', 'bulk convert', (7) media inspection: detect/check video/audio stream, has audio, video duration, video resolution, stream info, codec info, media metadata, (8) video effects: GIF generation, screenshot/frame capture, rotate video, fade in/out, crop/cropdetect, mono to stereo, PSNR quality, showwaves visualization, (9) low-level: memory read/write, shared memory, ref_counted_frames, send_packet, avformat_find_stream_info, CodecID, ffmpeg::Error, av_log callback, EAGAIN handling, (10) async/concurrent: async transcode, progress callback, thread pool, retry logic, timeout, watchdog, (11) streaming: RTMP, HLS, live stream, broadcast, jitter buffer, latency, real-time, (12) hardware acceleration: GPU, NVENC, VideoToolbox, VAAPI, QSV, cuda, hwaccel, (13) modern codecs: AV1, HEVC, H.265, VP9, HDR, 10-bit, (14) debugging/probe: ffprobe, probe, corrupt file, integrity, testsrc, frame count, (15) subtitles: subtitles, srt, ass, vtt, burn subs, embed subs, (16) device capture: screen capture, webcam, camera capture, record screen, avfoundation, directshow, v4l2, microphone input, desktop capture, (17) library selection/migration: 'which FFmpeg library', 'compare libraries', 'ez-ffmpeg vs ffmpeg-next', 'migrate to ez-ffmpeg', 'port to', 'convert to ez-ffmpeg', 'switch from', 'rewrite using', 'refactor to ez-ffmpeg', 'can this be done with ez-ffmpeg', 'feasibility', 'should I use ez-ffmpeg or ffmpeg-next', 'library recommendation', 'best library for', (18) existing FFmpeg code review: 'check FFmpeg code', 'review FFmpeg implementation', 'can this work with ez-ffmpeg', 'evaluate current FFmpeg code', 'is ez-ffmpeg suitable', 'look at existing video/audio code'. Libraries: ez-ffmpeg, ffmpeg-next, ffmpeg-sys-next, ffmpeg-sidecar.",
     "risk": "unknown",
-    "source": "unknown"
+    "source": "unknown",
+    "date_added": null
   },
   {
     "id": "rust-pro",
@@ -7656,7 +7701,7 @@
   },
   {
     "id": "security-audit",
-    "path": "skills/security-audit",
+    "path": "skills\\security-audit",
     "category": "workflow-bundle",
     "name": "security-audit",
     "description": "Comprehensive security auditing workflow covering web application testing, API security, penetration testing, vulnerability scanning, and security hardening.",
@@ -7866,7 +7911,7 @@
   },
   {
     "id": "seo-forensic-incident-response",
-    "path": "skills/seo-forensic-incident-response",
+    "path": "skills\\seo-forensic-incident-response",
     "category": "uncategorized",
     "name": "seo-forensic-incident-response",
     "description": "Investigate sudden drops in organic traffic or rankings and run a structured forensic SEO incident response with triage, root-cause analysis and recovery plan.",
@@ -7961,7 +8006,8 @@
     "name": "shadcn-ui",
     "description": "Expert guidance for integrating and building applications with shadcn/ui components, including component discovery, installation, customization, and best practices.",
     "risk": "unknown",
-    "source": "unknown"
+    "source": "unknown",
+    "date_added": null
   },
   {
     "id": "shader-programming-glsl",
@@ -8055,7 +8101,7 @@
   },
   {
     "id": "skill-creator",
-    "path": "skills/skill-creator",
+    "path": "skills\\skill-creator",
     "category": "meta",
     "name": "skill-creator",
     "description": "This skill should be used when the user asks to create a new skill, build a skill, make a custom skill, develop a CLI skill, or wants to extend the CLI with new capabilities. Automates the entire s...",
@@ -8110,7 +8156,8 @@
     "name": "skillforge",
     "description": "Intelligent skill router and creator. Analyzes ANY input to recommend existing skills, improve them, or create new ones. Uses deep iterative analysis with 11 thinking models, regression questioning, evolution lens, and multi-agent synthesis panel. Phase 0 triage ensures you never duplicate existing functionality.",
     "risk": "unknown",
-    "source": "unknown"
+    "source": "unknown",
+    "date_added": null
   },
   {
     "id": "slack-automation",
@@ -8321,6 +8368,16 @@
     "risk": "unknown",
     "source": "community",
     "date_added": "2026-02-27"
+  },
+  {
+    "id": "stitch-loop",
+    "path": "skills\\stitch-loop",
+    "category": "uncategorized",
+    "name": "stitch-loop",
+    "description": "Teaches agents to iteratively build websites using Stitch with an autonomous baton-passing loop pattern",
+    "risk": "unknown",
+    "source": "unknown",
+    "date_added": null
   },
   {
     "id": "stitch-ui-design",
@@ -8584,7 +8641,7 @@
   },
   {
     "id": "temporal-golang-pro",
-    "path": "skills/temporal-golang-pro",
+    "path": "skills\\temporal-golang-pro",
     "category": "uncategorized",
     "name": "temporal-golang-pro",
     "description": "Use when building durable distributed systems with Temporal Go SDK. Covers deterministic workflow rules, mTLS worker configs, and advanced patterns.",
@@ -8624,7 +8681,7 @@
   },
   {
     "id": "terraform-infrastructure",
-    "path": "skills/terraform-infrastructure",
+    "path": "skills\\terraform-infrastructure",
     "category": "granular-workflow-bundle",
     "name": "terraform-infrastructure",
     "description": "Terraform infrastructure as code workflow for provisioning cloud resources, creating reusable modules, and managing infrastructure at scale.",
@@ -8704,7 +8761,7 @@
   },
   {
     "id": "testing-qa",
-    "path": "skills/testing-qa",
+    "path": "skills\\testing-qa",
     "category": "workflow-bundle",
     "name": "testing-qa",
     "description": "Comprehensive testing and QA workflow covering unit testing, integration testing, E2E testing, browser automation, and quality assurance.",
@@ -8874,7 +8931,7 @@
   },
   {
     "id": "typescript-expert",
-    "path": "skills/typescript-expert",
+    "path": "skills\\typescript-expert",
     "category": "framework",
     "name": "typescript-expert",
     "description": "You are an advanced TypeScript expert with deep, practical knowledge of type-level programming, performance optimization, and real-world problem solving based on current best practices.",
@@ -9114,7 +9171,7 @@
   },
   {
     "id": "vibe-code-auditor",
-    "path": "skills/vibe-code-auditor",
+    "path": "skills\\vibe-code-auditor",
     "category": "uncategorized",
     "name": "vibe-code-auditor",
     "description": "Audit rapidly generated or AI-produced code for structural flaws, fragility, and production risks.",
@@ -9124,7 +9181,7 @@
   },
   {
     "id": "videodb-skills",
-    "path": "skills/videodb-skills",
+    "path": "skills\\videodb-skills",
     "category": "media",
     "name": "videodb-skills",
     "description": "Upload, stream, search, edit, transcribe, and generate AI video and audio using the VideoDB SDK.",
@@ -9244,7 +9301,7 @@
   },
   {
     "id": "web-security-testing",
-    "path": "skills/web-security-testing",
+    "path": "skills\\web-security-testing",
     "category": "granular-workflow-bundle",
     "name": "web-security-testing",
     "description": "Web application security testing workflow for OWASP Top 10 vulnerabilities including injection, XSS, authentication flaws, and access control issues.",
@@ -9384,7 +9441,7 @@
   },
   {
     "id": "wordpress",
-    "path": "skills/wordpress",
+    "path": "skills\\wordpress",
     "category": "workflow-bundle",
     "name": "wordpress",
     "description": "Complete WordPress development workflow covering theme development, plugin creation, WooCommerce integration, performance optimization, and security hardening.",
@@ -9404,7 +9461,7 @@
   },
   {
     "id": "wordpress-plugin-development",
-    "path": "skills/wordpress-plugin-development",
+    "path": "skills\\wordpress-plugin-development",
     "category": "granular-workflow-bundle",
     "name": "wordpress-plugin-development",
     "description": "WordPress plugin development workflow covering plugin architecture, hooks, admin interfaces, REST API, and security best practices.",
@@ -9414,7 +9471,7 @@
   },
   {
     "id": "wordpress-theme-development",
-    "path": "skills/wordpress-theme-development",
+    "path": "skills\\wordpress-theme-development",
     "category": "granular-workflow-bundle",
     "name": "wordpress-theme-development",
     "description": "WordPress theme development workflow covering theme architecture, template hierarchy, custom post types, block editor support, and responsive design.",
@@ -9424,7 +9481,7 @@
   },
   {
     "id": "wordpress-woocommerce-development",
-    "path": "skills/wordpress-woocommerce-development",
+    "path": "skills\\wordpress-woocommerce-development",
     "category": "granular-workflow-bundle",
     "name": "wordpress-woocommerce-development",
     "description": "WooCommerce store development workflow covering store setup, payment integration, shipping configuration, and customization.",
@@ -9474,7 +9531,7 @@
   },
   {
     "id": "writer",
-    "path": "skills/libreoffice/writer",
+    "path": "skills\\libreoffice\\writer",
     "category": "document-processing",
     "name": "writer",
     "description": "Document creation, format conversion (ODT/DOCX/PDF), mail merge, and automation with LibreOffice Writer.",
@@ -9494,7 +9551,7 @@
   },
   {
     "id": "writing-skills",
-    "path": "skills/writing-skills",
+    "path": "skills\\writing-skills",
     "category": "meta",
     "name": "writing-skills",
     "description": "Use when creating, updating, or improving agent skills.",
@@ -9544,7 +9601,7 @@
   },
   {
     "id": "youtube-summarizer",
-    "path": "skills/youtube-summarizer",
+    "path": "skills\\youtube-summarizer",
     "category": "content",
     "name": "youtube-summarizer",
     "description": "Extract transcripts from YouTube videos and generate comprehensive, detailed summaries using intelligent analysis frameworks",

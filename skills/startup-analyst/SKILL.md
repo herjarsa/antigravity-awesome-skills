@@ -9,10 +9,7 @@ description: |
   through Series A startups.
 metadata:
   model: inherit
-risk: unknown
-source: community
 ---
-
 ## Use this skill when
 
 - Working on startup analyst tasks or workflows

@@ -1,12 +1,11 @@
 ---
 name: microsoft-teams-automation
-description: "Automate Microsoft Teams tasks via Rube MCP (Composio): send messages, manage channels, create meetings, handle chats, and search messages. Always search tools first for current schemas."
-requires:
-  mcp: [rube]
-risk: unknown
-source: community
+description: "Automate Microsoft Teams tasks via Rube MCP (Composio): send
+  messages, manage channels, create meetings, handle chats, and search messages.
+  Always search tools first for current schemas."
+metadata:
+  requires: '{"mcp":["rube"]}'
 ---
-
 # Microsoft Teams Automation via Rube MCP
 
 Automate Microsoft Teams operations through Composio's Microsoft Teams toolkit via Rube MCP.
@@ -214,3 +213,11 @@ Automate Microsoft Teams operations through Composio's Microsoft Teams toolkit v
 
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

@@ -845,3 +845,7 @@ npm install @radix-ui/react-{primitive-name}
 ---
 
 **Remember**: Radix gives you **behavior**, you give it **beauty**. Accessibility is built-in, customization is unlimited.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

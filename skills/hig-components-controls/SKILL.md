@@ -1,21 +1,18 @@
 ---
 name: hig-components-controls
-version: 1.0.0
-description: >-
-  Apple HIG guidance for selection and input controls including pickers, toggles,
-  sliders, steppers, segmented controls, combo boxes, text fields, text views,
-  labels, token fields, virtual keyboards, rating indicators, and gauges. Use
-  this skill when the user says "picker or segmented control," "how should my
-  form look," "what keyboard type should I use," "toggle vs checkbox," or asks
-  about picker design, toggle, switch, slider, stepper, text field, text input,
-  segmented control, combo box, label, token field, virtual keyboard, rating
-  indicator, gauge, form design, input validation, or control state management.
-  Cross-references: hig-components-menus, hig-components-dialogs,
-  hig-components-search.
-risk: unknown
-source: community
+description: 'Apple HIG guidance for selection and input controls including
+  pickers, toggles, sliders, steppers, segmented controls, combo boxes, text
+  fields, text views, labels, token fields, virtual keyboards, rating
+  indicators, and gauges. Use this skill when the user says "picker or segmented
+  control," "how should my form look," "what keyboard type should I use,"
+  "toggle vs checkbox," or asks about picker design, toggle, switch, slider,
+  stepper, text field, text input, segmented control, combo box, label, token
+  field, virtual keyboard, rating indicator, gauge, form design, input
+  validation, or control state management. Cross-references:
+  hig-components-menus, hig-components-dialogs, hig-components-search.'
+metadata:
+  version: 1.0.0
 ---
-
 # Apple HIG: Selection and Input Controls
 
 Check for `.claude/apple-design-context.md` before asking questions. Use existing context and only ask for information not already covered.
@@ -91,3 +88,11 @@ Check for `.claude/apple-design-context.md` before asking questions. Use existin
 
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

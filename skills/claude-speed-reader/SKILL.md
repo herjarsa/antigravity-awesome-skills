@@ -20,3 +20,7 @@ Use this skill when you need to work with -speed read claude's responses at 600+
 This skill provides guidance and patterns for -speed read claude's responses at 600+ wpm using rsvp with spritz-style orp highlighting.
 
 For more information, see the [source repository](https://github.com/SeanZoR/claude-speed-reader).
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.

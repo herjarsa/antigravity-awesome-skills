@@ -6,10 +6,7 @@ description: |
   on established guidelines. Use PROACTIVELY for content review.
 metadata:
   model: sonnet
-risk: unknown
-source: community
 ---
-
 ## Use this skill when
 
 - Working on seo content auditor tasks or workflows

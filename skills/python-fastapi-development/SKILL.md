@@ -1,13 +1,12 @@
 ---
 name: python-fastapi-development
-description: "Python FastAPI backend development with async patterns, SQLAlchemy, Pydantic, authentication, and production API patterns."
-source: personal
-risk: safe
-domain: backend-development
-category: granular-workflow-bundle
-version: 1.0.0
+description: Python FastAPI backend development with async patterns, SQLAlchemy,
+  Pydantic, authentication, and production API patterns.
+metadata:
+  domain: backend-development
+  category: granular-workflow-bundle
+  version: 1.0.0
 ---
-
 # Python/FastAPI Development Workflow
 
 ## Overview
@@ -214,3 +213,11 @@ Use @docker-expert to containerize FastAPI application
 - `database` - Database operations
 - `security-audit` - Security testing
 - `api-development` - API patterns
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

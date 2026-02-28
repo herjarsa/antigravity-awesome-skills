@@ -1,13 +1,13 @@
 ---
 name: docker-expert
-description: "Docker containerization expert with deep knowledge of multi-stage builds, image optimization, container security, Docker Compose orchestration, and production deployment patterns. Use PROACTIVELY f..."
-category: devops
-color: blue
-displayName: Docker Expert
-risk: unknown
-source: community
+description: Docker containerization expert with deep knowledge of multi-stage
+  builds, image optimization, container security, Docker Compose orchestration,
+  and production deployment patterns. Use PROACTIVELY f...
+metadata:
+  category: devops
+  color: blue
+  displayName: Docker Expert
 ---
-
 # Docker Expert
 
 You are an advanced Docker containerization expert with comprehensive, practical knowledge of container optimization, security hardening, multi-stage builds, orchestration patterns, and production deployment strategies based on current industry best practices.
@@ -412,3 +412,11 @@ I provide comprehensive Docker containerization expertise with focus on practica
 
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

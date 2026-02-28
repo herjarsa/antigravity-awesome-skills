@@ -1,17 +1,18 @@
 ---
 name: dbos-golang
-description: "DBOS Go SDK for building reliable, fault-tolerant applications with durable workflows. Use this skill when writing Go code with DBOS, creating workflows and steps, using queues, using the DBOS Clie..."
-risk: safe
-source: https://docs.dbos.dev/
+description: DBOS Go SDK for building reliable, fault-tolerant applications with
+  durable workflows. Use this skill when writing Go code with DBOS, creating
+  workflows and steps, using queues, using the DBOS Clie...
 license: MIT
 metadata:
   author: dbos
-  version: "1.0.0"
+  version: 1.0.0
   organization: DBOS
   date: February 2026
-  abstract: Comprehensive guide for building fault-tolerant Go applications with DBOS. Covers workflows, steps, queues, communication patterns, and best practices for durable execution.
+  abstract: Comprehensive guide for building fault-tolerant Go applications with
+    DBOS. Covers workflows, steps, queues, communication patterns, and best
+    practices for durable execution.
 ---
-
 # DBOS Go Best Practices
 
 Guide for building reliable, fault-tolerant Go applications with DBOS durable workflows.
@@ -131,3 +132,11 @@ references/queue-concurrency.md
 
 - https://docs.dbos.dev/
 - https://github.com/dbos-inc/dbos-transact-golang
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

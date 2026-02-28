@@ -1,13 +1,12 @@
 ---
 name: smtp-penetration-testing
-description: "This skill should be used when the user asks to \"perform SMTP penetration testing\", \"enumerate email users\", \"test for open mail relays\", \"grab SMTP banners\", \"brute force email cre..."
+description: This skill should be used when the user asks to "perform SMTP
+  penetration testing", "enumerate email users", "test for open mail relays",
+  "grab SMTP banners", "brute force email cre...
 metadata:
   author: zebbern
   version: "1.1"
-risk: unknown
-source: community
 ---
-
 # SMTP Penetration Testing
 
 ## Purpose
@@ -503,3 +502,11 @@ nmap -p 25 --script smtp-open-relay --script-args smtp-open-relay.from=test@atta
 
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

@@ -6,10 +6,7 @@ description: |
   PROACTIVELY when reviewing similar content.
 metadata:
   model: haiku
-risk: unknown
-source: community
 ---
-
 ## Use this skill when
 
 - Working on seo cannibalization detector tasks or workflows

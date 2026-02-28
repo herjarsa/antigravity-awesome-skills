@@ -116,3 +116,7 @@ npx expo-doctor
 ## Resources
 
 For more information, see the [source repository](https://github.com/expo/skills/tree/main/plugins/upgrading-expo).
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.

@@ -7,10 +7,7 @@ description: |
   or complex C++ patterns.
 metadata:
   model: opus
-risk: unknown
-source: community
 ---
-
 ## Use this skill when
 
 - Working on cpp pro tasks or workflows

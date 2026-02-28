@@ -1,11 +1,11 @@
 ---
 name: azure-communication-common-java
-description: "Azure Communication Services common utilities for Java. Use when working with CommunicationTokenCredential, user identifiers, token refresh, or shared authentication across ACS services."
-package: com.azure:azure-communication-common
-risk: unknown
-source: community
+description: Azure Communication Services common utilities for Java. Use when
+  working with CommunicationTokenCredential, user identifiers, token refresh, or
+  shared authentication across ACS services.
+metadata:
+  package: com.azure:azure-communication-common
 ---
-
 # Azure Communication Common (Java)
 
 Shared authentication utilities and data structures for Azure Communication Services.
@@ -307,3 +307,11 @@ private String refreshToken() {
 
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

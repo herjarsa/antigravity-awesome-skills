@@ -7,10 +7,7 @@ description: |
   statistical analysis, and data-driven insights.
 metadata:
   model: inherit
-risk: unknown
-source: community
 ---
-
 ## Use this skill when
 
 - Working on data scientist tasks or workflows

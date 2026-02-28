@@ -7,10 +7,7 @@ description: |
   complex Ruby features.
 metadata:
   model: inherit
-risk: unknown
-source: community
 ---
-
 ## Use this skill when
 
 - Working on ruby pro tasks or workflows

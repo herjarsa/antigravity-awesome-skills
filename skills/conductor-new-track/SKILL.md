@@ -1,12 +1,9 @@
 ---
 name: conductor-new-track
-description: "Create a new track with specification and phased implementation plan"
+description: Create a new track with specification and phased implementation plan
 metadata:
   argument-hint: <feature|bug|chore|refactor> <name>
-risk: unknown
-source: community
 ---
-
 # New Track
 
 Create a new track (feature, bug fix, chore, or refactor) with a detailed specification and phased implementation plan.

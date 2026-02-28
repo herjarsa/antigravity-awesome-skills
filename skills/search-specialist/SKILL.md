@@ -6,10 +6,7 @@ description: Expert web researcher using advanced search techniques and
   for deep research, information gathering, or trend analysis.
 metadata:
   model: haiku
-risk: unknown
-source: community
 ---
-
 ## Use this skill when
 
 - Working on search specialist tasks or workflows

@@ -7,10 +7,7 @@ description: |
   iOS development.
 metadata:
   model: inherit
-risk: unknown
-source: community
 ---
-
 ## Use this skill when
 
 - Working on ios developer tasks or workflows

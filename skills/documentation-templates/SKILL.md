@@ -1,11 +1,9 @@
 ---
 name: documentation-templates
-description: "Documentation templates and structure guidelines. README, API docs, code comments, and AI-friendly documentation."
-allowed-tools: Read, Glob, Grep
-risk: unknown
-source: community
+description: Documentation templates and structure guidelines. README, API docs,
+  code comments, and AI-friendly documentation.
+allowed-tools: Read Glob Grep
 ---
-
 # Documentation Templates
 
 > Templates and structure guidelines for common documentation types.
@@ -197,3 +195,11 @@ For RAG indexing:
 
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

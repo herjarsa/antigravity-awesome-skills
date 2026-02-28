@@ -1,13 +1,13 @@
 ---
 name: os-scripting
-description: "Operating system and shell scripting troubleshooting workflow for Linux, macOS, and Windows. Covers bash scripting, system administration, debugging, and automation."
-source: personal
-risk: safe
-domain: system-administration
-category: workflow-bundle
-version: 1.0.0
+description: Operating system and shell scripting troubleshooting workflow for
+  Linux, macOS, and Windows. Covers bash scripting, system administration,
+  debugging, and automation.
+metadata:
+  domain: system-administration
+  category: workflow-bundle
+  version: 1.0.0
 ---
-
 # OS/Shell Scripting Troubleshooting Workflow Bundle
 
 ## Overview
@@ -427,3 +427,11 @@ Before completing workflow, verify:
 - `cloud-devops` - Cloud and DevOps
 - `security-audit` - Security testing
 - `database` - Database operations
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

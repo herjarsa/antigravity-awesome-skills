@@ -169,3 +169,11 @@ Reason: Caused performance regression in production.
 ## References
 
 - [Sentry Commit Messages](https://develop.sentry.dev/engineering-practices/commit-messages/)
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

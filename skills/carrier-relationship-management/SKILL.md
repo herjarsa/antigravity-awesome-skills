@@ -4,20 +4,17 @@ description: >
   Codified expertise for managing carrier portfolios, negotiating freight rates,
   tracking carrier performance, allocating freight, and maintaining strategic
   carrier relationships. Informed by transportation managers with 15+ years
-  experience. Includes scorecarding frameworks, RFP processes, market intelligence,
-  and compliance vetting. Use when managing carriers, negotiating rates, evaluating
-  carrier performance, or building freight strategies.
+  experience. Includes scorecarding frameworks, RFP processes, market
+  intelligence, and compliance vetting. Use when managing carriers, negotiating
+  rates, evaluating carrier performance, or building freight strategies.
 license: Apache-2.0
-version: 1.0.0
-homepage: https://github.com/evos-ai/evos-capabilities
-risk: safe
-source: https://github.com/ai-evos/agent-skills
 metadata:
   author: evos
   clawdbot:
-    emoji: "🤝"
+    emoji: 🤝
+  version: 1.0.0
+  homepage: https://github.com/evos-ai/evos-capabilities
 ---
-
 ## When to Use
 
 Use this skill when building and managing a carrier network, conducting freight RFPs, negotiating linehaul and accessorial rates, tracking carrier KPIs via scorecards, or ensuring regulatory compliance of transportation partners.
@@ -201,3 +198,11 @@ Use this skill when you are **designing or tuning your carrier portfolio, routin
 - Running freight RFPs, renegotiating contract and fuel tables, or balancing spot vs. contract exposure.
 - Building carrier scorecards, exit criteria, and escalation protocols to manage performance and risk.
 - Deciding how to allocate lanes across asset carriers, brokers, and regional specialists to protect service while controlling logistics spend.
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

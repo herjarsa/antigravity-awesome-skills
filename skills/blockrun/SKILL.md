@@ -1,11 +1,10 @@
 ---
 name: blockrun
-description: "Use when user needs capabilities Claude lacks (image generation, real-time X/Twitter data) or explicitly requests external models (\\\"blockrun\\\", \\\"use grok\\\", \\\"use gpt\\\", \\\"da..."
-allowed-tools: Read, Bash(python:*), Bash(python3:*), Bash(pip:*), Bash(source:*)
-risk: unknown
-source: community
+description: Use when user needs capabilities Claude lacks (image generation,
+  real-time X/Twitter data) or explicitly requests external models
+  (\"blockrun\", \"use grok\", \"use gpt\", \"da...
+allowed-tools: Read Bash(python:*) Bash(python3:*) Bash(pip:*) Bash(source:*)
 ---
-
 # BlockRun
 
 **BlockRun works with Claude Code and Google Antigravity.**
@@ -292,3 +291,11 @@ response = client.chat("xai/grok-3", "What's trending?", search=True)
 ```bash
 pip install --upgrade blockrun-llm
 ```
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

@@ -1,19 +1,16 @@
 ---
 name: hig-components-search
-version: 1.0.0
-description: >-
-  Apple HIG guidance for navigation-related components including search fields,
-  page controls, and path controls. Use this skill when the user says "how should
-  search work in my app," "I need a breadcrumb," "how do I paginate content," or
-  asks about search field, search bar, page control, path control, breadcrumb,
-  navigation component, search UX, search suggestions, search scopes, paginated
-  content navigation, or file path hierarchy display. Cross-references:
-  hig-components-menus, hig-components-controls, hig-components-dialogs,
-  hig-patterns.
-risk: unknown
-source: community
+description: 'Apple HIG guidance for navigation-related components including
+  search fields, page controls, and path controls. Use this skill when the user
+  says "how should search work in my app," "I need a breadcrumb," "how do I
+  paginate content," or asks about search field, search bar, page control, path
+  control, breadcrumb, navigation component, search UX, search suggestions,
+  search scopes, paginated content navigation, or file path hierarchy display.
+  Cross-references: hig-components-menus, hig-components-controls,
+  hig-components-dialogs, hig-patterns.'
+metadata:
+  version: 1.0.0
 ---
-
 # Apple HIG: Navigation Components
 
 Check for `.claude/apple-design-context.md` before asking questions. Use existing context and only ask for information not already covered.
@@ -71,3 +68,11 @@ Check for `.claude/apple-design-context.md` before asking questions. Use existin
 
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

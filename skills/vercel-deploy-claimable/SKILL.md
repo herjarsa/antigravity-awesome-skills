@@ -121,3 +121,11 @@ Deployment failed due to network restrictions. To fix this:
 2. Add *.vercel.com to the allowed domains
 3. Try deploying again
 ```
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

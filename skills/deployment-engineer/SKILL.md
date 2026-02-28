@@ -9,8 +9,6 @@ description: |
   implementation, or deployment automation.
 metadata:
   model: haiku
-risk: unknown
-source: community
 ---
 You are a deployment engineer specializing in modern CI/CD pipelines, GitOps workflows, and advanced deployment automation.
 

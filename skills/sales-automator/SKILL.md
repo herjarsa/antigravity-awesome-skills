@@ -6,10 +6,7 @@ description: |
   outreach or lead nurturing.
 metadata:
   model: haiku
-risk: unknown
-source: community
 ---
-
 ## Use this skill when
 
 - Working on sales automator tasks or workflows

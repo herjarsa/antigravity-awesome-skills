@@ -1,13 +1,13 @@
 ---
 name: ai-agent-development
-description: "AI agent development workflow for building autonomous agents, multi-agent systems, and agent orchestration with CrewAI, LangGraph, and custom agents."
-source: personal
-risk: safe
-domain: ai-ml
-category: granular-workflow-bundle
-version: 1.0.0
+description: AI agent development workflow for building autonomous agents,
+  multi-agent systems, and agent orchestration with CrewAI, LangGraph, and
+  custom agents.
+metadata:
+  domain: ai-ml
+  category: granular-workflow-bundle
+  version: 1.0.0
 ---
-
 # AI Agent Development Workflow
 
 ## Overview
@@ -172,3 +172,11 @@ User Input -> Planner -> Agent -> Tools -> Memory -> Response
 - `ai-ml` - AI/ML development
 - `rag-implementation` - RAG systems
 - `workflow-automation` - Workflow patterns
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

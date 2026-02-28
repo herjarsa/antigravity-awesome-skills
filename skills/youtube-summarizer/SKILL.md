@@ -1,17 +1,16 @@
 ---
 name: youtube-summarizer
-description: "Extract transcripts from YouTube videos and generate comprehensive, detailed summaries using intelligent analysis frameworks"
-version: 1.2.1
-author: Eric Andrade
-created: 2025-02-01
-updated: 2026-02-04
-platforms: [github-copilot-cli, claude-code, codex]
-category: content
-tags: [video, summarization, transcription, youtube, content-analysis]
-risk: safe
-source: community
+description: Extract transcripts from YouTube videos and generate comprehensive,
+  detailed summaries using intelligent analysis frameworks
+metadata:
+  version: 1.2.1
+  author: Eric Andrade
+  created: 2025-02-01
+  updated: 2026-02-04
+  platforms: github-copilot-cli, claude-code, codex
+  category: content
+  tags: video, summarization, transcription, youtube, content-analysis
 ---
-
 # youtube-summarizer
 
 ## Purpose
@@ -410,3 +409,11 @@ Welcome to this comprehensive tutorial on machine learning fundamentals. In toda
 **Version:** 1.2.0
 **Last Updated:** 2026-02-02
 **Maintained By:** Eric Andrade
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

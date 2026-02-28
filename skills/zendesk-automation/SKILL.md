@@ -1,12 +1,10 @@
 ---
 name: zendesk-automation
-description: "Automate Zendesk tasks via Rube MCP (Composio): tickets, users, organizations, replies. Always search tools first for current schemas."
-requires:
-  mcp: [rube]
-risk: unknown
-source: community
+description: "Automate Zendesk tasks via Rube MCP (Composio): tickets, users,
+  organizations, replies. Always search tools first for current schemas."
+metadata:
+  requires: '{"mcp":["rube"]}'
 ---
-
 # Zendesk Automation via Rube MCP
 
 Automate Zendesk operations through Composio's Zendesk toolkit via Rube MCP.
@@ -218,3 +216,11 @@ new -> open -> pending -> solved -> closed
 
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

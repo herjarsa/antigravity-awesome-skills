@@ -1,13 +1,12 @@
 ---
 name: html-injection-testing
-description: "This skill should be used when the user asks to \"test for HTML injection\", \"inject HTML into web pages\", \"perform HTML injection attacks\", \"deface web applications\", or \"test conten..."
+description: This skill should be used when the user asks to "test for HTML
+  injection", "inject HTML into web pages", "perform HTML injection attacks",
+  "deface web applications", or "test conten...
 metadata:
   author: zebbern
   version: "1.1"
-risk: unknown
-source: community
 ---
-
 # HTML Injection Testing
 
 ## Purpose
@@ -501,3 +500,11 @@ Server-side protections:
 
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

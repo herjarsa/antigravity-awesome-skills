@@ -5,10 +5,7 @@ description: |
   behavior. Use proactively when encountering any issues.
 metadata:
   model: sonnet
-risk: unknown
-source: community
 ---
-
 ## Use this skill when
 
 - Working on debugger tasks or workflows

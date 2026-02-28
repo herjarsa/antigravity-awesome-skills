@@ -1,22 +1,21 @@
 ---
 name: hig-technologies
-version: 1.0.0
 description: >
-  Apple HIG guidance for Apple technology integrations: Siri, Apple Pay, HealthKit,
-  HomeKit, ARKit, machine learning, generative AI, iCloud, Sign in with Apple,
-  SharePlay, CarPlay, Game Center, in-app purchase, NFC, Wallet, VoiceOver, Maps,
-  Mac Catalyst, and more. Use when asked about: "Siri integration", "Apple Pay",
-  "HealthKit", "HomeKit", "ARKit", "augmented reality", "machine learning",
-  "generative AI", "iCloud sync", "Sign in with Apple", "SharePlay", "CarPlay",
-  "in-app purchase", "NFC", "VoiceOver", "Maps", "Mac Catalyst". Also use when
-  the user says "how do I integrate Siri," "what are the Apple Pay guidelines,"
-  "how should my AR experience work," "how do I use Sign in with Apple," or asks
-  about any Apple framework or service integration.
-  Cross-references: hig-inputs for input methods, hig-components-system for widgets.
-risk: unknown
-source: community
+  Apple HIG guidance for Apple technology integrations: Siri, Apple Pay,
+  HealthKit, HomeKit, ARKit, machine learning, generative AI, iCloud, Sign in
+  with Apple, SharePlay, CarPlay, Game Center, in-app purchase, NFC, Wallet,
+  VoiceOver, Maps, Mac Catalyst, and more. Use when asked about: "Siri
+  integration", "Apple Pay", "HealthKit", "HomeKit", "ARKit", "augmented
+  reality", "machine learning", "generative AI", "iCloud sync", "Sign in with
+  Apple", "SharePlay", "CarPlay", "in-app purchase", "NFC", "VoiceOver", "Maps",
+  "Mac Catalyst". Also use when the user says "how do I integrate Siri," "what
+  are the Apple Pay guidelines," "how should my AR experience work," "how do I
+  use Sign in with Apple," or asks about any Apple framework or service
+  integration. Cross-references: hig-inputs for input methods,
+  hig-components-system for widgets.
+metadata:
+  version: 1.0.0
 ---
-
 # Apple HIG: Technologies
 
 Check for `.claude/apple-design-context.md` before asking questions. Use existing context and only ask for information not already covered.
@@ -134,3 +133,11 @@ Check for `.claude/apple-design-context.md` before asking questions. Use existin
 
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

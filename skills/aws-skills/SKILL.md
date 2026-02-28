@@ -20,3 +20,7 @@ Use this skill when you need to work with aws development with infrastructure au
 This skill provides guidance and patterns for aws development with infrastructure automation and cloud architecture patterns.
 
 For more information, see the [source repository](https://github.com/zxkane/aws-skills).
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.

@@ -1,12 +1,15 @@
 ---
 name: azure-resource-manager-cosmosdb-dotnet
-description: |
-  Azure Resource Manager SDK for Cosmos DB in .NET. Use for MANAGEMENT PLANE operations: creating/managing Cosmos DB accounts, databases, containers, throughput settings, and RBAC via Azure Resource Manager. NOT for data plane operations (CRUD on documents) - use Microsoft.Azure.Cosmos for that. Triggers: "Cosmos DB account", "create Cosmos account", "manage Cosmos resources", "ARM Cosmos", "CosmosDBAccountResource", "provision Cosmos DB".
-package: Azure.ResourceManager.CosmosDB
-risk: unknown
-source: community
+description: >
+  Azure Resource Manager SDK for Cosmos DB in .NET. Use for MANAGEMENT PLANE
+  operations: creating/managing Cosmos DB accounts, databases, containers,
+  throughput settings, and RBAC via Azure Resource Manager. NOT for data plane
+  operations (CRUD on documents) - use Microsoft.Azure.Cosmos for that.
+  Triggers: "Cosmos DB account", "create Cosmos account", "manage Cosmos
+  resources", "ARM Cosmos", "CosmosDBAccountResource", "provision Cosmos DB".
+metadata:
+  package: Azure.ResourceManager.CosmosDB
 ---
-
 # Azure.ResourceManager.CosmosDB (.NET)
 
 Management plane SDK for provisioning and managing Azure Cosmos DB resources via Azure Resource Manager.
@@ -253,3 +256,11 @@ catch (RequestFailedException ex)
 
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

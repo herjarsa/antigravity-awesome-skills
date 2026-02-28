@@ -1,13 +1,13 @@
 ---
 name: wordpress
-description: "Complete WordPress development workflow covering theme development, plugin creation, WooCommerce integration, performance optimization, and security hardening."
-source: personal
-risk: safe
-domain: software-development
-category: workflow-bundle
-version: 1.0.0
+description: Complete WordPress development workflow covering theme development,
+  plugin creation, WooCommerce integration, performance optimization, and
+  security hardening.
+metadata:
+  domain: software-development
+  category: workflow-bundle
+  version: 1.0.0
 ---
-
 # WordPress Development Workflow Bundle
 
 ## Overview
@@ -317,3 +317,11 @@ Before moving to next phase, verify:
 - `security-audit` - Security testing
 - `testing-qa` - Testing workflow
 - `ecommerce` - E-commerce development
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

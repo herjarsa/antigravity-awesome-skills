@@ -7,10 +7,7 @@ description: |
   architecture.
 metadata:
   model: opus
-risk: unknown
-source: community
 ---
-
 ## Use this skill when
 
 - Working on fastapi pro tasks or workflows

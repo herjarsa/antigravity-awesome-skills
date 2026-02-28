@@ -1,19 +1,20 @@
 ---
 name: hig-platforms
-version: 1.0.0
 description: >
-  Apple Human Interface Guidelines for platform-specific design. Use this skill when the user asks about
-  "designing for iOS", "iPad app design", "macOS design", "tvOS", "visionOS", "watchOS", "Apple platform",
-  "which platform", platform differences, platform-specific conventions, or multi-platform app design.
-  Also use when the user says "should I design differently for iPad vs iPhone", "how does my app work
-  on visionOS", "what's different about macOS apps", "porting my app to another platform",
-  "universal app design", or "what input methods does this platform use".
-  Cross-references: hig-foundations for shared design foundations, hig-patterns for interaction patterns,
-  hig-components-layout for navigation structures, hig-components-content for content display.
-risk: unknown
-source: community
+  Apple Human Interface Guidelines for platform-specific design. Use this skill
+  when the user asks about "designing for iOS", "iPad app design", "macOS
+  design", "tvOS", "visionOS", "watchOS", "Apple platform", "which platform",
+  platform differences, platform-specific conventions, or multi-platform app
+  design. Also use when the user says "should I design differently for iPad vs
+  iPhone", "how does my app work on visionOS", "what's different about macOS
+  apps", "porting my app to another platform", "universal app design", or "what
+  input methods does this platform use". Cross-references: hig-foundations for
+  shared design foundations, hig-patterns for interaction patterns,
+  hig-components-layout for navigation structures, hig-components-content for
+  content display.
+metadata:
+  version: 1.0.0
 ---
-
 # Apple HIG: Platform Design
 
 Check for `.claude/apple-design-context.md` before asking questions. Use existing context and only ask for information not already covered.
@@ -87,3 +88,11 @@ Check for `.claude/apple-design-context.md` before asking questions. Use existin
 
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

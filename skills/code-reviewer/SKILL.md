@@ -7,10 +7,7 @@ description: Elite code review expert specializing in modern AI-powered code
   quality assurance.
 metadata:
   model: opus
-risk: unknown
-source: community
 ---
-
 ## Use this skill when
 
 - Working on code reviewer tasks or workflows

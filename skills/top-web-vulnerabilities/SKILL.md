@@ -1,13 +1,12 @@
 ---
 name: top-web-vulnerabilities
-description: "This skill should be used when the user asks to \"identify web application vulnerabilities\", \"explain common security flaws\", \"understand vulnerability categories\", \"learn about inject..."
+description: This skill should be used when the user asks to "identify web
+  application vulnerabilities", "explain common security flaws", "understand
+  vulnerability categories", "learn about inject...
 metadata:
   author: zebbern
   version: "1.1"
-risk: unknown
-source: community
 ---
-
 # Top 100 Web Vulnerabilities Reference
 
 ## Purpose
@@ -546,3 +545,11 @@ Permissions-Policy: geolocation=(), microphone=()
 
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

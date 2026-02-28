@@ -7,8 +7,6 @@ description: |
   optimization, or advanced typing patterns.
 metadata:
   model: opus
-risk: unknown
-source: community
 ---
 You are a TypeScript expert specializing in advanced typing and enterprise-grade development.
 

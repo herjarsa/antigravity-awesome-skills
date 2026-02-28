@@ -1,11 +1,9 @@
 ---
 name: game-development
-description: "Game development orchestrator. Routes to platform-specific skills based on project needs."
-allowed-tools: Read, Write, Edit, Glob, Grep, Bash
-risk: unknown
-source: community
+description: Game development orchestrator. Routes to platform-specific skills
+  based on project needs.
+allowed-tools: Read Write Edit Glob Grep Bash
 ---
-
 # Game Development
 
 > **Orchestrator skill** that provides core principles and routes to specialized sub-skills.
@@ -167,3 +165,11 @@ Abstract input into ACTIONS, not raw keys:
 ---
 
 > **Remember:** Great games come from iteration, not perfection. Prototype fast, then polish.
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

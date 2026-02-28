@@ -1,13 +1,14 @@
 ---
 name: azure-monitor-opentelemetry-py
-description: |
-  Azure Monitor OpenTelemetry Distro for Python. Use for one-line Application Insights setup with auto-instrumentation.
-  Triggers: "azure-monitor-opentelemetry", "configure_azure_monitor", "Application Insights", "OpenTelemetry distro", "auto-instrumentation".
-package: azure-monitor-opentelemetry
-risk: unknown
-source: community
----
+description: >
+  Azure Monitor OpenTelemetry Distro for Python. Use for one-line Application
+  Insights setup with auto-instrumentation.
 
+  Triggers: "azure-monitor-opentelemetry", "configure_azure_monitor",
+  "Application Insights", "OpenTelemetry distro", "auto-instrumentation".
+metadata:
+  package: azure-monitor-opentelemetry
+---
 # Azure Monitor OpenTelemetry Distro for Python
 
 One-line setup for Application Insights with OpenTelemetry auto-instrumentation.
@@ -227,3 +228,11 @@ configure_azure_monitor(
 
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

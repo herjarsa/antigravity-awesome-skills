@@ -148,3 +148,11 @@ Continue until all checks pass and no unaddressed feedback remains.
 - Use `gh pr checks --required` to focus only on required checks
 - Use `gh run view <run-id> --verbose` to see all job steps, not just failures
 - If a check is from an external service, the `link` field in checks JSON provides the URL to investigate
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

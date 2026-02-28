@@ -1,12 +1,11 @@
 ---
 name: cc-skill-coding-standards
-description: "Universal coding standards, best practices, and patterns for TypeScript, JavaScript, React, and Node.js development."
-author: affaan-m
-version: "1.0"
-risk: unknown
-source: community
+description: Universal coding standards, best practices, and patterns for
+  TypeScript, JavaScript, React, and Node.js development.
+metadata:
+  author: affaan-m
+  version: "1.0"
 ---
-
 # Coding Standards & Best Practices
 
 Universal coding standards applicable across all projects.
@@ -525,3 +524,11 @@ setTimeout(callback, DEBOUNCE_DELAY_MS)
 
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

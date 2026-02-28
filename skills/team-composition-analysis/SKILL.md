@@ -7,10 +7,7 @@ description: |
   headcount planning for a startup.
 metadata:
   version: 1.0.0
-risk: unknown
-source: community
 ---
-
 # Team Composition Analysis
 
 Design optimal team structures, hiring plans, compensation strategies, and equity allocation for early-stage startups from pre-seed through Series A.

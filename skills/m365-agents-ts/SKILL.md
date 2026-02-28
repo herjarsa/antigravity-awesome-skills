@@ -1,12 +1,16 @@
 ---
 name: m365-agents-ts
-description: |
-  Microsoft 365 Agents SDK for TypeScript/Node.js. Build multichannel agents for Teams/M365/Copilot Studio with AgentApplication routing, Express hosting, streaming responses, and Copilot Studio client integration. Triggers: "Microsoft 365 Agents SDK", "@microsoft/agents-hosting", "AgentApplication", "startServer", "streamingResponse", "Copilot Studio client", "@microsoft/agents-copilotstudio-client".
-package: "@microsoft/agents-hosting, @microsoft/agents-hosting-express, @microsoft/agents-activity, @microsoft/agents-copilotstudio-client"
-risk: unknown
-source: community
+description: >
+  Microsoft 365 Agents SDK for TypeScript/Node.js. Build multichannel agents for
+  Teams/M365/Copilot Studio with AgentApplication routing, Express hosting,
+  streaming responses, and Copilot Studio client integration. Triggers:
+  "Microsoft 365 Agents SDK", "@microsoft/agents-hosting", "AgentApplication",
+  "startServer", "streamingResponse", "Copilot Studio client",
+  "@microsoft/agents-copilotstudio-client".
+metadata:
+  package: "@microsoft/agents-hosting, @microsoft/agents-hosting-express,
+    @microsoft/agents-activity, @microsoft/agents-copilotstudio-client"
 ---
-
 # Microsoft 365 Agents SDK (TypeScript)
 
 Build enterprise agents for Microsoft 365, Teams, and Copilot Studio using the Microsoft 365 Agents SDK with Express hosting, AgentApplication routing, streaming responses, and Copilot Studio client integrations.
@@ -185,3 +189,11 @@ window.WebChat.renderWebChat({
 
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

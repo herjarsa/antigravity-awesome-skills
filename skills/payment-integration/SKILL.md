@@ -6,10 +6,7 @@ description: |
   implementing payments, billing, or subscription features.
 metadata:
   model: sonnet
-risk: unknown
-source: community
 ---
-
 ## Use this skill when
 
 - Working on payment integration tasks or workflows

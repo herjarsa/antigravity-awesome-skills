@@ -1,11 +1,11 @@
 ---
 name: azure-ai-formrecognizer-java
-description: "Build document analysis applications with Azure Document Intelligence (Form Recognizer) SDK for Java. Use when extracting text, tables, key-value pairs from documents, receipts, invoices, or buildi..."
-package: com.azure:azure-ai-formrecognizer
-risk: unknown
-source: community
+description: Build document analysis applications with Azure Document
+  Intelligence (Form Recognizer) SDK for Java. Use when extracting text, tables,
+  key-value pairs from documents, receipts, invoices, or buildi...
+metadata:
+  package: com.azure:azure-ai-formrecognizer
 ---
-
 # Azure Document Intelligence (Form Recognizer) SDK for Java
 
 Build document analysis applications using the Azure AI Document Intelligence SDK for Java.
@@ -344,3 +344,11 @@ FORM_RECOGNIZER_KEY=<your-api-key>
 
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

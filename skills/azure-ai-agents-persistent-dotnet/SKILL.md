@@ -1,12 +1,15 @@
 ---
 name: azure-ai-agents-persistent-dotnet
-description: |
-  Azure AI Agents Persistent SDK for .NET. Low-level SDK for creating and managing AI agents with threads, messages, runs, and tools. Use for agent CRUD, conversation threads, streaming responses, function calling, file search, and code interpreter. Triggers: "PersistentAgentsClient", "persistent agents", "agent threads", "agent runs", "streaming agents", "function calling agents .NET".
-package: Azure.AI.Agents.Persistent
-risk: unknown
-source: community
+description: >
+  Azure AI Agents Persistent SDK for .NET. Low-level SDK for creating and
+  managing AI agents with threads, messages, runs, and tools. Use for agent
+  CRUD, conversation threads, streaming responses, function calling, file
+  search, and code interpreter. Triggers: "PersistentAgentsClient", "persistent
+  agents", "agent threads", "agent runs", "streaming agents", "function calling
+  agents .NET".
+metadata:
+  package: Azure.AI.Agents.Persistent
 ---
-
 # Azure.AI.Agents.Persistent (.NET)
 
 Low-level SDK for creating and managing persistent AI agents with threads, messages, runs, and tools.
@@ -352,3 +355,11 @@ catch (RequestFailedException ex)
 
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

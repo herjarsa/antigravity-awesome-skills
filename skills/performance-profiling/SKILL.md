@@ -1,11 +1,9 @@
 ---
 name: performance-profiling
-description: "Performance profiling principles. Measurement, analysis, and optimization techniques."
-allowed-tools: Read, Glob, Grep, Bash
-risk: unknown
-source: community
+description: Performance profiling principles. Measurement, analysis, and
+  optimization techniques.
+allowed-tools: Read Glob Grep Bash
 ---
-
 # Performance Profiling
 
 > Measure, analyze, optimize - in that order.
@@ -146,3 +144,11 @@ source: community
 
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

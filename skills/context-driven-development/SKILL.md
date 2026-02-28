@@ -6,10 +6,7 @@ description: |
   the relationship between product.md, tech-stack.md, and workflow.md files.
 metadata:
   version: 1.0.0
-risk: unknown
-source: community
 ---
-
 # Context-Driven Development
 
 Guide for implementing and maintaining context as a managed artifact alongside code, enabling consistent AI interactions and team alignment through structured project documentation.

@@ -1,12 +1,15 @@
 ---
 name: azure-mgmt-apicenter-dotnet
-description: |
-  Azure API Center SDK for .NET. Centralized API inventory management with governance, versioning, and discovery. Use for creating API services, workspaces, APIs, versions, definitions, environments, deployments, and metadata schemas. Triggers: "API Center", "ApiCenterService", "ApiCenterWorkspace", "ApiCenterApi", "API inventory", "API governance", "API versioning", "API catalog", "API discovery".
-package: Azure.ResourceManager.ApiCenter
-risk: unknown
-source: community
+description: >
+  Azure API Center SDK for .NET. Centralized API inventory management with
+  governance, versioning, and discovery. Use for creating API services,
+  workspaces, APIs, versions, definitions, environments, deployments, and
+  metadata schemas. Triggers: "API Center", "ApiCenterService",
+  "ApiCenterWorkspace", "ApiCenterApi", "API inventory", "API governance", "API
+  versioning", "API catalog", "API discovery".
+metadata:
+  package: Azure.ResourceManager.ApiCenter
 ---
-
 # Azure.ResourceManager.ApiCenter (.NET)
 
 Centralized API inventory and governance SDK for managing APIs across your organization.
@@ -414,3 +417,11 @@ catch (RequestFailedException ex)
 
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

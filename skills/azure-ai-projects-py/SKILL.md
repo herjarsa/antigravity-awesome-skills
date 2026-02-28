@@ -1,11 +1,11 @@
 ---
 name: azure-ai-projects-py
-description: "Build AI applications using the Azure AI Projects Python SDK (azure-ai-projects). Use when working with Foundry project clients, creating versioned agents with PromptAgentDefinition, running evalua..."
-package: azure-ai-projects
-risk: unknown
-source: community
+description: Build AI applications using the Azure AI Projects Python SDK
+  (azure-ai-projects). Use when working with Foundry project clients, creating
+  versioned agents with PromptAgentDefinition, running evalua...
+metadata:
+  package: azure-ai-projects
 ---
-
 # Azure AI Projects Python SDK (Foundry SDK)
 
 Build AI applications on Microsoft Foundry using the `azure-ai-projects` SDK.
@@ -298,3 +298,11 @@ agent = client.agents.create_agent(
 
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

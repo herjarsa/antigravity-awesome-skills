@@ -8,10 +8,7 @@ description: |
   optimization, or advanced Julia patterns.
 metadata:
   model: sonnet
-risk: unknown
-source: community
 ---
-
 ## Use this skill when
 
 - Working on julia pro tasks or workflows

@@ -1,11 +1,10 @@
 ---
 name: lint-and-validate
-description: "Automatic quality control, linting, and static analysis procedures. Use after every code modification to ensure syntax correctness and project standards. Triggers onKeywords: lint, format, check, v..."
-allowed-tools: Read, Glob, Grep, Bash
-risk: unknown
-source: community
+description: "Automatic quality control, linting, and static analysis
+  procedures. Use after every code modification to ensure syntax correctness and
+  project standards. Triggers onKeywords: lint, format, check, v..."
+allowed-tools: Read Glob Grep Bash
 ---
-
 # Lint and Validate Skill
 
 > **MANDATORY:** Run appropriate validation tools after EVERY code change. Do not finish a task until the code is error-free.
@@ -48,3 +47,11 @@ source: community
 
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

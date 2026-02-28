@@ -7,10 +7,7 @@ description: |
   testing automation or quality assurance.
 metadata:
   model: sonnet
-risk: unknown
-source: community
 ---
-
 ## Use this skill when
 
 - Working on test automator tasks or workflows

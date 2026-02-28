@@ -6,10 +6,7 @@ description: |
   PROACTIVELY for content creation tasks.
 metadata:
   model: sonnet
-risk: unknown
-source: community
 ---
-
 ## Use this skill when
 
 - Working on seo content writer tasks or workflows

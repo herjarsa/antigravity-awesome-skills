@@ -7,10 +7,7 @@ description: |
   for workflow design, microservice orchestration, or long-running processes.
 metadata:
   model: inherit
-risk: unknown
-source: community
 ---
-
 ## Use this skill when
 
 - Working on temporal python pro tasks or workflows

@@ -1,12 +1,11 @@
 ---
 name: google-analytics-automation
-description: "Automate Google Analytics tasks via Rube MCP (Composio): run reports, list accounts/properties, funnels, pivots, key events. Always search tools first for current schemas."
-requires:
-  mcp: [rube]
-risk: unknown
-source: community
+description: "Automate Google Analytics tasks via Rube MCP (Composio): run
+  reports, list accounts/properties, funnels, pivots, key events. Always search
+  tools first for current schemas."
+metadata:
+  requires: '{"mcp":["rube"]}'
 ---
-
 # Google Analytics Automation via Rube MCP
 
 Automate Google Analytics 4 (GA4) reporting and property management through Composio's Google Analytics toolkit via Rube MCP.
@@ -230,3 +229,11 @@ Automate Google Analytics 4 (GA4) reporting and property management through Comp
 
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

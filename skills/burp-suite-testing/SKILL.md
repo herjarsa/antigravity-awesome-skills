@@ -1,13 +1,12 @@
 ---
 name: burp-suite-testing
-description: "This skill should be used when the user asks to \"intercept HTTP traffic\", \"modify web requests\", \"use Burp Suite for testing\", \"perform web vulnerability scanning\", \"test with Burp ..."
+description: This skill should be used when the user asks to "intercept HTTP
+  traffic", "modify web requests", "use Burp Suite for testing", "perform web
+  vulnerability scanning", "test with Burp ...
 metadata:
   author: zebbern
   version: "1.1"
-risk: unknown
-source: community
 ---
-
 # Burp Suite Web Application Testing
 
 ## Purpose
@@ -383,3 +382,11 @@ javascript:alert(1)
 
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

@@ -1,12 +1,15 @@
 ---
 name: azure-ai-voicelive-ts
-description: |
-  Azure AI Voice Live SDK for JavaScript/TypeScript. Build real-time voice AI applications with bidirectional WebSocket communication. Use for voice assistants, conversational AI, real-time speech-to-speech, and voice-enabled chatbots in Node.js or browser environments. Triggers: "voice live", "real-time voice", "VoiceLiveClient", "VoiceLiveSession", "voice assistant TypeScript", "bidirectional audio", "speech-to-speech JavaScript".
-package: "@azure/ai-voicelive"
-risk: unknown
-source: community
+description: >
+  Azure AI Voice Live SDK for JavaScript/TypeScript. Build real-time voice AI
+  applications with bidirectional WebSocket communication. Use for voice
+  assistants, conversational AI, real-time speech-to-speech, and voice-enabled
+  chatbots in Node.js or browser environments. Triggers: "voice live",
+  "real-time voice", "VoiceLiveClient", "VoiceLiveSession", "voice assistant
+  TypeScript", "bidirectional audio", "speech-to-speech JavaScript".
+metadata:
+  package: "@azure/ai-voicelive"
 ---
-
 # @azure/ai-voicelive (JavaScript/TypeScript)
 
 Real-time voice AI SDK for building bidirectional voice assistants with Azure AI in Node.js and browser environments.
@@ -468,3 +471,11 @@ const audioContext = new AudioContext({ sampleRate: 24000 });
 
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

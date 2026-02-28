@@ -6,10 +6,7 @@ description: |
   spec.md, plan.md, and track lifecycle operations.
 metadata:
   version: 1.0.0
-risk: unknown
-source: community
 ---
-
 # Track Management
 
 Guide for creating, managing, and completing Conductor tracks - the logical work units that organize features, bugs, and refactors through specification, planning, and implementation phases.

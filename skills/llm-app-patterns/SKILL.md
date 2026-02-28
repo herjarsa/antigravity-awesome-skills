@@ -760,3 +760,11 @@ llm_client = LLMWithFallback(
 - [LangChain Docs](https://python.langchain.com/)
 - [LlamaIndex](https://www.llamaindex.ai/)
 - [Anthropic Cookbook](https://github.com/anthropics/anthropic-cookbook)
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

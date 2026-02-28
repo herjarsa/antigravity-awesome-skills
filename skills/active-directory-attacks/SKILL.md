@@ -1,13 +1,12 @@
 ---
 name: active-directory-attacks
-description: "This skill should be used when the user asks to \"attack Active Directory\", \"exploit AD\", \"Kerberoasting\", \"DCSync\", \"pass-the-hash\", \"BloodHound enumeration\", \"Golden Ticket\", ..."
+description: This skill should be used when the user asks to "attack Active
+  Directory", "exploit AD", "Kerberoasting", "DCSync", "pass-the-hash",
+  "BloodHound enumeration", "Golden Ticket", ...
 metadata:
   author: zebbern
   version: "1.1"
-risk: unknown
-source: community
 ---
-
 # Active Directory Attacks
 
 ## Purpose
@@ -386,3 +385,11 @@ For advanced techniques including delegation attacks, GPO abuse, RODC attacks, S
 
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

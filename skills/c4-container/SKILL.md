@@ -8,10 +8,7 @@ description: |
   containers and documenting system deployment architecture.
 metadata:
   model: sonnet
-risk: unknown
-source: community
 ---
-
 # C4 Container Level: System Deployment
 
 ## Use this skill when

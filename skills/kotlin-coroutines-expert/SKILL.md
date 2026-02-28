@@ -98,3 +98,11 @@ suspend fun fetchDataWithErrorHandling() = supervisorScope {
 
 **Problem:** Coroutine test hangs or fails unpredictably.
 **Solution:** Ensure you are using `runTest` and injecting `TestDispatcher` into your classes so you can control virtual time.
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

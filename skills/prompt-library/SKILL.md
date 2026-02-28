@@ -322,3 +322,11 @@ When crafting prompts, ensure:
 ---
 
 > 💡 **Tip**: The best prompts are specific, provide context, and include examples of desired output.
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

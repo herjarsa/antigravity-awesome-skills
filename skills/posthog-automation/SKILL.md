@@ -1,12 +1,11 @@
 ---
 name: posthog-automation
-description: "Automate PostHog tasks via Rube MCP (Composio): events, feature flags, projects, user profiles, annotations. Always search tools first for current schemas."
-requires:
-  mcp: [rube]
-risk: unknown
-source: community
+description: "Automate PostHog tasks via Rube MCP (Composio): events, feature
+  flags, projects, user profiles, annotations. Always search tools first for
+  current schemas."
+metadata:
+  requires: '{"mcp":["rube"]}'
 ---
-
 # PostHog Automation via Rube MCP
 
 Automate PostHog product analytics and feature flag management through Composio's PostHog toolkit via Rube MCP.
@@ -227,3 +226,11 @@ Feature flags support sophisticated targeting:
 
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

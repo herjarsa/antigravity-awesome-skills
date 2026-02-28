@@ -1,13 +1,14 @@
 ---
 name: azure-keyvault-py
-description: |
-  Azure Key Vault SDK for Python. Use for secrets, keys, and certificates management with secure storage.
-  Triggers: "key vault", "SecretClient", "KeyClient", "CertificateClient", "secrets", "encryption keys".
-package: azure-keyvault-secrets, azure-keyvault-keys, azure-keyvault-certificates
-risk: unknown
-source: community
----
+description: >
+  Azure Key Vault SDK for Python. Use for secrets, keys, and certificates
+  management with secure storage.
 
+  Triggers: "key vault", "SecretClient", "KeyClient", "CertificateClient",
+  "secrets", "encryption keys".
+metadata:
+  package: azure-keyvault-secrets, azure-keyvault-keys, azure-keyvault-certificates
+---
 # Azure Key Vault SDK for Python
 
 Secure storage and management for secrets, cryptographic keys, and certificates.
@@ -250,3 +251,11 @@ except HttpResponseError as e:
 
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

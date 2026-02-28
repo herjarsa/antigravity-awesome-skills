@@ -75,3 +75,11 @@ User: "Create a diagram showing microservices architecture"
 User: "Generate a placeholder avatar image for the user profile component"
 -> Creates image in appropriate size for component use
 ```
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

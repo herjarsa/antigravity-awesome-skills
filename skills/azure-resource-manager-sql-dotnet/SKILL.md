@@ -1,12 +1,16 @@
 ---
 name: azure-resource-manager-sql-dotnet
-description: |
-  Azure Resource Manager SDK for Azure SQL in .NET. Use for MANAGEMENT PLANE operations: creating/managing SQL servers, databases, elastic pools, firewall rules, and failover groups via Azure Resource Manager. NOT for data plane operations (executing queries) - use Microsoft.Data.SqlClient for that. Triggers: "SQL server", "create SQL database", "manage SQL resources", "ARM SQL", "SqlServerResource", "provision Azure SQL", "elastic pool", "firewall rule".
-package: Azure.ResourceManager.Sql
-risk: unknown
-source: community
+description: >
+  Azure Resource Manager SDK for Azure SQL in .NET. Use for MANAGEMENT PLANE
+  operations: creating/managing SQL servers, databases, elastic pools, firewall
+  rules, and failover groups via Azure Resource Manager. NOT for data plane
+  operations (executing queries) - use Microsoft.Data.SqlClient for that.
+  Triggers: "SQL server", "create SQL database", "manage SQL resources", "ARM
+  SQL", "SqlServerResource", "provision Azure SQL", "elastic pool", "firewall
+  rule".
+metadata:
+  package: Azure.ResourceManager.Sql
 ---
-
 # Azure.ResourceManager.Sql (.NET)
 
 Management plane SDK for provisioning and managing Azure SQL resources via Azure Resource Manager.
@@ -322,3 +326,11 @@ catch (RequestFailedException ex)
 
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

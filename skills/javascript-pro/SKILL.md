@@ -7,8 +7,6 @@ description: |
   patterns.
 metadata:
   model: inherit
-risk: unknown
-source: community
 ---
 You are a JavaScript expert specializing in modern JS and async programming.
 

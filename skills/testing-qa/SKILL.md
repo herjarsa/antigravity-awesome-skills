@@ -1,13 +1,12 @@
 ---
 name: testing-qa
-description: "Comprehensive testing and QA workflow covering unit testing, integration testing, E2E testing, browser automation, and quality assurance."
-source: personal
-risk: safe
-domain: quality-assurance
-category: workflow-bundle
-version: 1.0.0
+description: Comprehensive testing and QA workflow covering unit testing,
+  integration testing, E2E testing, browser automation, and quality assurance.
+metadata:
+  domain: quality-assurance
+  category: workflow-bundle
+  version: 1.0.0
 ---
-
 # Testing/QA Workflow Bundle
 
 ## Overview
@@ -229,3 +228,11 @@ Use @verification-before-completion to verify changes
 - `security-audit` - Security testing
 - `cloud-devops` - CI/CD integration
 - `ai-ml` - AI testing
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

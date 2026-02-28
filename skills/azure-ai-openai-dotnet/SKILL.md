@@ -1,12 +1,14 @@
 ---
 name: azure-ai-openai-dotnet
-description: |
-  Azure OpenAI SDK for .NET. Client library for Azure OpenAI and OpenAI services. Use for chat completions, embeddings, image generation, audio transcription, and assistants. Triggers: "Azure OpenAI", "AzureOpenAIClient", "ChatClient", "chat completions .NET", "GPT-4", "embeddings", "DALL-E", "Whisper", "OpenAI .NET".
-package: Azure.AI.OpenAI
-risk: unknown
-source: community
+description: >
+  Azure OpenAI SDK for .NET. Client library for Azure OpenAI and OpenAI
+  services. Use for chat completions, embeddings, image generation, audio
+  transcription, and assistants. Triggers: "Azure OpenAI", "AzureOpenAIClient",
+  "ChatClient", "chat completions .NET", "GPT-4", "embeddings", "DALL-E",
+  "Whisper", "OpenAI .NET".
+metadata:
+  package: Azure.AI.OpenAI
 ---
-
 # Azure.AI.OpenAI (.NET)
 
 Client library for Azure OpenAI Service providing access to OpenAI models including GPT-4, GPT-4o, embeddings, DALL-E, and Whisper.
@@ -458,3 +460,11 @@ catch (RequestFailedException ex)
 
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

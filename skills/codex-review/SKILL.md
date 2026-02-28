@@ -37,3 +37,11 @@ See the GitHub repository for troubleshooting guides.
 
 ## Related Skills
 - context7-auto-research, tavily-web, exa-search, firecrawl-scraper
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

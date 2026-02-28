@@ -6,10 +6,7 @@ description: |
   security implementations or security code reviews.
 metadata:
   model: sonnet
-risk: unknown
-source: community
 ---
-
 ## Use this skill when
 
 - Working on backend security coder tasks or workflows

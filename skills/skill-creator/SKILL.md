@@ -1,17 +1,17 @@
 ---
 name: skill-creator
-description: "This skill should be used when the user asks to create a new skill, build a skill, make a custom skill, develop a CLI skill, or wants to extend the CLI with new capabilities. Automates the entire s..."
-version: 1.3.0
-author: Eric Andrade
-created: 2025-02-01
-updated: 2026-02-04
-platforms: [github-copilot-cli, claude-code, codex]
-category: meta
-tags: [automation, scaffolding, skill-creation, meta-skill]
-risk: safe
-source: community
+description: This skill should be used when the user asks to create a new skill,
+  build a skill, make a custom skill, develop a CLI skill, or wants to extend
+  the CLI with new capabilities. Automates the entire s...
+metadata:
+  version: 1.3.0
+  author: Eric Andrade
+  created: 2025-02-01
+  updated: 2026-02-04
+  platforms: github-copilot-cli, claude-code, codex
+  category: meta
+  tags: automation, scaffolding, skill-creation, meta-skill
 ---
-
 # skill-creator
 
 ## Purpose
@@ -592,3 +592,11 @@ Executable utilities for skill maintenance:
 - **Repository:** https://github.com/yourusername/cli-ai-skills
 - **Writing Style Guide:** `resources/templates/writing-style-guide.md`
 - **Progress Tracker Template:** `resources/templates/progress-tracker.md`
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

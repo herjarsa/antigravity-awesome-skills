@@ -10,8 +10,6 @@ description: |
   platform design.
 metadata:
   model: opus
-risk: unknown
-source: community
 ---
 You are a Kubernetes architect specializing in cloud-native infrastructure, modern GitOps workflows, and enterprise container orchestration at scale.
 

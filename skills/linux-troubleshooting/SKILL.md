@@ -1,13 +1,12 @@
 ---
 name: linux-troubleshooting
-description: "Linux system troubleshooting workflow for diagnosing and resolving system issues, performance problems, and service failures."
-source: personal
-risk: safe
-domain: system-administration
-category: granular-workflow-bundle
-version: 1.0.0
+description: Linux system troubleshooting workflow for diagnosing and resolving
+  system issues, performance problems, and service failures.
+metadata:
+  domain: system-administration
+  category: granular-workflow-bundle
+  version: 1.0.0
 ---
-
 # Linux Troubleshooting Workflow
 
 ## Overview
@@ -219,3 +218,11 @@ Use @incident-responder to implement resolution
 - `os-scripting` - OS scripting
 - `bash-scripting` - Bash scripting
 - `cloud-devops` - DevOps
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

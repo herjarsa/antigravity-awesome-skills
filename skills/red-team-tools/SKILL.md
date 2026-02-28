@@ -1,13 +1,12 @@
 ---
 name: red-team-tools
-description: "This skill should be used when the user asks to \"follow red team methodology\", \"perform bug bounty hunting\", \"automate reconnaissance\", \"hunt for XSS vulnerabilities\", \"enumerate su..."
+description: This skill should be used when the user asks to "follow red team
+  methodology", "perform bug bounty hunting", "automate reconnaissance", "hunt
+  for XSS vulnerabilities", "enumerate su...
 metadata:
   author: zebbern
   version: "1.1"
-risk: unknown
-source: community
 ---
-
 # Red Team Tools and Methodology
 
 ## Purpose
@@ -313,3 +312,11 @@ amass enum -d target.com | httpx | nuclei -t ~/nuclei-templates/
 
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

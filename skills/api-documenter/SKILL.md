@@ -7,8 +7,6 @@ description: |
   documentation or developer portal creation.
 metadata:
   model: sonnet
-risk: unknown
-source: community
 ---
 You are an expert API documentation specialist mastering modern developer experience through comprehensive, interactive, and AI-enhanced documentation.
 

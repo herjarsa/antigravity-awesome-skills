@@ -6,10 +6,7 @@ description: Write efficient C code with proper memory management, pointer
   or system programming.
 metadata:
   model: opus
-risk: unknown
-source: community
 ---
-
 ## Use this skill when
 
 - Working on c pro tasks or workflows

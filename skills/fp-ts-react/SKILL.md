@@ -794,3 +794,11 @@ const modalProps = {
 - **[@devexperts/remote-data-ts](https://github.com/devexperts/remote-data-ts)** - RemoteData
 - **[io-ts](https://github.com/gcanti/io-ts)** - Runtime type validation
 - **[zod](https://github.com/colinhacks/zod)** - Schema validation (works great with fp-ts)
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

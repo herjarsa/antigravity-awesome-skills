@@ -1,13 +1,13 @@
 ---
 name: security-audit
-description: "Comprehensive security auditing workflow covering web application testing, API security, penetration testing, vulnerability scanning, and security hardening."
-source: personal
-risk: safe
-domain: security
-category: workflow-bundle
-version: 1.0.0
+description: Comprehensive security auditing workflow covering web application
+  testing, API security, penetration testing, vulnerability scanning, and
+  security hardening.
+metadata:
+  domain: security
+  category: workflow-bundle
+  version: 1.0.0
 ---
-
 # Security Auditing Workflow Bundle
 
 ## Overview
@@ -216,3 +216,11 @@ Use @security-scanning-security-hardening to harden application security
 - `wordpress` - WordPress security
 - `cloud-devops` - Cloud security
 - `testing-qa` - Security testing
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

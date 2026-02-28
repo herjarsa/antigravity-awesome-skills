@@ -8,10 +8,7 @@ description: |
   comprehensive content marketing.
 metadata:
   model: haiku
-risk: unknown
-source: community
 ---
-
 ## Use this skill when
 
 - Working on content marketer tasks or workflows

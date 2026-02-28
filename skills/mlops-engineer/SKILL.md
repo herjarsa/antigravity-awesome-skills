@@ -7,10 +7,7 @@ description: |
   for ML infrastructure, experiment management, or pipeline automation.
 metadata:
   model: inherit
-risk: unknown
-source: community
 ---
-
 ## Use this skill when
 
 - Working on mlops engineer tasks or workflows

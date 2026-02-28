@@ -1,12 +1,14 @@
 ---
 name: azure-mgmt-applicationinsights-dotnet
-description: |
-  Azure Application Insights SDK for .NET. Application performance monitoring and observability resource management. Use for creating Application Insights components, web tests, workbooks, analytics items, and API keys. Triggers: "Application Insights", "ApplicationInsights", "App Insights", "APM", "application monitoring", "web tests", "availability tests", "workbooks".
-package: Azure.ResourceManager.ApplicationInsights
-risk: unknown
-source: community
+description: >
+  Azure Application Insights SDK for .NET. Application performance monitoring
+  and observability resource management. Use for creating Application Insights
+  components, web tests, workbooks, analytics items, and API keys. Triggers:
+  "Application Insights", "ApplicationInsights", "App Insights", "APM",
+  "application monitoring", "web tests", "availability tests", "workbooks".
+metadata:
+  package: Azure.ResourceManager.ApplicationInsights
 ---
-
 # Azure.ResourceManager.ApplicationInsights (.NET)
 
 Azure Resource Manager SDK for managing Application Insights resources for application performance monitoring.
@@ -489,3 +491,11 @@ builder.Services.AddApplicationInsightsTelemetry(options =>
 
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

@@ -20,3 +20,7 @@ Use this skill when you need to work with windows 11 system management.
 This skill provides guidance and patterns for windows 11 system management.
 
 For more information, see the [source repository](https://github.com/NotMyself/claude-win11-speckit-update-skill).
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.

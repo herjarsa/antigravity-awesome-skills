@@ -7,10 +7,7 @@ description: |
   mobile features, cross-platform code, or app optimization.
 metadata:
   model: inherit
-risk: unknown
-source: community
 ---
-
 ## Use this skill when
 
 - Working on mobile developer tasks or workflows

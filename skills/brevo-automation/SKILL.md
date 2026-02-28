@@ -1,12 +1,11 @@
 ---
 name: brevo-automation
-description: "Automate Brevo (Sendinblue) tasks via Rube MCP (Composio): manage email campaigns, create/edit templates, track senders, and monitor campaign performance. Always search tools first for current sche..."
-requires:
-  mcp: [rube]
-risk: unknown
-source: community
+description: "Automate Brevo (Sendinblue) tasks via Rube MCP (Composio): manage
+  email campaigns, create/edit templates, track senders, and monitor campaign
+  performance. Always search tools first for current sche..."
+metadata:
+  requires: '{"mcp":["rube"]}'
 ---
-
 # Brevo Automation via Rube MCP
 
 Automate Brevo (formerly Sendinblue) email marketing operations through Composio's Brevo toolkit via Rube MCP.
@@ -200,3 +199,11 @@ Automate Brevo (formerly Sendinblue) email marketing operations through Composio
 
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

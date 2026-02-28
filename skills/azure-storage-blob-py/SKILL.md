@@ -1,13 +1,14 @@
 ---
 name: azure-storage-blob-py
-description: |
-  Azure Blob Storage SDK for Python. Use for uploading, downloading, listing blobs, managing containers, and blob lifecycle.
-  Triggers: "blob storage", "BlobServiceClient", "ContainerClient", "BlobClient", "upload blob", "download blob".
-package: azure-storage-blob
-risk: unknown
-source: community
----
+description: >
+  Azure Blob Storage SDK for Python. Use for uploading, downloading, listing
+  blobs, managing containers, and blob lifecycle.
 
+  Triggers: "blob storage", "BlobServiceClient", "ContainerClient",
+  "BlobClient", "upload blob", "download blob".
+metadata:
+  package: azure-storage-blob
+---
 # Azure Blob Storage SDK for Python
 
 Client library for Azure Blob Storage — object storage for unstructured data.
@@ -222,3 +223,11 @@ async def download_async():
 
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

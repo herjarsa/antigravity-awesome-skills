@@ -8,10 +8,7 @@ description: |
   modules.
 metadata:
   model: haiku
-risk: unknown
-source: community
 ---
-
 # C4 Code Level: [Directory Name]
 
 ## Use this skill when

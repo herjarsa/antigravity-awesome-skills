@@ -20,3 +20,7 @@ Use this skill when you need to work with pre-ingestion verification for epistem
 This skill provides guidance and patterns for pre-ingestion verification for epistemic quality in rag systems with 9-point verification and two-round hitl workflow.
 
 For more information, see the [source repository](https://github.com/frmoretto/clarity-gate).
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.

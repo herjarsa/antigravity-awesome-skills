@@ -7,10 +7,7 @@ description: |
   reviews.
 metadata:
   model: sonnet
-risk: unknown
-source: community
 ---
-
 ## Use this skill when
 
 - Working on mobile security coder tasks or workflows

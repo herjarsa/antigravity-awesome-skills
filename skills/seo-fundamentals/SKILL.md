@@ -1,14 +1,12 @@
 ---
 name: seo-fundamentals
 description: >
-  Core principles of SEO including E-E-A-T, Core Web Vitals, technical foundations,
-  content quality, and how modern search engines evaluate pages. This skill explains
-  *why* SEO works, not how to execute specific optimizations.
-allowed-tools: Read, Glob, Grep
-risk: unknown
-source: community
+  Core principles of SEO including E-E-A-T, Core Web Vitals, technical
+  foundations, content quality, and how modern search engines evaluate pages.
+  This skill explains *why* SEO works, not how to execute specific
+  optimizations.
+allowed-tools: Read Glob Grep
 ---
-
 ---
 
 # SEO Fundamentals
@@ -176,3 +174,11 @@ SEO fundamentals should be validated using **multiple signals**, not single metr
 
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

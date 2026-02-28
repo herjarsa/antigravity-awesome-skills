@@ -8,10 +8,7 @@ description: |
   components.
 metadata:
   model: sonnet
-risk: unknown
-source: community
 ---
-
 # C4 Component Level: [Component Name]
 
 ## Use this skill when

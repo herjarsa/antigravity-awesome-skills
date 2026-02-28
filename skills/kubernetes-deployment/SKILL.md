@@ -1,13 +1,12 @@
 ---
 name: kubernetes-deployment
-description: "Kubernetes deployment workflow for container orchestration, Helm charts, service mesh, and production-ready K8s configurations."
-source: personal
-risk: safe
-domain: cloud-devops
-category: granular-workflow-bundle
-version: 1.0.0
+description: Kubernetes deployment workflow for container orchestration, Helm
+  charts, service mesh, and production-ready K8s configurations.
+metadata:
+  domain: cloud-devops
+  category: granular-workflow-bundle
+  version: 1.0.0
 ---
-
 # Kubernetes Deployment Workflow
 
 ## Overview
@@ -165,3 +164,11 @@ Use @gitops-workflow to implement GitOps deployment
 - `cloud-devops` - Cloud/DevOps
 - `terraform-infrastructure` - Infrastructure
 - `docker-containerization` - Containers
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

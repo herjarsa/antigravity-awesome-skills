@@ -6,10 +6,7 @@ description: |
   keyword-rich metadata. Use PROACTIVELY for new content.
 metadata:
   model: haiku
-risk: unknown
-source: community
 ---
-
 ## Use this skill when
 
 - Working on seo meta optimizer tasks or workflows

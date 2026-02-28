@@ -691,3 +691,11 @@ bun run ./dist/index.js
 - [Bun GitHub](https://github.com/oven-sh/bun)
 - [Elysia Framework](https://elysiajs.com/)
 - [Bun Discord](https://bun.sh/discord)
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

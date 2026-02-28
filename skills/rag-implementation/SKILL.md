@@ -1,13 +1,13 @@
 ---
 name: rag-implementation
-description: "RAG (Retrieval-Augmented Generation) implementation workflow covering embedding selection, vector database setup, chunking strategies, and retrieval optimization."
-source: personal
-risk: safe
-domain: ai-ml
-category: granular-workflow-bundle
-version: 1.0.0
+description: RAG (Retrieval-Augmented Generation) implementation workflow
+  covering embedding selection, vector database setup, chunking strategies, and
+  retrieval optimization.
+metadata:
+  domain: ai-ml
+  category: granular-workflow-bundle
+  version: 1.0.0
 ---
-
 # RAG Implementation Workflow
 
 ## Overview
@@ -195,3 +195,11 @@ User Query -> Embedding -> Vector Search -> Retrieved Docs -> LLM -> Response
 - `ai-ml` - AI/ML development
 - `ai-agent-development` - AI agents
 - `database` - Vector databases
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

@@ -1,11 +1,10 @@
 ---
 name: plan-writing
-description: "Structured task planning with clear breakdowns, dependencies, and verification criteria. Use when implementing features, refactoring, or any multi-step work."
-allowed-tools: Read, Glob, Grep
-risk: unknown
-source: community
+description: Structured task planning with clear breakdowns, dependencies, and
+  verification criteria. Use when implementing features, refactoring, or any
+  multi-step work.
+allowed-tools: Read Glob Grep
 ---
-
 # Plan Writing
 
 > Source: obra/superpowers
@@ -152,3 +151,11 @@ One sentence: What are we building/fixing?
 - Adding a feature
 - Fixing a bug (if complex)
 - Refactoring multiple files
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

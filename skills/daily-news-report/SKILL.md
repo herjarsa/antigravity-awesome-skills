@@ -1,14 +1,14 @@
 ---
 name: daily-news-report
-description: "Scrapes content based on a preset URL list, filters high-quality technical information, and generates daily Markdown reports."
-argument-hint: [optional: date]
-disable-model-invocation: false
-user-invocable: true
-allowed-tools: Task, WebFetch, Read, Write, Bash(mkdir*), Bash(date*), Bash(ls*), mcp__chrome-devtools__*
-risk: unknown
-source: community
+description: Scrapes content based on a preset URL list, filters high-quality
+  technical information, and generates daily Markdown reports.
+allowed-tools: Task WebFetch Read Write Bash(mkdir*) Bash(date*) Bash(ls*)
+  mcp__chrome-devtools__*
+metadata:
+  argument-hint: '[{"optional":"date"}]'
+  disable-model-invocation: "false"
+  user-invocable: "true"
 ---
-
 # Daily News Report v3.0
 
 > **Architecture Upgrade**: Main Agent Orchestration + SubAgent Execution + Browser Scraping + Smart Caching
@@ -359,3 +359,11 @@ To ensure usability across different Agent environments, the following checks mu
 
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

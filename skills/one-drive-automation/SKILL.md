@@ -1,12 +1,11 @@
 ---
 name: one-drive-automation
-description: "Automate OneDrive file management, search, uploads, downloads, sharing, permissions, and folder operations via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
-risk: unknown
-source: community
+description: Automate OneDrive file management, search, uploads, downloads,
+  sharing, permissions, and folder operations via Rube MCP (Composio). Always
+  search tools first for current schemas.
+metadata:
+  requires: '{"mcp":["rube"]}'
 ---
-
 # OneDrive Automation via Rube MCP
 
 Automate OneDrive operations including file upload/download, search, folder management, sharing links, permissions management, and drive browsing through Composio's OneDrive toolkit.
@@ -241,3 +240,11 @@ Most OneDrive tools accept either paths or IDs:
 
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

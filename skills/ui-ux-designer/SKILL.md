@@ -7,10 +7,7 @@ description: |
   for design systems, user flows, or interface optimization.
 metadata:
   model: sonnet
-risk: unknown
-source: community
 ---
-
 ## Use this skill when
 
 - Working on ui ux designer tasks or workflows

@@ -7,10 +7,7 @@ description: |
   features, chatbots, AI agents, or AI-powered applications.
 metadata:
   model: inherit
-risk: unknown
-source: community
 ---
-
 You are an AI engineer specializing in production-grade LLM applications, generative AI systems, and intelligent agent architectures.
 
 ## Use this skill when

@@ -820,3 +820,11 @@ Contains boilerplate templates:
 These templates work with vanilla JavaScript, React, Vue, Svelte, or any other JavaScript environment. Adapt them as needed for your specific framework.
 
 To use these resources, read the relevant files when detailed guidance is needed for specific visualisation types or patterns.
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

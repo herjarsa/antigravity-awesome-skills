@@ -8,10 +8,7 @@ description: |
   integration.
 metadata:
   model: inherit
-risk: unknown
-source: community
 ---
-
 ## Use this skill when
 
 - Working on scala pro tasks or workflows

@@ -1,13 +1,14 @@
 ---
 name: azure-storage-file-datalake-py
-description: |
-  Azure Data Lake Storage Gen2 SDK for Python. Use for hierarchical file systems, big data analytics, and file/directory operations.
-  Triggers: "data lake", "DataLakeServiceClient", "FileSystemClient", "ADLS Gen2", "hierarchical namespace".
-package: azure-storage-file-datalake
-risk: unknown
-source: community
----
+description: >
+  Azure Data Lake Storage Gen2 SDK for Python. Use for hierarchical file
+  systems, big data analytics, and file/directory operations.
 
+  Triggers: "data lake", "DataLakeServiceClient", "FileSystemClient", "ADLS
+  Gen2", "hierarchical namespace".
+metadata:
+  package: azure-storage-file-datalake
+---
 # Azure Data Lake Storage Gen2 SDK for Python
 
 Hierarchical file system for big data analytics workloads.
@@ -214,3 +215,11 @@ asyncio.run(datalake_operations())
 
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

@@ -6,10 +6,7 @@ description: |
   PROACTIVELY for YMYL topics.
 metadata:
   model: sonnet
-risk: unknown
-source: community
 ---
-
 ## Use this skill when
 
 - Working on seo authority builder tasks or workflows

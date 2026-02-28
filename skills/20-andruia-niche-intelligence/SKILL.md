@@ -1,12 +1,12 @@
 ---
-id: 20-andruia-niche-intelligence
 name: 20-andruia-niche-intelligence
-description: "Estratega de Inteligencia de Dominio de Andru.ia. Analiza el nicho específico de un proyecto para inyectar conocimientos, regulaciones y estándares únicos del sector. Actívalo tras definir el nicho."
-category: andruia
-risk: safe
-source: personal
+description: Estratega de Inteligencia de Dominio de Andru.ia. Analiza el nicho
+  específico de un proyecto para inyectar conocimientos, regulaciones y
+  estándares únicos del sector. Actívalo tras definir el nicho.
+metadata:
+  id: 20-andruia-niche-intelligence
+  category: andruia
 ---
-
 ## When to Use
 
 Use this skill once the project's niche or industry has been identified. It is essential for injecting domain-specific intelligence, regulatory requirements, and industry-standard UX patterns into the project.
@@ -60,3 +60,11 @@ Activa este skill **después de que el nicho de mercado esté claro** y ya exist
 - Cuando quieras profundizar en regulaciones, estándares y patrones UX específicos de un sector concreto (Fintech, HealthTech, logística, etc.).
 - Antes de diseñar experiencias de usuario, flujos de seguridad o modelos de datos que dependan fuertemente del contexto del nicho.
 - Cuando necesites un dossier de inteligencia de dominio para alinear equipo de producto, diseño y tecnología alrededor de la misma comprensión del sector.
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

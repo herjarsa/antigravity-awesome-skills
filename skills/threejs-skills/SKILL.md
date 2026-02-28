@@ -652,3 +652,11 @@ Three.js (latest) + Vite/Webpack
 ```
 
 This skill provides CDN-compatible foundations. In production, you'd layer on these modern tools for professional results.
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

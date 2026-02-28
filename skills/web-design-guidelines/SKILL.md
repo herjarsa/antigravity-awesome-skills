@@ -1,11 +1,11 @@
 ---
 name: web-design-guidelines
-description: "Review UI code for Web Interface Guidelines compliance. Use when asked to \\\"review my UI\\\", \\\"check accessibility\\\", \\\"audit design\\\", \\\"review UX\\\", or \\\"check my site aga..."
-argument-hint: <file-or-pattern>
-risk: unknown
-source: community
+description: Review UI code for Web Interface Guidelines compliance. Use when
+  asked to \"review my UI\", \"check accessibility\", \"audit design\", \"review
+  UX\", or \"check my site aga...
+metadata:
+  argument-hint: <file-or-pattern>
 ---
-
 # Web Interface Guidelines
 
 Review files for compliance with Web Interface Guidelines.
@@ -39,3 +39,11 @@ If no files specified, ask the user which files to review.
 
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

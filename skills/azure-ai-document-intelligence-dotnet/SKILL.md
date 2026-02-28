@@ -1,12 +1,15 @@
 ---
 name: azure-ai-document-intelligence-dotnet
-description: |
-  Azure AI Document Intelligence SDK for .NET. Extract text, tables, and structured data from documents using prebuilt and custom models. Use for invoice processing, receipt extraction, ID document analysis, and custom document models. Triggers: "Document Intelligence", "DocumentIntelligenceClient", "form recognizer", "invoice extraction", "receipt OCR", "document analysis .NET".
-package: Azure.AI.DocumentIntelligence
-risk: unknown
-source: community
+description: >
+  Azure AI Document Intelligence SDK for .NET. Extract text, tables, and
+  structured data from documents using prebuilt and custom models. Use for
+  invoice processing, receipt extraction, ID document analysis, and custom
+  document models. Triggers: "Document Intelligence",
+  "DocumentIntelligenceClient", "form recognizer", "invoice extraction",
+  "receipt OCR", "document analysis .NET".
+metadata:
+  package: Azure.AI.DocumentIntelligence
 ---
-
 # Azure.AI.DocumentIntelligence (.NET)
 
 Extract text, tables, and structured data from documents using prebuilt and custom models.
@@ -340,3 +343,11 @@ catch (RequestFailedException ex)
 
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

@@ -8,10 +8,7 @@ description: |
   implementation and governance.
 metadata:
   model: opus
-risk: unknown
-source: community
 ---
-
 ## Use this skill when
 
 - Working on tdd orchestrator tasks or workflows

@@ -1,12 +1,15 @@
 ---
 name: azure-search-documents-dotnet
-description: |
-  Azure AI Search SDK for .NET (Azure.Search.Documents). Use for building search applications with full-text, vector, semantic, and hybrid search. Covers SearchClient (queries, document CRUD), SearchIndexClient (index management), and SearchIndexerClient (indexers, skillsets). Triggers: "Azure Search .NET", "SearchClient", "SearchIndexClient", "vector search C#", "semantic search .NET", "hybrid search", "Azure.Search.Documents".
-package: Azure.Search.Documents
-risk: unknown
-source: community
+description: >
+  Azure AI Search SDK for .NET (Azure.Search.Documents). Use for building search
+  applications with full-text, vector, semantic, and hybrid search. Covers
+  SearchClient (queries, document CRUD), SearchIndexClient (index management),
+  and SearchIndexerClient (indexers, skillsets). Triggers: "Azure Search .NET",
+  "SearchClient", "SearchIndexClient", "vector search C#", "semantic search
+  .NET", "hybrid search", "Azure.Search.Documents".
+metadata:
+  package: Azure.Search.Documents
 ---
-
 # Azure.Search.Documents (.NET)
 
 Build search applications with full-text, vector, semantic, and hybrid search capabilities.
@@ -342,3 +345,11 @@ catch (RequestFailedException ex)
 
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

@@ -3,10 +3,7 @@ name: conductor-manage
 description: "Manage track lifecycle: archive, restore, delete, rename, and cleanup"
 metadata:
   argument-hint: "[--archive | --restore | --delete | --rename | --list | --cleanup]"
-risk: unknown
-source: community
 ---
-
 # Track Manager
 
 Manage the complete track lifecycle including archiving, restoring, deleting, renaming, and cleaning up orphaned artifacts.

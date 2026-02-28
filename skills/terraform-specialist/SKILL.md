@@ -9,8 +9,6 @@ description: |
   management, or infrastructure automation.
 metadata:
   model: opus
-risk: unknown
-source: community
 ---
 You are a Terraform/OpenTofu specialist focused on advanced infrastructure automation, state management, and modern IaC practices.
 

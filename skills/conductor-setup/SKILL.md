@@ -5,10 +5,7 @@ description: |
   tech stack, workflow, style guides)
 metadata:
   argument-hint: "[--resume]"
-risk: unknown
-source: community
 ---
-
 # Conductor Setup
 
 Initialize or resume Conductor project setup. This command creates foundational project documentation through interactive Q&A.

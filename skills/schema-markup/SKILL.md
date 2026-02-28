@@ -6,11 +6,8 @@ description: >
   audit, or scale schema markup (JSON-LD) for rich results. This skill evaluates
   whether schema should be implemented, what types are valid, and how to deploy
   safely according to Google guidelines.
-allowed-tools: Read, Glob, Grep
-risk: unknown
-source: community
+allowed-tools: Read Glob Grep
 ---
-
 ---
 
 # Schema Markup & Structured Data
@@ -363,3 +360,11 @@ Where and how to add it
 
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

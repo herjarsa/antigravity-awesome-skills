@@ -426,3 +426,11 @@ See [TROUBLESHOOTING.md](TROUBLESHOOTING.md) for complete debugging guide.
 **Progressive Disclosure**: Reference files for detailed information ✅
 
 **Next**: Create more skills, refine patterns based on usage
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

@@ -20,3 +20,7 @@ Use this skill when you need to work with scientific research and analysis skill
 This skill provides guidance and patterns for scientific research and analysis skills.
 
 For more information, see the [source repository](https://github.com/K-Dense-AI/claude-scientific-skills).
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.

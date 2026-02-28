@@ -1,13 +1,13 @@
 ---
 name: web-security-testing
-description: "Web application security testing workflow for OWASP Top 10 vulnerabilities including injection, XSS, authentication flaws, and access control issues."
-source: personal
-risk: safe
-domain: security
-category: granular-workflow-bundle
-version: 1.0.0
+description: Web application security testing workflow for OWASP Top 10
+  vulnerabilities including injection, XSS, authentication flaws, and access
+  control issues.
+metadata:
+  domain: security
+  category: granular-workflow-bundle
+  version: 1.0.0
 ---
-
 # Web Security Testing Workflow
 
 ## Overview
@@ -182,3 +182,11 @@ Use @reporting-standards to create security report
 - `security-audit` - Security auditing
 - `api-security-testing` - API security
 - `wordpress-security` - WordPress security
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

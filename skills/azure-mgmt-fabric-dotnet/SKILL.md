@@ -1,12 +1,15 @@
 ---
 name: azure-mgmt-fabric-dotnet
-description: |
-  Azure Resource Manager SDK for Fabric in .NET. Use for MANAGEMENT PLANE operations: provisioning, scaling, suspending/resuming Microsoft Fabric capacities, checking name availability, and listing SKUs via Azure Resource Manager. Triggers: "Fabric capacity", "create capacity", "suspend capacity", "resume capacity", "Fabric SKU", "provision Fabric", "ARM Fabric", "FabricCapacityResource".
-package: Azure.ResourceManager.Fabric
-risk: unknown
-source: community
+description: >
+  Azure Resource Manager SDK for Fabric in .NET. Use for MANAGEMENT PLANE
+  operations: provisioning, scaling, suspending/resuming Microsoft Fabric
+  capacities, checking name availability, and listing SKUs via Azure Resource
+  Manager. Triggers: "Fabric capacity", "create capacity", "suspend capacity",
+  "resume capacity", "Fabric SKU", "provision Fabric", "ARM Fabric",
+  "FabricCapacityResource".
+metadata:
+  package: Azure.ResourceManager.Fabric
 ---
-
 # Azure.ResourceManager.Fabric (.NET)
 
 Management plane SDK for provisioning and managing Microsoft Fabric capacity resources via Azure Resource Manager.
@@ -341,3 +344,11 @@ catch (RequestFailedException ex)
 
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

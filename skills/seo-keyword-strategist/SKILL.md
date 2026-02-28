@@ -6,10 +6,7 @@ description: |
   over-optimization. Use PROACTIVELY for content optimization.
 metadata:
   model: haiku
-risk: unknown
-source: community
 ---
-
 ## Use this skill when
 
 - Working on seo keyword strategist tasks or workflows

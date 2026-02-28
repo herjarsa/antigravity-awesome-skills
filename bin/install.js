@@ -165,7 +165,36 @@ function run(cmd, args, opts = {}) {
   if (r.status !== 0) process.exit(r.status == null ? 1 : r.status);
 }
 
+
+/** Custom Antigravity logic: Install global rules and sync script. */
+function installGlobalDefaults(tempDir, target) {
+  const rootDir = path.dirname(target); // Project root (above skills/)
+  const defaultsSrc = path.join(tempDir, 'scripts', 'defaults');
+
+  if (!fs.existsSync(defaultsSrc)) return;
+
+  const targetRulesDir = path.join(rootDir, '.agents', 'rules');
+  if (!fs.existsSync(targetRulesDir)) fs.mkdirSync(targetRulesDir, { recursive: true });
+
+  const targetScriptsDir = path.join(rootDir, 'scripts');
+  if (!fs.existsSync(targetScriptsDir)) fs.mkdirSync(targetScriptsDir, { recursive: true });
+
+  // Generic copy logic for all defaults
+  fs.readdirSync(defaultsSrc).forEach(file => {
+    const src = path.join(defaultsSrc, file);
+    if (file.endsWith('.md')) { // Rename mcp rule if needed
+      const targetName = file === 'rule-mcp-superpowers.md' ? 'mcp-superpowers.md' : file;
+      fs.copyFileSync(src, path.join(targetRulesDir, targetName));
+      console.log(`Installed global rule: \${targetName}`);
+    } else if (file.endsWith('.sh')) {
+      fs.copyFileSync(src, path.join(targetScriptsDir, file));
+      console.log(`Installed utility script: \${file}`);
+    }
+  });
+}
+
 function main() {
+
   const opts = parseArgs();
   const { tagArg, versionArg } = opts;
 
@@ -197,10 +226,10 @@ function main() {
       (versionArg
         ? versionArg.startsWith("v")
           ? versionArg
-          : `v${versionArg}`
+          : \`v\${versionArg}\`
         : null);
     if (ref) {
-      console.log(`Checking out ${ref}…`);
+      console.log(\`Checking out \${ref}…\`);
       process.chdir(tempDir);
       run("git", ["checkout", ref]);
       process.chdir(originalCwd);
@@ -225,7 +254,7 @@ function main() {
           }
         }
       } else {
-        console.log(`Updating existing install at ${target}…`);
+        console.log(\`Updating existing install at \${target}…\`);
       }
     } else {
       const parent = path.dirname(target);
@@ -233,7 +262,7 @@ function main() {
         try {
           fs.mkdirSync(parent, { recursive: true });
         } catch (e) {
-          console.error(`Cannot create parent directory: ${parent}`, e.message);
+          console.error(\`Cannot create parent directory: \${parent}\`, e.message);
           process.exit(1);
         }
       }
@@ -241,8 +270,10 @@ function main() {
     }
 
     installSkillsIntoTarget(tempDir, target);
+    installGlobalDefaults(tempDir, target);
 
-    console.log(`\nInstalled to ${target}`);
+
+    console.log(\`\\nInstalled to \${target}\`);
     console.log(
       "Pick a bundle in docs/BUNDLES.md and use @skill-name in your AI assistant.",
     );

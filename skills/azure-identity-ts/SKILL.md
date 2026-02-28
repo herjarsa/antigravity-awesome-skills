@@ -1,11 +1,11 @@
 ---
 name: azure-identity-ts
-description: "Authenticate to Azure services using Azure Identity SDK for JavaScript (@azure/identity). Use when configuring authentication with DefaultAzureCredential, managed identity, service principals, or i..."
-package: "@azure/identity"
-risk: unknown
-source: community
+description: Authenticate to Azure services using Azure Identity SDK for
+  JavaScript (@azure/identity). Use when configuring authentication with
+  DefaultAzureCredential, managed identity, service principals, or i...
+metadata:
+  package: "@azure/identity"
 ---
-
 # Azure Identity SDK for TypeScript
 
 Authenticate to Azure services with various credential types.
@@ -306,3 +306,11 @@ AzureLogger.log = (...args) => {
 
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

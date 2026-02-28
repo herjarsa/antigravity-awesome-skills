@@ -8,10 +8,7 @@ description: |
   architecture decisions.
 metadata:
   model: sonnet
-risk: unknown
-source: community
 ---
-
 ## Use this skill when
 
 - Working on dotnet architect tasks or workflows

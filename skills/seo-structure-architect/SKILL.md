@@ -6,10 +6,7 @@ description: |
   search-friendly content organization. Use PROACTIVELY for content structuring.
 metadata:
   model: haiku
-risk: unknown
-source: community
 ---
-
 ## Use this skill when
 
 - Working on seo structure architect tasks or workflows

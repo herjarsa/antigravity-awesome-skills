@@ -9,10 +9,7 @@ description: |
   understanding undocumented software.
 metadata:
   model: opus
-risk: unknown
-source: community
 ---
-
 # Common RE scripting environments
 - IDAPython (IDA Pro scripting)
 - Ghidra scripting (Java/Python via Jython)

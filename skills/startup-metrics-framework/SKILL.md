@@ -7,10 +7,7 @@ description: |
   optimizing business performance metrics.
 metadata:
   version: 1.0.0
-risk: unknown
-source: community
 ---
-
 # Startup Metrics Framework
 
 Comprehensive guide to tracking, calculating, and optimizing key performance metrics for different startup business models from seed through Series A.

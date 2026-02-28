@@ -7,10 +7,7 @@ description: |
   optimization, or production ML infrastructure.
 metadata:
   model: inherit
-risk: unknown
-source: community
 ---
-
 ## Use this skill when
 
 - Working on ml engineer tasks or workflows

@@ -9,10 +9,7 @@ description: |
   strategies.
 metadata:
   model: opus
-risk: unknown
-source: community
 ---
-
 ## Use this skill when
 
 - Working on cloud architect tasks or workflows

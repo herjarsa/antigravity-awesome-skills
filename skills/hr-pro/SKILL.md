@@ -7,10 +7,7 @@ description: |
   produce structured, bias-mitigated, lawful templates.
 metadata:
   model: sonnet
-risk: unknown
-source: community
 ---
-
 ## Use this skill when
 
 - Working on hr pro tasks or workflows

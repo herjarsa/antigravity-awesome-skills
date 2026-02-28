@@ -7,10 +7,7 @@ description: |
   refactoring, performance optimization, or complex .NET solutions.
 metadata:
   model: inherit
-risk: unknown
-source: community
 ---
-
 ## Use this skill when
 
 - Working on csharp pro tasks or workflows

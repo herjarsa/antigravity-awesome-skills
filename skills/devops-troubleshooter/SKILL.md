@@ -9,10 +9,7 @@ description: |
   troubleshooting.
 metadata:
   model: sonnet
-risk: unknown
-source: community
 ---
-
 ## Use this skill when
 
 - Working on devops troubleshooter tasks or workflows

@@ -273,3 +273,11 @@ This skill focuses on **facts and best practices**, not architectural opinions:
 - We emphasize thread safety with `@MainActor` and `@Observable`
 - We optimize for performance and maintainability
 - We follow Apple's Human Interface Guidelines and API design patterns
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

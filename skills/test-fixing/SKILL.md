@@ -119,3 +119,11 @@ User: "The tests are failing after my refactor"
 4. Fix AttributeErrors → Run subset → Verify
 5. Fix AssertionErrors → Run subset → Verify
 6. Run full suite → All pass ✓
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

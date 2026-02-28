@@ -1,12 +1,12 @@
 ---
-id: 00-andruia-consultant
 name: 00-andruia-consultant
-description: "Arquitecto de Soluciones Principal y Consultor Tecnológico de Andru.ia. Diagnostica y traza la hoja de ruta óptima para proyectos de IA en español."
-category: andruia
-risk: safe
-source: personal
+description: Arquitecto de Soluciones Principal y Consultor Tecnológico de
+  Andru.ia. Diagnostica y traza la hoja de ruta óptima para proyectos de IA en
+  español.
+metadata:
+  id: 00-andruia-consultant
+  category: andruia
 ---
-
 ## When to Use
 
 Use this skill at the very beginning of a project to diagnose the workspace, determine whether it's a "Pure Engine" (new) or "Evolution" (existing) project, and to set the initial technical roadmap and expert squad.
@@ -58,3 +58,11 @@ Para ambos escenarios, tras recibir las respuestas:
 
 1. **Contexto Inteligente**: No mezcles datos de proyectos anteriores. Cada carpeta es una entidad única.
 2. **Estándar de Diamante**: Prioriza siempre soluciones escalables, seguras y estéticamente superiores.
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

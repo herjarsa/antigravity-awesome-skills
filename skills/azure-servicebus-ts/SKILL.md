@@ -1,11 +1,11 @@
 ---
 name: azure-servicebus-ts
-description: "Build messaging applications using Azure Service Bus SDK for JavaScript (@azure/service-bus). Use when implementing queues, topics/subscriptions, message sessions, dead-letter handling, or enterpri..."
-package: "@azure/service-bus"
-risk: unknown
-source: community
+description: Build messaging applications using Azure Service Bus SDK for
+  JavaScript (@azure/service-bus). Use when implementing queues,
+  topics/subscriptions, message sessions, dead-letter handling, or enterpri...
+metadata:
+  package: "@azure/service-bus"
 ---
-
 # Azure Service Bus SDK for TypeScript
 
 Enterprise messaging with queues, topics, and subscriptions.
@@ -236,3 +236,11 @@ For detailed patterns, see:
 
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

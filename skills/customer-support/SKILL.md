@@ -8,10 +8,7 @@ description: |
   comprehensive customer experience management.
 metadata:
   model: haiku
-risk: unknown
-source: community
 ---
-
 ## Use this skill when
 
 - Working on customer support tasks or workflows

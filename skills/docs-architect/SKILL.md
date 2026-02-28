@@ -7,10 +7,7 @@ description: |
   documentation, architecture guides, or technical deep-dives.
 metadata:
   model: sonnet
-risk: unknown
-source: community
 ---
-
 ## Use this skill when
 
 - Working on docs architect tasks or workflows

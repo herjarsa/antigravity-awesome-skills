@@ -20,3 +20,7 @@ Use this skill when you need to work with text-to-speech and speech-to-text usin
 This skill provides guidance and patterns for text-to-speech and speech-to-text using fal.ai audio models.
 
 For more information, see the [source repository](https://github.com/fal-ai-community/skills/blob/main/skills/claude.ai/fal-audio/SKILL.md).
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.

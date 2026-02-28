@@ -1,11 +1,11 @@
 ---
 name: azure-web-pubsub-ts
-description: "Build real-time messaging applications using Azure Web PubSub SDKs for JavaScript (@azure/web-pubsub, @azure/web-pubsub-client). Use when implementing WebSocket-based real-time features, pub/sub me..."
-package: "@azure/web-pubsub, @azure/web-pubsub-client"
-risk: unknown
-source: community
+description: Build real-time messaging applications using Azure Web PubSub SDKs
+  for JavaScript (@azure/web-pubsub, @azure/web-pubsub-client). Use when
+  implementing WebSocket-based real-time features, pub/sub me...
+metadata:
+  package: "@azure/web-pubsub, @azure/web-pubsub-client"
 ---
-
 # Azure Web PubSub SDKs for TypeScript
 
 Real-time messaging with WebSocket connections and pub/sub patterns.
@@ -313,3 +313,11 @@ import {
 
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

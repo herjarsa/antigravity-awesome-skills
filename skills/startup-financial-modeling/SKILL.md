@@ -7,10 +7,7 @@ description: |
   planning for a startup.
 metadata:
   version: 1.0.0
-risk: unknown
-source: community
 ---
-
 # Startup Financial Modeling
 
 Build comprehensive 3-5 year financial models with revenue projections, cost structures, cash flow analysis, and scenario planning for early-stage startups.

@@ -1,12 +1,11 @@
 ---
 name: zoho-crm-automation
-description: "Automate Zoho CRM tasks via Rube MCP (Composio): create/update records, search contacts, manage leads, and convert leads. Always search tools first for current schemas."
-requires:
-  mcp: [rube]
-risk: unknown
-source: community
+description: "Automate Zoho CRM tasks via Rube MCP (Composio): create/update
+  records, search contacts, manage leads, and convert leads. Always search tools
+  first for current schemas."
+metadata:
+  requires: '{"mcp":["rube"]}'
 ---
-
 # Zoho CRM Automation via Rube MCP
 
 Automate Zoho CRM operations through Composio's Zoho toolkit via Rube MCP.
@@ -209,3 +208,11 @@ criteria: '((Last_Name:equals:Doe)AND(Email:contains:example.com))'
 
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

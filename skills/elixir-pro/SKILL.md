@@ -7,10 +7,7 @@ description: |
   optimizations.
 metadata:
   model: inherit
-risk: unknown
-source: community
 ---
-
 ## Use this skill when
 
 - Working on elixir pro tasks or workflows

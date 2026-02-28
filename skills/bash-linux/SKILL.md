@@ -1,11 +1,9 @@
 ---
 name: bash-linux
-description: "Bash/Linux terminal patterns. Critical commands, piping, error handling, scripting. Use when working on macOS or Linux systems."
-allowed-tools: Read, Write, Edit, Glob, Grep, Bash
-risk: unknown
-source: community
+description: Bash/Linux terminal patterns. Critical commands, piping, error
+  handling, scripting. Use when working on macOS or Linux systems.
+allowed-tools: Read Write Edit Glob Grep Bash
 ---
-
 # Bash Linux Patterns
 
 > Essential patterns for Bash on Linux/macOS.
@@ -202,3 +200,11 @@ trap cleanup EXIT
 
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

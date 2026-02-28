@@ -6,10 +6,7 @@ description: |
   understanding the verification protocol.
 metadata:
   version: 1.0.0
-risk: unknown
-source: community
 ---
-
 # Workflow Patterns
 
 Guide for implementing tasks using Conductor's TDD workflow, managing phase checkpoints, handling git commits, and executing the verification protocol that ensures quality throughout implementation.

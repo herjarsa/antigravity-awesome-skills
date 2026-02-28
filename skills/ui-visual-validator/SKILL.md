@@ -8,10 +8,7 @@ description: |
   comprehensive visual analysis.
 metadata:
   model: sonnet
-risk: unknown
-source: community
 ---
-
 ## Use this skill when
 
 - Working on ui visual validator tasks or workflows

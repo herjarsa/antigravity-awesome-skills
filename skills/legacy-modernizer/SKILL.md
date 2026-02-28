@@ -7,10 +7,7 @@ description: |
   framework migrations, or technical debt reduction.
 metadata:
   model: sonnet
-risk: unknown
-source: community
 ---
-
 ## Use this skill when
 
 - Working on legacy modernizer tasks or workflows

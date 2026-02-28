@@ -1,13 +1,12 @@
 ---
 name: cloud-penetration-testing
-description: "This skill should be used when the user asks to \"perform cloud penetration testing\", \"assess Azure or AWS or GCP security\", \"enumerate cloud resources\", \"exploit cloud misconfiguratio..."
+description: This skill should be used when the user asks to "perform cloud
+  penetration testing", "assess Azure or AWS or GCP security", "enumerate cloud
+  resources", "exploit cloud misconfiguratio...
 metadata:
   author: zebbern
   version: "1.1"
-risk: unknown
-source: community
 ---
-
 # Cloud Penetration Testing
 
 ## Purpose
@@ -504,3 +503,11 @@ gcloud beta compute ssh instance-name --zone us-central1-a --project target-proj
 
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

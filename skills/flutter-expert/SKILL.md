@@ -8,10 +8,7 @@ description: |
   features.
 metadata:
   model: inherit
-risk: unknown
-source: community
 ---
-
 ## Use this skill when
 
 - Working on flutter expert tasks or workflows

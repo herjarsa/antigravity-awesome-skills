@@ -1,11 +1,11 @@
 ---
 name: agent-framework-azure-ai-py
-description: "Build Azure AI Foundry agents using the Microsoft Agent Framework Python SDK (agent-framework-azure-ai). Use when creating persistent agents with AzureAIAgentsProvider, using hosted tools (code int..."
-package: agent-framework-azure-ai
-risk: unknown
-source: community
+description: Build Azure AI Foundry agents using the Microsoft Agent Framework
+  Python SDK (agent-framework-azure-ai). Use when creating persistent agents
+  with AzureAIAgentsProvider, using hosted tools (code int...
+metadata:
+  package: agent-framework-azure-ai
 ---
-
 # Agent Framework Azure Hosted Agents
 
 Build persistent agents on Azure AI Foundry using the Microsoft Agent Framework Python SDK.
@@ -336,3 +336,11 @@ if __name__ == "__main__":
 
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

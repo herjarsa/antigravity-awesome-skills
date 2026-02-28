@@ -1,13 +1,12 @@
 ---
 name: scanning-tools
-description: "This skill should be used when the user asks to \"perform vulnerability scanning\", \"scan networks for open ports\", \"assess web application security\", \"scan wireless networks\", \"detec..."
+description: This skill should be used when the user asks to "perform
+  vulnerability scanning", "scan networks for open ports", "assess web
+  application security", "scan wireless networks", "detec...
 metadata:
   author: zebbern
   version: "1.1"
-risk: unknown
-source: community
 ---
-
 # Security Scanning Tools
 
 ## Purpose
@@ -592,3 +591,11 @@ gvm-cli socket --xml '<get_reports report_id="<id>" format_id="<pdf_format>"/>'
 
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

@@ -9,10 +9,7 @@ description: |
   optimization, performance issues, or scalability challenges.
 metadata:
   model: inherit
-risk: unknown
-source: community
 ---
-
 ## Use this skill when
 
 - Working on database optimizer tasks or workflows

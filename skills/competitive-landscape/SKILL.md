@@ -7,10 +7,7 @@ description: |
   competitive strategy analysis.
 metadata:
   version: 1.0.0
-risk: unknown
-source: community
 ---
-
 # Competitive Landscape Analysis
 
 Comprehensive frameworks for analyzing competition, identifying differentiation opportunities, and developing winning market positioning strategies.

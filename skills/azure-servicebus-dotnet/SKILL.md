@@ -1,12 +1,14 @@
 ---
 name: azure-servicebus-dotnet
-description: |
-  Azure Service Bus SDK for .NET. Enterprise messaging with queues, topics, subscriptions, and sessions. Use for reliable message delivery, pub/sub patterns, dead letter handling, and background processing. Triggers: "Service Bus", "ServiceBusClient", "ServiceBusSender", "ServiceBusReceiver", "ServiceBusProcessor", "message queue", "pub/sub .NET", "dead letter queue".
-package: Azure.Messaging.ServiceBus
-risk: unknown
-source: community
+description: >
+  Azure Service Bus SDK for .NET. Enterprise messaging with queues, topics,
+  subscriptions, and sessions. Use for reliable message delivery, pub/sub
+  patterns, dead letter handling, and background processing. Triggers: "Service
+  Bus", "ServiceBusClient", "ServiceBusSender", "ServiceBusReceiver",
+  "ServiceBusProcessor", "message queue", "pub/sub .NET", "dead letter queue".
+metadata:
+  package: Azure.Messaging.ServiceBus
 ---
-
 # Azure.Messaging.ServiceBus (.NET)
 
 Enterprise messaging SDK for reliable message delivery with queues, topics, subscriptions, and sessions.
@@ -336,3 +338,11 @@ catch (ServiceBusException ex)
 
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

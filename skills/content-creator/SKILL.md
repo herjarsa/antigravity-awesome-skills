@@ -1,6 +1,8 @@
 ---
 name: content-creator
-description: "Create SEO-optimized marketing content with consistent brand voice. Includes brand voice analyzer, SEO optimizer, content frameworks, and social media templates. Use when writing blog posts, creati..."
+description: Create SEO-optimized marketing content with consistent brand voice.
+  Includes brand voice analyzer, SEO optimizer, content frameworks, and social
+  media templates. Use when writing blog posts, creati...
 license: MIT
 metadata:
   version: 1.0.0
@@ -10,10 +12,7 @@ metadata:
   updated: 2025-10-20
   python-tools: brand_voice_analyzer.py, seo_optimizer.py
   tech-stack: SEO, social-media-platforms
-risk: unknown
-source: community
 ---
-
 # Content Creator
 
 Professional-grade brand voice analysis, SEO optimization, and platform-specific content frameworks.
@@ -252,3 +251,11 @@ grep -f references/brand_guidelines.md content.txt
 # Create monthly calendar
 cp assets/content_calendar_template.md this_month_calendar.md
 ```
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

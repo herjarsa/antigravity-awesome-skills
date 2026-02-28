@@ -1,12 +1,15 @@
 ---
 name: azure-ai-projects-dotnet
-description: |
-  Azure AI Projects SDK for .NET. High-level client for Azure AI Foundry projects including agents, connections, datasets, deployments, evaluations, and indexes. Use for AI Foundry project management, versioned agents, and orchestration. Triggers: "AI Projects", "AIProjectClient", "Foundry project", "versioned agents", "evaluations", "datasets", "connections", "deployments .NET".
-package: Azure.AI.Projects
-risk: unknown
-source: community
+description: >
+  Azure AI Projects SDK for .NET. High-level client for Azure AI Foundry
+  projects including agents, connections, datasets, deployments, evaluations,
+  and indexes. Use for AI Foundry project management, versioned agents, and
+  orchestration. Triggers: "AI Projects", "AIProjectClient", "Foundry project",
+  "versioned agents", "evaluations", "datasets", "connections", "deployments
+  .NET".
+metadata:
+  package: Azure.AI.Projects
 ---
-
 # Azure.AI.Projects (.NET)
 
 High-level SDK for Azure AI Foundry project operations including agents, connections, datasets, deployments, evaluations, and indexes.
@@ -351,3 +354,11 @@ catch (RequestFailedException ex)
 
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

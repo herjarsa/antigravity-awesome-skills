@@ -9,10 +9,7 @@ description: |
   database architecture, operations, or reliability engineering.
 metadata:
   model: sonnet
-risk: unknown
-source: community
 ---
-
 ## Use this skill when
 
 - Working on database admin tasks or workflows

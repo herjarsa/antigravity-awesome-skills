@@ -1,11 +1,9 @@
 ---
 name: behavioral-modes
-description: "AI operational modes (brainstorm, implement, debug, review, teach, ship, orchestrate). Use to adapt behavior based on task type."
-allowed-tools: Read, Glob, Grep
-risk: unknown
-source: community
+description: AI operational modes (brainstorm, implement, debug, review, teach,
+  ship, orchestrate). Use to adapt behavior based on task type.
+allowed-tools: Read Glob Grep
 ---
-
 # Behavioral Modes - Adaptive AI Operating Modes
 
 ## Purpose
@@ -245,3 +243,11 @@ Users can explicitly request a mode:
 
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

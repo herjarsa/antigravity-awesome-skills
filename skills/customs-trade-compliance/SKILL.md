@@ -4,21 +4,18 @@ description: >
   Codified expertise for customs documentation, tariff classification, duty
   optimisation, restricted party screening, and regulatory compliance across
   multiple jurisdictions. Informed by trade compliance specialists with 15+
-  years experience. Includes HS classification logic, Incoterms application,
-  FTA utilisation, and penalty mitigation. Use when handling customs clearance,
-  tariff classification, trade compliance, import/export documentation, or
-  duty optimisation.
+  years experience. Includes HS classification logic, Incoterms application, FTA
+  utilisation, and penalty mitigation. Use when handling customs clearance,
+  tariff classification, trade compliance, import/export documentation, or duty
+  optimisation.
 license: Apache-2.0
-version: 1.0.0
-homepage: https://github.com/evos-ai/evos-capabilities
-risk: safe
-source: https://github.com/ai-evos/agent-skills
 metadata:
   author: evos
   clawdbot:
-    emoji: "🌐"
+    emoji: 🌐
+  version: 1.0.0
+  homepage: https://github.com/evos-ai/evos-capabilities
 ---
-
 ## When to Use
 
 Use this skill when navigating international trade regulations, classifying goods under HS codes, determining appropriate Incoterms, managing import/export documentation, or optimizing customs duty payments through Free Trade Agreements.
@@ -253,3 +250,11 @@ Use this skill when you are **planning, auditing, or remediating customs and tra
 - Classifying products (HS/HTS/TARIC), designing documentation flows, or implementing Incoterms for new trade lanes.
 - Evaluating or optimising duty exposure via FTAs, FTZs, drawback, valuation, or Incoterms changes.
 - Investigating compliance risk, penalty exposure, or restricted‑party screening issues across import/export operations.
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

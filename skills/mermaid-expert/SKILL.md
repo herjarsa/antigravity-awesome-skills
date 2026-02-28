@@ -6,10 +6,7 @@ description: |
   PROACTIVELY for visual documentation, system diagrams, or process flows.
 metadata:
   model: haiku
-risk: unknown
-source: community
 ---
-
 ## Use this skill when
 
 - Working on mermaid expert tasks or workflows

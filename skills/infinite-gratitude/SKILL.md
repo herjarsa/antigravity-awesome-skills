@@ -24,3 +24,11 @@ This is an external skill. Please refer to the [official repository](https://git
 ```bash
 git clone https://github.com/sstklen/infinite-gratitude
 ```
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

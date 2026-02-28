@@ -1,15 +1,14 @@
 ---
 name: last30days
-description: "Research a topic from the last 30 days on Reddit + X + Web, become an expert, and write copy-paste-ready prompts for the user's target tool."
-argument-hint: "[topic] for [tool] or [topic]"
-context: fork
-agent: Explore
-disable-model-invocation: true
-allowed-tools: Bash, Read, Write, AskUserQuestion, WebSearch
-risk: unknown
-source: community
+description: Research a topic from the last 30 days on Reddit + X + Web, become
+  an expert, and write copy-paste-ready prompts for the user's target tool.
+allowed-tools: Bash Read Write AskUserQuestion WebSearch
+metadata:
+  argument-hint: "[topic] for [tool] or [topic]"
+  context: fork
+  agent: Explore
+  disable-model-invocation: "true"
 ---
-
 # last30days: Research Any Topic from the Last 30 Days
 
 Research ANY topic across Reddit, X, and the web. Surface what people are actually discussing, recommending, and debating right now.
@@ -424,3 +423,11 @@ Want another prompt? Just tell me what you're creating next.
 
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

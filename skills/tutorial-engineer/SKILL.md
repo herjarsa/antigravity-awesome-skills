@@ -7,10 +7,7 @@ description: |
   or concept explanations.
 metadata:
   model: sonnet
-risk: unknown
-source: community
 ---
-
 ## Use this skill when
 
 - Working on tutorial engineer tasks or workflows

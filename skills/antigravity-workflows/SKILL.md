@@ -78,3 +78,11 @@ Use @antigravity-workflows to execute the "QA and Browser Automation" workflow a
 - `brainstorming`
 - `workflow-automation`
 - `verification-before-completion`
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

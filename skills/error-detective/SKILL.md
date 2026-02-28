@@ -7,10 +7,7 @@ description: |
   errors.
 metadata:
   model: sonnet
-risk: unknown
-source: community
 ---
-
 ## Use this skill when
 
 - Working on error detective tasks or workflows

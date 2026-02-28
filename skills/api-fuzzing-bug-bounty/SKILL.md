@@ -1,13 +1,12 @@
 ---
 name: api-fuzzing-bug-bounty
-description: "This skill should be used when the user asks to \"test API security\", \"fuzz APIs\", \"find IDOR vulnerabilities\", \"test REST API\", \"test GraphQL\", \"API penetration testing\", \"bug b..."
+description: This skill should be used when the user asks to "test API
+  security", "fuzz APIs", "find IDOR vulnerabilities", "test REST API", "test
+  GraphQL", "API penetration testing", "bug b...
 metadata:
   author: zebbern
   version: "1.1"
-risk: unknown
-source: community
 ---
-
 # API Fuzzing for Bug Bounty
 
 ## Purpose
@@ -436,3 +435,11 @@ curl -X POST https://target.com/graphql \
 
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

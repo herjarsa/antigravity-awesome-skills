@@ -1,12 +1,15 @@
 ---
 name: m365-agents-dotnet
-description: |
-  Microsoft 365 Agents SDK for .NET. Build multichannel agents for Teams/M365/Copilot Studio with ASP.NET Core hosting, AgentApplication routing, and MSAL-based auth. Triggers: "Microsoft 365 Agents SDK", "Microsoft.Agents", "AddAgentApplicationOptions", "AgentApplication", "AddAgentAspNetAuthentication", "Copilot Studio client", "IAgentHttpAdapter".
-package: Microsoft.Agents.Hosting.AspNetCore, Microsoft.Agents.Authentication.Msal, Microsoft.Agents.CopilotStudio.Client
-risk: unknown
-source: community
+description: >
+  Microsoft 365 Agents SDK for .NET. Build multichannel agents for
+  Teams/M365/Copilot Studio with ASP.NET Core hosting, AgentApplication routing,
+  and MSAL-based auth. Triggers: "Microsoft 365 Agents SDK", "Microsoft.Agents",
+  "AddAgentApplicationOptions", "AgentApplication",
+  "AddAgentAspNetAuthentication", "Copilot Studio client", "IAgentHttpAdapter".
+metadata:
+  package: Microsoft.Agents.Hosting.AspNetCore,
+    Microsoft.Agents.Authentication.Msal, Microsoft.Agents.CopilotStudio.Client
 ---
-
 # Microsoft 365 Agents SDK (.NET)
 
 ## Overview
@@ -293,3 +296,11 @@ await foreach (var activity in client.AskQuestionAsync("Hello!", null))
 
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

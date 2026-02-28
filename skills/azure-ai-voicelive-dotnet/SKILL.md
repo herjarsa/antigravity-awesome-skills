@@ -1,12 +1,15 @@
 ---
 name: azure-ai-voicelive-dotnet
-description: |
-  Azure AI Voice Live SDK for .NET. Build real-time voice AI applications with bidirectional WebSocket communication. Use for voice assistants, conversational AI, real-time speech-to-speech, and voice-enabled chatbots. Triggers: "voice live", "real-time voice", "VoiceLiveClient", "VoiceLiveSession", "voice assistant .NET", "bidirectional audio", "speech-to-speech".
-package: Azure.AI.VoiceLive
-risk: unknown
-source: community
+description: >
+  Azure AI Voice Live SDK for .NET. Build real-time voice AI applications with
+  bidirectional WebSocket communication. Use for voice assistants,
+  conversational AI, real-time speech-to-speech, and voice-enabled chatbots.
+  Triggers: "voice live", "real-time voice", "VoiceLiveClient",
+  "VoiceLiveSession", "voice assistant .NET", "bidirectional audio",
+  "speech-to-speech".
+metadata:
+  package: Azure.AI.VoiceLive
 ---
-
 # Azure.AI.VoiceLive (.NET)
 
 Real-time voice AI SDK for building bidirectional voice assistants with Azure AI.
@@ -268,3 +271,11 @@ if (serverEvent is SessionUpdateError error)
 
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

@@ -1,17 +1,18 @@
 ---
 name: dbos-typescript
-description: "DBOS TypeScript SDK for building reliable, fault-tolerant applications with durable workflows. Use this skill when writing TypeScript code with DBOS, creating workflows and steps, using queues, usi..."
-risk: safe
-source: https://docs.dbos.dev/
+description: DBOS TypeScript SDK for building reliable, fault-tolerant
+  applications with durable workflows. Use this skill when writing TypeScript
+  code with DBOS, creating workflows and steps, using queues, usi...
 license: MIT
 metadata:
   author: dbos
-  version: "1.0.0"
+  version: 1.0.0
   organization: DBOS
   date: January 2026
-  abstract: Comprehensive guide for building fault-tolerant TypeScript applications with DBOS. Covers workflows, steps, queues, communication patterns, and best practices for durable execution.
+  abstract: Comprehensive guide for building fault-tolerant TypeScript
+    applications with DBOS. Covers workflows, steps, queues, communication
+    patterns, and best practices for durable execution.
 ---
-
 # DBOS TypeScript Best Practices
 
 Guide for building reliable, fault-tolerant TypeScript applications with DBOS durable workflows.
@@ -109,3 +110,11 @@ references/queue-concurrency.md
 
 - https://docs.dbos.dev/
 - https://github.com/dbos-inc/dbos-transact-ts
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

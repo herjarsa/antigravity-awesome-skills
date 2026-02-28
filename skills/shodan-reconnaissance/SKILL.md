@@ -1,13 +1,12 @@
 ---
 name: shodan-reconnaissance
-description: "This skill should be used when the user asks to \"search for exposed devices on the internet,\" \"perform Shodan reconnaissance,\" \"find vulnerable services using Shodan,\" \"scan IP ranges..."
+description: This skill should be used when the user asks to "search for exposed
+  devices on the internet," "perform Shodan reconnaissance," "find vulnerable
+  services using Shodan," "scan IP ranges...
 metadata:
   author: zebbern
   version: "1.1"
-risk: unknown
-source: community
 ---
-
 # Shodan Reconnaissance and Pentesting
 
 ## Purpose
@@ -506,3 +505,11 @@ shodan download network_scan.json.gz 'net:192.168.1.0/24'
 
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

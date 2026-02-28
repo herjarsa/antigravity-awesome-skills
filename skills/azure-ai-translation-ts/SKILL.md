@@ -1,11 +1,12 @@
 ---
 name: azure-ai-translation-ts
-description: "Build translation applications using Azure Translation SDKs for JavaScript (@azure-rest/ai-translation-text, @azure-rest/ai-translation-document). Use when implementing text translation, transliter..."
-package: "@azure-rest/ai-translation-text, @azure-rest/ai-translation-document"
-risk: unknown
-source: community
+description: Build translation applications using Azure Translation SDKs for
+  JavaScript (@azure-rest/ai-translation-text,
+  @azure-rest/ai-translation-document). Use when implementing text translation,
+  transliter...
+metadata:
+  package: "@azure-rest/ai-translation-text, @azure-rest/ai-translation-document"
 ---
-
 # Azure Translation SDKs for TypeScript
 
 Text and document translation with REST-style clients.
@@ -289,3 +290,11 @@ import type {
 
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

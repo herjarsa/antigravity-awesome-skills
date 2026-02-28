@@ -20,3 +20,7 @@ Use this skill when you need to work with -automatically convert documentation w
 This skill provides guidance and patterns for -automatically convert documentation websites, github repositories, and pdfs into claude ai skills in minutes..
 
 For more information, see the [source repository](https://github.com/yusufkaraaslan/Skill_Seekers).
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.

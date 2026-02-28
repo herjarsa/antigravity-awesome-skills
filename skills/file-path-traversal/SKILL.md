@@ -1,13 +1,12 @@
 ---
 name: file-path-traversal
-description: "This skill should be used when the user asks to \"test for directory traversal\", \"exploit path traversal vulnerabilities\", \"read arbitrary files through web applications\", \"find LFI vu..."
+description: This skill should be used when the user asks to "test for directory
+  traversal", "exploit path traversal vulnerabilities", "read arbitrary files
+  through web applications", "find LFI vu...
 metadata:
   author: zebbern
   version: "1.1"
-risk: unknown
-source: community
 ---
-
 # File Path Traversal Testing
 
 ## Purpose
@@ -489,3 +488,11 @@ def safe_file_access(base_dir, filename):
 
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

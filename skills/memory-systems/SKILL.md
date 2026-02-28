@@ -226,3 +226,11 @@ External resources:
 **Last Updated**: 2025-12-20
 **Author**: Agent Skills for Context Engineering Contributors
 **Version**: 1.0.0
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

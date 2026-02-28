@@ -1,12 +1,11 @@
 ---
 name: sendgrid-automation
-description: "Automate SendGrid email operations including sending emails, managing contacts/lists, sender identities, templates, and analytics via Rube MCP (Composio). Always search tools first for current sche..."
-requires:
-  mcp: [rube]
-risk: unknown
-source: community
+description: Automate SendGrid email operations including sending emails,
+  managing contacts/lists, sender identities, templates, and analytics via Rube
+  MCP (Composio). Always search tools first for current sche...
+metadata:
+  requires: '{"mcp":["rube"]}'
 ---
-
 # SendGrid Automation via Rube MCP
 
 Automate SendGrid email delivery workflows including marketing campaigns (Single Sends), contact and list management, sender identity setup, and email analytics through Composio's SendGrid toolkit.
@@ -231,3 +230,11 @@ Contact operations (`ADD_OR_UPDATE_A_CONTACT`, `IMPORT_CONTACTS`) are asynchrono
 
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

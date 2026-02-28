@@ -1,12 +1,11 @@
 ---
 name: box-automation
-description: "Automate Box cloud storage operations including file upload/download, search, folder management, sharing, collaborations, and metadata queries via Rube MCP (Composio). Always search tools first for..."
-requires:
-  mcp: [rube]
-risk: unknown
-source: community
+description: Automate Box cloud storage operations including file
+  upload/download, search, folder management, sharing, collaborations, and
+  metadata queries via Rube MCP (Composio). Always search tools first for...
+metadata:
+  requires: '{"mcp":["rube"]}'
 ---
-
 # Box Automation via Rube MCP
 
 Automate Box operations including file upload/download, content search, folder management, collaboration, metadata queries, and sign requests through Composio's Box toolkit.
@@ -236,3 +235,11 @@ Box tools use double underscore notation for nested objects:
 
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

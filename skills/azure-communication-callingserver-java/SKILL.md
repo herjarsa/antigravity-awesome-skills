@@ -1,11 +1,11 @@
 ---
 name: azure-communication-callingserver-java
-description: "Azure Communication Services CallingServer (legacy) Java SDK. Note - This SDK is deprecated. Use azure-communication-callautomation instead for new projects. Only use this skill when maintaining le..."
-package: com.azure:azure-communication-callingserver
-risk: unknown
-source: community
+description: Azure Communication Services CallingServer (legacy) Java SDK. Note
+  - This SDK is deprecated. Use azure-communication-callautomation instead for
+  new projects. Only use this skill when maintaining le...
+metadata:
+  package: com.azure:azure-communication-callingserver
 ---
-
 # Azure Communication CallingServer (Java) - DEPRECATED
 
 > **⚠️ DEPRECATED**: This SDK has been renamed to **Call Automation**. For new projects, use `azure-communication-callautomation` instead. This skill is for maintaining legacy code only.
@@ -94,3 +94,11 @@ See the `azure-communication-callautomation-java` skill for:
 
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

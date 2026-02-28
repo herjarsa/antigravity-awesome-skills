@@ -6,10 +6,7 @@ description: |
   PROACTIVELY for risk assessment, trade tracking, or portfolio protection.
 metadata:
   model: inherit
-risk: unknown
-source: community
 ---
-
 ## Use this skill when
 
 - Working on risk manager tasks or workflows

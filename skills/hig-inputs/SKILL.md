@@ -1,22 +1,20 @@
 ---
 name: hig-inputs
-version: 1.0.0
 description: >
-  Apple HIG guidance for input methods and interaction patterns: gestures, Apple Pencil,
-  keyboards, game controllers, pointers, Digital Crown, eye tracking, focus system,
-  remotes, spatial interactions, gyroscope, accelerometer, and nearby interactions.
-  Use when asked about: "gesture design", "Apple Pencil", "keyboard shortcuts",
-  "game controller", "pointer support", "mouse support", "trackpad", "Digital Crown",
-  "eye tracking", "visionOS input", "focus system", "remote control", "gyroscope",
-  "spatial interaction". Also use when the user says "what gestures should I support,"
-  "how do I add keyboard shortcuts," "how does input work on Apple TV," "should I
-  support Apple Pencil," or asks about input device handling.
-  Cross-references: hig-components-status, hig-components-system,
-  hig-technologies for VoiceOver and Siri.
-risk: unknown
-source: community
+  Apple HIG guidance for input methods and interaction patterns: gestures, Apple
+  Pencil, keyboards, game controllers, pointers, Digital Crown, eye tracking,
+  focus system, remotes, spatial interactions, gyroscope, accelerometer, and
+  nearby interactions. Use when asked about: "gesture design", "Apple Pencil",
+  "keyboard shortcuts", "game controller", "pointer support", "mouse support",
+  "trackpad", "Digital Crown", "eye tracking", "visionOS input", "focus system",
+  "remote control", "gyroscope", "spatial interaction". Also use when the user
+  says "what gestures should I support," "how do I add keyboard shortcuts," "how
+  does input work on Apple TV," "should I support Apple Pencil," or asks about
+  input device handling. Cross-references: hig-components-status,
+  hig-components-system, hig-technologies for VoiceOver and Siri.
+metadata:
+  version: 1.0.0
 ---
-
 # Apple HIG: Inputs
 
 Check for `.claude/apple-design-context.md` before asking questions. Use existing context and only ask for information not already covered.
@@ -119,3 +117,11 @@ Check for `.claude/apple-design-context.md` before asking questions. Use existin
 
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

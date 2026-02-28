@@ -6,20 +6,10 @@ description: >
   identity, LLM cascade routing, and pipeline automation for CEX/DEX listing
   acquisition. Use when building AI agents for crypto BD, token evaluation,
   exchange listing outreach, or autonomous commerce with payment protocols.
-risk: safe
-source: community
-tags:
-  - crypto
-  - business-development
-  - token-scanning
-  - x402
-  - erc-8004
-  - autonomous-agent
-  - solana
-  - ethereum
-  - wallet-forensics
+metadata:
+  tags: crypto, business-development, token-scanning, x402, erc-8004,
+    autonomous-agent, solana, ethereum, wallet-forensics
 ---
-
 # Crypto BD Agent — Autonomous Business Development for Exchanges
 
 > Production-tested patterns for building AI agents that autonomously discover,
@@ -246,3 +236,7 @@ Buzz BD Agent (SolCex Exchange):
 - 24/7 live stream: retake.tv/BuzzBD
 - Verify: 8004scan.io
 - GitHub: https://github.com/buzzbysolcex/buzz-bd-agent
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

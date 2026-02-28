@@ -1,13 +1,13 @@
 ---
 name: api-security-testing
-description: "API security testing workflow for REST and GraphQL APIs covering authentication, authorization, rate limiting, input validation, and security best practices."
-source: personal
-risk: safe
-domain: security
-category: granular-workflow-bundle
-version: 1.0.0
+description: API security testing workflow for REST and GraphQL APIs covering
+  authentication, authorization, rate limiting, input validation, and security
+  best practices.
+metadata:
+  domain: security
+  category: granular-workflow-bundle
+  version: 1.0.0
 ---
-
 # API Security Testing Workflow
 
 ## Overview
@@ -170,3 +170,11 @@ Use @api-security-best-practices to audit API error handling
 - `security-audit` - Security auditing
 - `web-security-testing` - Web security
 - `api-development` - API development
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

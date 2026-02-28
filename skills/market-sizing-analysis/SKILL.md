@@ -7,10 +7,7 @@ description: |
   analysis for a startup or business opportunity.
 metadata:
   version: 1.0.0
-risk: unknown
-source: community
 ---
-
 # Market Sizing Analysis
 
 Comprehensive market sizing methodologies for calculating Total Addressable Market (TAM), Serviceable Available Market (SAM), and Serviceable Obtainable Market (SOM) for startup opportunities.

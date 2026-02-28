@@ -1,12 +1,11 @@
 ---
 name: cc-skill-clickhouse-io
-description: "ClickHouse database patterns, query optimization, analytics, and data engineering best practices for high-performance analytical workloads."
-author: affaan-m
-version: "1.0"
-risk: unknown
-source: community
+description: ClickHouse database patterns, query optimization, analytics, and
+  data engineering best practices for high-performance analytical workloads.
+metadata:
+  author: affaan-m
+  version: "1.0"
 ---
-
 # ClickHouse Analytics Patterns
 
 ClickHouse-specific patterns for high-performance analytics and data engineering.
@@ -434,3 +433,11 @@ pgClient.on('notification', async (msg) => {
 
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

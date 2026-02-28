@@ -1,23 +1,19 @@
 ---
 name: logistics-exception-management
 description: >
-  Codified expertise for handling freight exceptions, shipment delays,
-  damages, losses, and carrier disputes. Informed by logistics professionals
-  with 15+ years operational experience. Includes escalation protocols,
-  carrier-specific behaviours, claims procedures, and judgment frameworks.
-  Use when handling shipping exceptions, freight claims, delivery issues,
-  or carrier disputes.
+  Codified expertise for handling freight exceptions, shipment delays, damages,
+  losses, and carrier disputes. Informed by logistics professionals with 15+
+  years operational experience. Includes escalation protocols, carrier-specific
+  behaviours, claims procedures, and judgment frameworks. Use when handling
+  shipping exceptions, freight claims, delivery issues, or carrier disputes.
 license: Apache-2.0
-version: 1.0.0
-homepage: https://github.com/evos-ai/evos-capabilities
-risk: safe
-source: https://github.com/ai-evos/agent-skills
 metadata:
   author: evos
   clawdbot:
-    emoji: "📦"
+    emoji: 📦
+  version: 1.0.0
+  homepage: https://github.com/evos-ai/evos-capabilities
 ---
-
 ## When to Use
 
 Use this skill when dealing with deviations from planned logistics operations, such as transit delays, damaged shipments, lost cargo, or when initiating and managing claims and disputes with freight carriers.
@@ -215,3 +211,11 @@ Use this skill when you need to **triage and resolve logistics exceptions or des
 - Handling delays, damages, shortages, misdeliveries, and claims across LTL, FTL, parcel, intermodal, ocean, or air.
 - Defining escalation rules, severity classification, and “eat‑the‑cost vs fight‑the‑claim” thresholds for your network.
 - Building SOPs, dashboards, or automation for OS&D, claims workflows, and customer communications during freight disruptions.
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

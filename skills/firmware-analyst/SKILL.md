@@ -8,10 +8,7 @@ description: |
   audits, IoT penetration testing, or embedded systems research.
 metadata:
   model: opus
-risk: unknown
-source: community
 ---
-
 # Download from vendor
 wget http://vendor.com/firmware/update.bin
 

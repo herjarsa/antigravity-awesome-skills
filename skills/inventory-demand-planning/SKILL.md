@@ -5,20 +5,17 @@ description: >
   replenishment planning, and promotional lift estimation at multi-location
   retailers. Informed by demand planners with 15+ years experience managing
   hundreds of SKUs. Includes forecasting method selection, ABC/XYZ analysis,
-  seasonal transition management, and vendor negotiation frameworks.
-  Use when forecasting demand, setting safety stock, planning replenishment,
-  managing promotions, or optimising inventory levels.
+  seasonal transition management, and vendor negotiation frameworks. Use when
+  forecasting demand, setting safety stock, planning replenishment, managing
+  promotions, or optimising inventory levels.
 license: Apache-2.0
-version: 1.0.0
-homepage: https://github.com/evos-ai/evos-capabilities
-risk: safe
-source: https://github.com/ai-evos/agent-skills
 metadata:
   author: evos
   clawdbot:
-    emoji: "📊"
+    emoji: 📊
+  version: 1.0.0
+  homepage: https://github.com/evos-ai/evos-capabilities
 ---
-
 ## When to Use
 
 Use this skill when forecasting product demand, calculating optimal safety stock levels, planning inventory replenishment cycles, estimating the impact of retail promotions, or conducting ABC/XYZ inventory segmentation.
@@ -237,3 +234,11 @@ Use this skill when you need to **forecast demand and shape inventory policy acr
 - Selecting and tuning forecasting methods, safety stock policies, and reorder logic for different demand patterns.
 - Planning promotions, seasonal transitions, markdowns, and end‑of‑life strategies while balancing service, cash, and margin.
 - Investigating chronic stockouts, excess inventory, or forecast bias and redesigning the planning process with clearer decision frameworks.
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

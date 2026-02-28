@@ -1,13 +1,14 @@
 ---
 name: azure-ai-projects-java
-description: |
-  Azure AI Projects SDK for Java. High-level SDK for Azure AI Foundry project management including connections, datasets, indexes, and evaluations.
-  Triggers: "AIProjectClient java", "azure ai projects java", "Foundry project java", "ConnectionsClient", "DatasetsClient", "IndexesClient".
-package: com.azure:azure-ai-projects
-risk: unknown
-source: community
----
+description: >
+  Azure AI Projects SDK for Java. High-level SDK for Azure AI Foundry project
+  management including connections, datasets, indexes, and evaluations.
 
+  Triggers: "AIProjectClient java", "azure ai projects java", "Foundry project
+  java", "ConnectionsClient", "DatasetsClient", "IndexesClient".
+metadata:
+  package: com.azure:azure-ai-projects
+---
 # Azure AI Projects SDK for Java
 
 High-level SDK for Azure AI Foundry project management with access to connections, datasets, indexes, and evaluations.
@@ -155,3 +156,11 @@ try {
 
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

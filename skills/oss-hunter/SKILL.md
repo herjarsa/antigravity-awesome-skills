@@ -1,11 +1,12 @@
 ---
 name: oss-hunter
-description: "Automatically hunt for high-impact OSS contribution opportunities in trending repositories."
-risk: safe
-source: https://github.com/jackjin1997/ClawForge
-metadata: {"openclaw":{"emoji":"🎯","category":"developer"}}
+description: Automatically hunt for high-impact OSS contribution opportunities
+  in trending repositories.
+metadata:
+  openclaw:
+    emoji: 🎯
+    category: developer
 ---
-
 # OSS Hunter 🎯
 
 A precision skill for agents to find, analyze, and strategize for high-impact Open Source contributions. This skill helps you become a top-tier contributor by identifying the most "mergeable" and influential issues in trending repositories.
@@ -73,3 +74,11 @@ Generate a structured report for the human:
 Build a better hunter by adding new heuristics to Phase 3. Submit your improvements to the [ClawForge](https://github.com/jackjin1997/ClawForge).
 
 *Powered by OpenClaw & ClawForge.*
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

@@ -1,9 +1,9 @@
 ---
 name: mobile-design
-description: "Mobile-first design and engineering doctrine for iOS and Android apps. Covers touch interaction, performance, platform conventions, offline behavior, and mobile-specific decision-making. Teaches pr..."
-allowed-tools: Read, Glob, Grep, Bash
-risk: unknown
-source: community
+description: Mobile-first design and engineering doctrine for iOS and Android
+  apps. Covers touch interaction, performance, platform conventions, offline
+  behavior, and mobile-specific decision-making. Teaches pr...
+allowed-tools: Read Glob Grep Bash
 ---
 # Mobile Design System
 
@@ -287,3 +287,11 @@ No debate without justification.
 
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

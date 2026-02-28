@@ -1,13 +1,12 @@
 ---
 name: bash-scripting
-description: "Bash scripting workflow for creating production-ready shell scripts with defensive patterns, error handling, and testing."
-source: personal
-risk: safe
-domain: system-administration
-category: granular-workflow-bundle
-version: 1.0.0
+description: Bash scripting workflow for creating production-ready shell scripts
+  with defensive patterns, error handling, and testing.
+metadata:
+  domain: system-administration
+  category: granular-workflow-bundle
+  version: 1.0.0
 ---
-
 # Bash Scripting Workflow
 
 ## Overview
@@ -195,3 +194,11 @@ main "$@"
 - `os-scripting` - OS scripting
 - `linux-troubleshooting` - Linux troubleshooting
 - `cloud-devops` - DevOps automation
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

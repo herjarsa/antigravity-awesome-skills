@@ -6,19 +6,16 @@ description: >
   manufacturing. Informed by production schedulers with 15+ years experience.
   Includes TOC/drum-buffer-rope, SMED, OEE analysis, disruption response
   frameworks, and ERP/MES interaction patterns. Use when scheduling production,
-  resolving bottlenecks, optimising changeovers, responding to disruptions,
-  or balancing manufacturing lines.
+  resolving bottlenecks, optimising changeovers, responding to disruptions, or
+  balancing manufacturing lines.
 license: Apache-2.0
-version: 1.0.0
-homepage: https://github.com/evos-ai/evos-capabilities
-risk: safe
-source: https://github.com/ai-evos/agent-skills
 metadata:
   author: evos
   clawdbot:
-    emoji: "🏭"
+    emoji: 🏭
+  version: 1.0.0
+  homepage: https://github.com/evos-ai/evos-capabilities
 ---
-
 ## When to Use
 
 Use this skill when planning manufacturing operations, sequencing jobs to minimize changeover times, balancing production lines, resolving factory bottlenecks, or responding to unexpected equipment downtime and supply disruptions.
@@ -227,3 +224,11 @@ Use this skill when you need to **design or adjust production schedules and cons
 - Sequencing jobs, balancing lines, and optimising changeovers in discrete or batch manufacturing.
 - Responding to disruptions (machine breakdowns, shortages, quality holds, absenteeism) while protecting the bottleneck and customer commitments.
 - Building scheduling rules, KPIs, and communication patterns between planning, production, maintenance, and quality teams.
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

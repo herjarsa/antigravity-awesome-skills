@@ -8,10 +8,7 @@ description: >
   interrupt-driven I/O, and peripheral drivers.
 metadata:
   model: inherit
-risk: unknown
-source: community
 ---
-
 # @arm-cortex-expert
 
 ## Use this skill when

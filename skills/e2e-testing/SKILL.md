@@ -1,13 +1,12 @@
 ---
 name: e2e-testing
-description: "End-to-end testing workflow with Playwright for browser automation, visual regression, cross-browser testing, and CI/CD integration."
-source: personal
-risk: safe
-domain: testing-qa
-category: granular-workflow-bundle
-version: 1.0.0
+description: End-to-end testing workflow with Playwright for browser automation,
+  visual regression, cross-browser testing, and CI/CD integration.
+metadata:
+  domain: testing-qa
+  category: granular-workflow-bundle
+  version: 1.0.0
 ---
-
 # E2E Testing Workflow
 
 ## Overview
@@ -164,3 +163,11 @@ Use @github-actions-templates to integrate E2E tests with CI
 - `testing-qa` - Testing workflow
 - `development` - Development
 - `web-performance-optimization` - Performance
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

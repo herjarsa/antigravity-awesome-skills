@@ -1,12 +1,17 @@
 ---
 name: azure-resource-manager-playwright-dotnet
-description: |
-  Azure Resource Manager SDK for Microsoft Playwright Testing in .NET. Use for MANAGEMENT PLANE operations: creating/managing Playwright Testing workspaces, checking name availability, and managing workspace quotas via Azure Resource Manager. NOT for running Playwright tests - use Azure.Developer.MicrosoftPlaywrightTesting.NUnit for that. Triggers: "Playwright workspace", "create Playwright Testing workspace", "manage Playwright resources", "ARM Playwright", "PlaywrightWorkspaceResource", "provision Playwright Testing".
-package: Azure.ResourceManager.Playwright
-risk: unknown
-source: community
+description: >
+  Azure Resource Manager SDK for Microsoft Playwright Testing in .NET. Use for
+  MANAGEMENT PLANE operations: creating/managing Playwright Testing workspaces,
+  checking name availability, and managing workspace quotas via Azure Resource
+  Manager. NOT for running Playwright tests - use
+  Azure.Developer.MicrosoftPlaywrightTesting.NUnit for that. Triggers:
+  "Playwright workspace", "create Playwright Testing workspace", "manage
+  Playwright resources", "ARM Playwright", "PlaywrightWorkspaceResource",
+  "provision Playwright Testing".
+metadata:
+  package: Azure.ResourceManager.Playwright
 ---
-
 # Azure.ResourceManager.Playwright (.NET)
 
 Management plane SDK for provisioning and managing Microsoft Playwright Testing workspaces via Azure Resource Manager.
@@ -300,3 +305,11 @@ Environment.SetEnvironmentVariable("PLAYWRIGHT_SERVICE_URL", serviceUrl.ToString
 
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

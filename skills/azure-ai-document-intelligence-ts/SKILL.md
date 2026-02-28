@@ -1,11 +1,11 @@
 ---
 name: azure-ai-document-intelligence-ts
-description: "Extract text, tables, and structured data from documents using Azure Document Intelligence (@azure-rest/ai-document-intelligence). Use when processing invoices, receipts, IDs, forms, or building cu..."
-package: "@azure-rest/ai-document-intelligence"
-risk: unknown
-source: community
+description: Extract text, tables, and structured data from documents using
+  Azure Document Intelligence (@azure-rest/ai-document-intelligence). Use when
+  processing invoices, receipts, IDs, forms, or building cu...
+metadata:
+  package: "@azure-rest/ai-document-intelligence"
 ---
-
 # Azure Document Intelligence REST SDK for TypeScript
 
 Extract text, tables, and structured data from documents using prebuilt and custom models.
@@ -326,3 +326,11 @@ import DocumentIntelligence, {
 
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

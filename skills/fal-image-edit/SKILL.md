@@ -20,3 +20,7 @@ Use this skill when you need to work with ai-powered image editing with style tr
 This skill provides guidance and patterns for ai-powered image editing with style transfer and object removal.
 
 For more information, see the [source repository](https://github.com/fal-ai-community/skills/blob/main/skills/claude.ai/fal-image-edit/SKILL.md).
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.

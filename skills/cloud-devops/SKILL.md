@@ -1,13 +1,12 @@
 ---
 name: cloud-devops
-description: "Cloud infrastructure and DevOps workflow covering AWS, Azure, GCP, Kubernetes, Terraform, CI/CD, monitoring, and cloud-native development."
-source: personal
-risk: safe
-domain: cloud-devops
-category: workflow-bundle
-version: 1.0.0
+description: Cloud infrastructure and DevOps workflow covering AWS, Azure, GCP,
+  Kubernetes, Terraform, CI/CD, monitoring, and cloud-native development.
+metadata:
+  domain: cloud-devops
+  category: workflow-bundle
+  version: 1.0.0
 ---
-
 # Cloud/DevOps Workflow Bundle
 
 ## Overview
@@ -234,3 +233,11 @@ Services: Cloud Run, GKE, Cloud Functions, BigQuery
 - `security-audit` - Security testing
 - `database` - Database operations
 - `testing-qa` - Testing workflows
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

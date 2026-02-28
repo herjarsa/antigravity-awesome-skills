@@ -9,10 +9,7 @@ description: |
   multi-cloud strategy, or complex infrastructure integration.
 metadata:
   model: opus
-risk: unknown
-source: community
 ---
-
 ## Use this skill when
 
 - Working on hybrid cloud architect tasks or workflows

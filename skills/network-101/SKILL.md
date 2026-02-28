@@ -1,13 +1,12 @@
 ---
 name: network-101
-description: "This skill should be used when the user asks to \"set up a web server\", \"configure HTTP or HTTPS\", \"perform SNMP enumeration\", \"configure SMB shares\", \"test network services\", or ne..."
+description: This skill should be used when the user asks to "set up a web
+  server", "configure HTTP or HTTPS", "perform SNMP enumeration", "configure SMB
+  shares", "test network services", or ne...
 metadata:
   author: zebbern
   version: "1.1"
-risk: unknown
-source: community
 ---
-
 # Network 101
 
 ## Purpose
@@ -345,3 +344,11 @@ smbclient //localhost/anonymous -N
 
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

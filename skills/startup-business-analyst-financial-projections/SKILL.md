@@ -4,10 +4,7 @@ description: |
   Create detailed 3-5 year financial model with revenue, costs, cash
   flow, and scenarios
 allowed-tools: Read Write Edit Glob Grep Bash WebSearch WebFetch
-risk: unknown
-source: community
 ---
-
 # Financial Projections
 
 Create a comprehensive 3-5 year financial model with revenue projections, cost structure, headcount planning, cash flow analysis, and three-scenario modeling (conservative, base, optimistic) for startup financial planning and fundraising.

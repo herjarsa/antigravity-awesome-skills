@@ -8,10 +8,7 @@ description: |
   PROACTIVELY for complex AI orchestration.
 metadata:
   model: inherit
-risk: unknown
-source: community
 ---
-
 ## Use this skill when
 
 - Working on context manager tasks or workflows

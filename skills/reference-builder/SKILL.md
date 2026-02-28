@@ -7,10 +7,7 @@ description: |
   references, or complete technical specifications.
 metadata:
   model: haiku
-risk: unknown
-source: community
 ---
-
 ## Use this skill when
 
 - Working on reference builder tasks or workflows

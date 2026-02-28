@@ -596,3 +596,11 @@ But don't rush. The basics here will handle 80% of real-world scenarios. Get com
 5. **Use flatMap** to chain operations that might fail
 6. **Skip FP** when it hurts readability
 7. **Keep it simple** - if your team can't read it, it's not good code
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

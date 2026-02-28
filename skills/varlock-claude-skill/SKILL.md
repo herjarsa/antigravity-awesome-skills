@@ -20,3 +20,7 @@ Use this skill when you need to work with secure environment variable management
 This skill provides guidance and patterns for secure environment variable management ensuring secrets are never exposed in claude sessions, terminals, logs, or git commits.
 
 For more information, see the [source repository](https://github.com/wrsmith108/varlock-claude-skill).
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.

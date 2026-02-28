@@ -9,10 +9,7 @@ description: |
   issues, or performance optimization.
 metadata:
   model: sonnet
-risk: unknown
-source: community
 ---
-
 ## Use this skill when
 
 - Working on network engineer tasks or workflows

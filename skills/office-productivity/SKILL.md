@@ -1,13 +1,13 @@
 ---
 name: office-productivity
-description: "Office productivity workflow covering document creation, spreadsheet automation, presentation generation, and integration with LibreOffice and Microsoft Office formats."
-source: personal
-risk: safe
-domain: office-productivity
-category: workflow-bundle
-version: 1.0.0
+description: Office productivity workflow covering document creation,
+  spreadsheet automation, presentation generation, and integration with
+  LibreOffice and Microsoft Office formats.
+metadata:
+  domain: office-productivity
+  category: workflow-bundle
+  version: 1.0.0
 ---
-
 # Office Productivity Workflow Bundle
 
 ## Overview
@@ -217,3 +217,11 @@ Formats: Google Docs, Sheets, Slides
 - `development` - Application development
 - `documentation` - Documentation generation
 - `database` - Data integration
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

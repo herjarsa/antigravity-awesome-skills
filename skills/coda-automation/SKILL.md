@@ -1,12 +1,11 @@
 ---
 name: coda-automation
-description: "Automate Coda tasks via Rube MCP (Composio): manage docs, pages, tables, rows, formulas, permissions, and publishing. Always search tools first for current schemas."
-requires:
-  mcp: [rube]
-risk: unknown
-source: community
+description: "Automate Coda tasks via Rube MCP (Composio): manage docs, pages,
+  tables, rows, formulas, permissions, and publishing. Always search tools first
+  for current schemas."
+metadata:
+  requires: '{"mcp":["rube"]}'
 ---
-
 # Coda Automation via Rube MCP
 
 Automate Coda document and data operations through Composio's Coda toolkit via Rube MCP.
@@ -244,3 +243,11 @@ Automate Coda document and data operations through Composio's Coda toolkit via R
 
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

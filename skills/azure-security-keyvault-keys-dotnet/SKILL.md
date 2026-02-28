@@ -1,12 +1,14 @@
 ---
 name: azure-security-keyvault-keys-dotnet
-description: |
-  Azure Key Vault Keys SDK for .NET. Client library for managing cryptographic keys in Azure Key Vault and Managed HSM. Use for key creation, rotation, encryption, decryption, signing, and verification. Triggers: "Key Vault keys", "KeyClient", "CryptographyClient", "RSA key", "EC key", "encrypt decrypt .NET", "key rotation", "HSM".
-package: Azure.Security.KeyVault.Keys
-risk: unknown
-source: community
+description: >
+  Azure Key Vault Keys SDK for .NET. Client library for managing cryptographic
+  keys in Azure Key Vault and Managed HSM. Use for key creation, rotation,
+  encryption, decryption, signing, and verification. Triggers: "Key Vault keys",
+  "KeyClient", "CryptographyClient", "RSA key", "EC key", "encrypt decrypt
+  .NET", "key rotation", "HSM".
+metadata:
+  package: Azure.Security.KeyVault.Keys
 ---
-
 # Azure.Security.KeyVault.Keys (.NET)
 
 Client library for managing cryptographic keys in Azure Key Vault and Managed HSM.
@@ -409,3 +411,11 @@ catch (RequestFailedException ex)
 
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

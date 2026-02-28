@@ -1,13 +1,12 @@
 ---
 name: database
-description: "Database development and operations workflow covering SQL, NoSQL, database design, migrations, optimization, and data engineering."
-source: personal
-risk: safe
-domain: data
-category: workflow-bundle
-version: 1.0.0
+description: Database development and operations workflow covering SQL, NoSQL,
+  database design, migrations, optimization, and data engineering.
+metadata:
+  domain: data
+  category: workflow-bundle
+  version: 1.0.0
 ---
-
 # Database Workflow Bundle
 
 ## Overview
@@ -211,3 +210,11 @@ Skills: clickhouse-io, dbt-transformation-patterns
 - `cloud-devops` - Infrastructure
 - `ai-ml` - AI/ML data pipelines
 - `testing-qa` - Data testing
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

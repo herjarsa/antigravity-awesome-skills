@@ -399,3 +399,11 @@ All screenshots are true retina-quality (2x deviceScaleFactor) and ready for mar
 3. **Wait for content**: Use `waitForLoadState('networkidle')` to ensure all content loads
 4. **Hide dev tools**: Ensure no browser extensions or dev overlays are visible
 5. **Dark mode variants**: Consider capturing both light and dark mode if supported
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

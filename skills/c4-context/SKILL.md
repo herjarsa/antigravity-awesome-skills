@@ -9,10 +9,7 @@ description: |
   documentation.
 metadata:
   model: sonnet
-risk: unknown
-source: community
 ---
-
 # C4 Context Level: System Context
 
 ## Use this skill when

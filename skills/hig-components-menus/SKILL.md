@@ -1,20 +1,18 @@
 ---
 name: hig-components-menus
-version: 1.0.0
-description: >-
-  Apple HIG guidance for menu and button components including menus, context menus,
-  dock menus, edit menus, the menu bar, toolbars, action buttons, pop-up buttons,
-  pull-down buttons, disclosure controls, and standard buttons. Use this skill
-  when the user says "how should my buttons look," "what goes in the menu bar,"
-  "should I use a context menu or action sheet," "how do I design a toolbar," or
-  asks about button design, menu design, context menu, toolbar, menu bar, action
-  button, pop-up button, pull-down button, disclosure control, dock menu, edit
-  menu, or any menu/button component layout and behavior. Cross-references:
-  hig-components-search, hig-components-controls, hig-components-dialogs.
-risk: unknown
-source: community
+description: 'Apple HIG guidance for menu and button components including menus,
+  context menus, dock menus, edit menus, the menu bar, toolbars, action buttons,
+  pop-up buttons, pull-down buttons, disclosure controls, and standard buttons.
+  Use this skill when the user says "how should my buttons look," "what goes in
+  the menu bar," "should I use a context menu or action sheet," "how do I design
+  a toolbar," or asks about button design, menu design, context menu, toolbar,
+  menu bar, action button, pop-up button, pull-down button, disclosure control,
+  dock menu, edit menu, or any menu/button component layout and behavior.
+  Cross-references: hig-components-search, hig-components-controls,
+  hig-components-dialogs.'
+metadata:
+  version: 1.0.0
 ---
-
 # Apple HIG: Menus and Buttons
 
 Check for `.claude/apple-design-context.md` before asking questions. Use existing context and only ask for information not already covered.
@@ -84,3 +82,11 @@ Check for `.claude/apple-design-context.md` before asking questions. Use existin
 
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

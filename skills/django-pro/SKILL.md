@@ -7,10 +7,7 @@ description: |
   complex Django patterns.
 metadata:
   model: opus
-risk: unknown
-source: community
 ---
-
 ## Use this skill when
 
 - Working on django pro tasks or workflows

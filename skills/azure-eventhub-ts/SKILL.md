@@ -1,11 +1,11 @@
 ---
 name: azure-eventhub-ts
-description: "Build event streaming applications using Azure Event Hubs SDK for JavaScript (@azure/event-hubs). Use when implementing high-throughput event ingestion, real-time analytics, IoT telemetry, or event..."
-package: "@azure/event-hubs"
-risk: unknown
-source: community
+description: Build event streaming applications using Azure Event Hubs SDK for
+  JavaScript (@azure/event-hubs). Use when implementing high-throughput event
+  ingestion, real-time analytics, IoT telemetry, or event...
+metadata:
+  package: "@azure/event-hubs"
 ---
-
 # Azure Event Hubs SDK for TypeScript
 
 High-throughput event streaming and real-time data ingestion.
@@ -271,3 +271,11 @@ consumer.subscribe({
 
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

@@ -7,10 +7,7 @@ description: |
   risk analysis.
 metadata:
   model: inherit
-risk: unknown
-source: community
 ---
-
 ## Use this skill when
 
 - Working on quant analyst tasks or workflows

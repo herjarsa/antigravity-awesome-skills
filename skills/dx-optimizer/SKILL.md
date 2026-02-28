@@ -6,10 +6,7 @@ description: |
   or when development friction is noticed.
 metadata:
   model: sonnet
-risk: unknown
-source: community
 ---
-
 ## Use this skill when
 
 - Working on dx optimizer tasks or workflows

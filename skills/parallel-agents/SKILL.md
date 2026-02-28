@@ -1,11 +1,10 @@
 ---
 name: parallel-agents
-description: "Multi-agent orchestration patterns. Use when multiple independent tasks can run with different domain expertise or when comprehensive analysis requires multiple perspectives."
-allowed-tools: Read, Glob, Grep
-risk: unknown
-source: community
+description: Multi-agent orchestration patterns. Use when multiple independent
+  tasks can run with different domain expertise or when comprehensive analysis
+  requires multiple perspectives.
+allowed-tools: Read Glob Grep
 ---
-
 # Native Parallel Agents
 
 > Orchestration through Claude Code's built-in Agent Tool
@@ -175,3 +174,11 @@ After all agents complete, synthesize:
 - ✅ **Native integration** - Works with built-in Explore, Plan agents
 - ✅ **Resume support** - Can continue previous agent work
 - ✅ **Context passing** - Findings flow between agents
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

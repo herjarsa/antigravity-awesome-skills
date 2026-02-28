@@ -7,10 +7,7 @@ description: |
   for business intelligence or strategic analysis.
 metadata:
   model: sonnet
-risk: unknown
-source: community
 ---
-
 ## Use this skill when
 
 - Working on business analyst tasks or workflows

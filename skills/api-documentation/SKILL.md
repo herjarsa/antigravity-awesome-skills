@@ -1,13 +1,12 @@
 ---
 name: api-documentation
-description: "API documentation workflow for generating OpenAPI specs, creating developer guides, and maintaining comprehensive API documentation."
-source: personal
-risk: safe
-domain: documentation
-category: granular-workflow-bundle
-version: 1.0.0
+description: API documentation workflow for generating OpenAPI specs, creating
+  developer guides, and maintaining comprehensive API documentation.
+metadata:
+  domain: documentation
+  category: granular-workflow-bundle
+  version: 1.0.0
 ---
-
 # API Documentation Workflow
 
 ## Overview
@@ -162,3 +161,11 @@ Use @api-documenter to set up automated doc generation
 - `documentation` - Documentation
 - `api-development` - API development
 - `development` - Development
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

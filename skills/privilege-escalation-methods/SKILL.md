@@ -1,13 +1,12 @@
 ---
 name: privilege-escalation-methods
-description: "This skill should be used when the user asks to \"escalate privileges\", \"get root access\", \"become administrator\", \"privesc techniques\", \"abuse sudo\", \"exploit SUID binaries\", \"K..."
+description: This skill should be used when the user asks to "escalate
+  privileges", "get root access", "become administrator", "privesc techniques",
+  "abuse sudo", "exploit SUID binaries", "K...
 metadata:
   author: zebbern
   version: "1.1"
-risk: unknown
-source: community
 ---
-
 # Privilege Escalation Methods
 
 ## Purpose
@@ -336,3 +335,11 @@ For detailed enumeration scripts, use:
 
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

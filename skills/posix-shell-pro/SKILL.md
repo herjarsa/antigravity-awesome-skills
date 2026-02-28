@@ -6,10 +6,7 @@ description: |
   POSIX-compliant shell (dash, ash, sh, bash --posix).
 metadata:
   model: sonnet
-risk: unknown
-source: community
 ---
-
 ## Use this skill when
 
 - Working on posix shell pro tasks or workflows

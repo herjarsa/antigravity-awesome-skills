@@ -6,10 +6,7 @@ description: |
   updating. Use PROACTIVELY for older content.
 metadata:
   model: haiku
-risk: unknown
-source: community
 ---
-
 ## Use this skill when
 
 - Working on seo content refresher tasks or workflows

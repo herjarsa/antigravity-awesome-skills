@@ -112,3 +112,11 @@ python3 scripts/research.py --list
 - **0**: Success
 - **1**: Error (API error, config issue, timeout)
 - **130**: Cancelled by user (Ctrl+C)
+
+
+## Do not use
+Do not use this skill for tasks unrelated to its primary purpose.
+
+
+## Instructions
+Follow the procedures described in the overview and use cases.

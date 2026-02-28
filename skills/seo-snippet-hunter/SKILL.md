@@ -6,10 +6,7 @@ description: |
   Use PROACTIVELY for question-based content.
 metadata:
   model: haiku
-risk: unknown
-source: community
 ---
-
 ## Use this skill when
 
 - Working on seo snippet hunter tasks or workflows

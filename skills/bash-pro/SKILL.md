@@ -6,8 +6,6 @@ description: |
   scripts.
 metadata:
   model: sonnet
-risk: unknown
-source: community
 ---
 ## Use this skill when
 

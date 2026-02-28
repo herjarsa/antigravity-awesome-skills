@@ -6,10 +6,7 @@ description: |
   applications.
 metadata:
   model: inherit
-risk: unknown
-source: community
 ---
-
 ## Use this skill when
 
 - Working on php pro tasks or workflows

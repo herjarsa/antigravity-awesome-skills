@@ -1,10 +1,10 @@
 ---
 name: remotion-best-practices
-description: Best practices for Remotion - Video creation in React
-metadata:
-  tags: remotion, video, react, animation, composition
-  author: remotion-dev
-  version: "1.0"
+description: "Best practices for Remotion - Video creation in React"
+risk: unknown
+source: community
+tags: "remotion, video, react, animation, composition"
+date_added: "2026-02-27"
 ---
 ## When to use
 

@@ -1,12 +1,10 @@
 ---
 name: wordpress
-description: Complete WordPress development workflow covering theme development,
-  plugin creation, WooCommerce integration, performance optimization, and
-  security hardening.
-metadata:
-  domain: software-development
-  category: workflow-bundle
-  version: 1.0.0
+description: "Complete WordPress development workflow covering theme development, plugin creation, WooCommerce integration, performance optimization, and security hardening."
+category: workflow-bundle
+risk: safe
+source: personal
+date_added: "2026-02-27"
 ---
 # WordPress Development Workflow Bundle
 

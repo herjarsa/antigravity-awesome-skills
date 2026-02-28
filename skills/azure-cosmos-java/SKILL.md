@@ -1,8 +1,10 @@
 ---
 name: azure-cosmos-java
-description: >
-  Azure Cosmos DB SDK for Java. NoSQL database operations with global
-  distribution, multi-model support, and reactive patterns.
+description: |
+risk: unknown
+source: community
+date_added: "2026-02-27"
+---
 
   Triggers: "CosmosClient java", "CosmosAsyncClient", "cosmos database java",
   "cosmosdb java", "document database java".

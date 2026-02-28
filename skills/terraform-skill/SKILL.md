@@ -1,10 +1,9 @@
 ---
 name: terraform-skill
-description: Terraform infrastructure as code best practices
-license: Apache-2.0
-metadata:
-  author: Anton Babenko
-  version: 1.5.0
+description: "Terraform infrastructure as code best practices"
+risk: safe
+source: "https://github.com/antonbabenko/terraform-skill"
+date_added: "2026-02-27"
 ---
 # Terraform Skill for Claude
 

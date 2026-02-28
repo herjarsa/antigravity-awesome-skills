@@ -1,11 +1,10 @@
 ---
 name: kubernetes-deployment
-description: Kubernetes deployment workflow for container orchestration, Helm
-  charts, service mesh, and production-ready K8s configurations.
-metadata:
-  domain: cloud-devops
-  category: granular-workflow-bundle
-  version: 1.0.0
+description: "Kubernetes deployment workflow for container orchestration, Helm charts, service mesh, and production-ready K8s configurations."
+category: granular-workflow-bundle
+risk: safe
+source: personal
+date_added: "2026-02-27"
 ---
 # Kubernetes Deployment Workflow
 

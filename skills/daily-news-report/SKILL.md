@@ -1,13 +1,9 @@
 ---
 name: daily-news-report
-description: Scrapes content based on a preset URL list, filters high-quality
-  technical information, and generates daily Markdown reports.
-allowed-tools: Task WebFetch Read Write Bash(mkdir*) Bash(date*) Bash(ls*)
-  mcp__chrome-devtools__*
-metadata:
-  argument-hint: '[{"optional":"date"}]'
-  disable-model-invocation: "false"
-  user-invocable: "true"
+description: "Scrapes content based on a preset URL list, filters high-quality technical information, and generates daily Markdown reports."
+risk: unknown
+source: community
+date_added: "2026-02-27"
 ---
 # Daily News Report v3.0
 

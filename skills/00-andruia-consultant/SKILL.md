@@ -1,11 +1,10 @@
 ---
 name: 00-andruia-consultant
-description: Arquitecto de Soluciones Principal y Consultor Tecnológico de
-  Andru.ia. Diagnostica y traza la hoja de ruta óptima para proyectos de IA en
-  español.
-metadata:
-  id: 00-andruia-consultant
-  category: andruia
+description: "Arquitecto de Soluciones Principal y Consultor Tecnológico de Andru.ia. Diagnostica y traza la hoja de ruta óptima para proyectos de IA en español."
+category: andruia
+risk: safe
+source: personal
+date_added: "2026-02-27"
 ---
 ## When to Use
 

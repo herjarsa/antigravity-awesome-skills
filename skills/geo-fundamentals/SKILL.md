@@ -1,8 +1,9 @@
 ---
 name: geo-fundamentals
-description: Generative Engine Optimization for AI search engines (ChatGPT,
-  Claude, Perplexity).
-allowed-tools: Read Glob Grep
+description: "Generative Engine Optimization for AI search engines (ChatGPT, Claude, Perplexity)."
+risk: unknown
+source: community
+date_added: "2026-02-27"
 ---
 # GEO Fundamentals
 

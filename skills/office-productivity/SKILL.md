@@ -1,12 +1,10 @@
 ---
 name: office-productivity
-description: Office productivity workflow covering document creation,
-  spreadsheet automation, presentation generation, and integration with
-  LibreOffice and Microsoft Office formats.
-metadata:
-  domain: office-productivity
-  category: workflow-bundle
-  version: 1.0.0
+description: "Office productivity workflow covering document creation, spreadsheet automation, presentation generation, and integration with LibreOffice and Microsoft Office formats."
+category: workflow-bundle
+risk: safe
+source: personal
+date_added: "2026-02-27"
 ---
 # Office Productivity Workflow Bundle
 

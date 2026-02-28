@@ -34,11 +34,3 @@ bash skills/git-pushing/scripts/smart_commit.sh "feat: add feature"
 ```
 
 Script handles: staging, conventional commit message, Claude footer, push with -u flag.
-
-
-## Do not use
-Do not use this skill for tasks unrelated to its primary purpose.
-
-
-## Instructions
-Follow the procedures described in the overview and use cases.

@@ -6,6 +6,7 @@ risk: safe
 source: personal
 date_added: "2026-02-27"
 ---
+
 # WordPress WooCommerce Development Workflow
 
 ## Overview
@@ -184,11 +185,3 @@ Use @playwright-skill to test WooCommerce checkout flow
 - `wordpress-theme-development` - Theme development
 - `wordpress-plugin-development` - Plugin development
 - `payment-integration` - Payment processing
-
-
-## Do not use
-Do not use this skill for tasks unrelated to its primary purpose.
-
-
-## Instructions
-Follow the procedures described in the overview and use cases.

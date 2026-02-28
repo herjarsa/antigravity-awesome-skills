@@ -5,6 +5,7 @@ risk: unknown
 source: community
 date_added: "2026-02-27"
 ---
+
 # Azure.ResourceManager.Redis (.NET)
 
 Management plane SDK for provisioning and managing Azure Cache for Redis resources via Azure Resource Manager.
@@ -357,11 +358,3 @@ var value = await db.StringGetAsync("key");
 
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
-
-
-## Do not use
-Do not use this skill for tasks unrelated to its primary purpose.
-
-
-## Instructions
-Follow the procedures described in the overview and use cases.

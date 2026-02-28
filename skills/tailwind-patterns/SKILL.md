@@ -5,6 +5,7 @@ risk: unknown
 source: community
 date_added: "2026-02-27"
 ---
+
 # Tailwind CSS Patterns (v4 - 2025)
 
 > Modern utility-first CSS with CSS-native configuration.
@@ -272,11 +273,3 @@ Use this skill when configuring Tailwind v4, using CSS-first theme and design to
 ---
 
 > **Remember:** Tailwind v4 is CSS-first. Embrace CSS variables, container queries, and native features. The config file is now optional.
-
-
-## Do not use
-Do not use this skill for tasks unrelated to its primary purpose.
-
-
-## Instructions
-Follow the procedures described in the overview and use cases.

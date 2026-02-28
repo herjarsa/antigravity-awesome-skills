@@ -125,11 +125,3 @@ await get_tree().create_timer(1.0).timeout
 
 **Problem:** "Identifier 'Tween' is not a valid type."
 **Solution:** `Tween` is now `SceneTreeTween` or just an object returned by `create_tween()`. You rarely type it explicitly, just use `var tween = create_tween()`.
-
-
-## Do not use
-Do not use this skill for tasks unrelated to its primary purpose.
-
-
-## Instructions
-Follow the procedures described in the overview and use cases.

@@ -6,6 +6,7 @@ risk: safe
 source: personal
 date_added: "2026-02-27"
 ---
+
 # WordPress Theme Development Workflow
 
 ## Overview
@@ -185,11 +186,3 @@ theme-name/
 - `wordpress` - WordPress development
 - `wordpress-plugin-development` - Plugin development
 - `wordpress-woocommerce` - WooCommerce
-
-
-## Do not use
-Do not use this skill for tasks unrelated to its primary purpose.
-
-
-## Instructions
-Follow the procedures described in the overview and use cases.

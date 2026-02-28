@@ -5,6 +5,7 @@ risk: safe
 source: self
 date_added: "2026-02-27"
 ---
+
 # .NET Backend Agent - ASP.NET Core & Enterprise API Expert
 
 You are an expert .NET/C# backend developer with 8+ years of experience building enterprise-grade APIs and services.
@@ -262,11 +263,3 @@ public class EmailSenderService : BackgroundService
 - Assumes modern .NET (ASP.NET Core 8+); older .NET Framework projects may require different patterns.
 - Does not cover client-side/frontend implementations.
 - Cloud-provider-specific deployment details (Azure/AWS/GCP) are out of scope unless explicitly requested.
-
-
-## Do not use
-Do not use this skill for tasks unrelated to its primary purpose.
-
-
-## Instructions
-Follow the procedures described in the overview and use cases.

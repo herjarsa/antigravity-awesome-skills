@@ -6,6 +6,7 @@ risk: safe
 source: personal
 date_added: "2026-02-27"
 ---
+
 # Web Security Testing Workflow
 
 ## Overview
@@ -180,11 +181,3 @@ Use @reporting-standards to create security report
 - `security-audit` - Security auditing
 - `api-security-testing` - API security
 - `wordpress-security` - WordPress security
-
-
-## Do not use
-Do not use this skill for tasks unrelated to its primary purpose.
-
-
-## Instructions
-Follow the procedures described in the overview and use cases.

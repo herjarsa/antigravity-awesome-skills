@@ -5,6 +5,7 @@ risk: safe
 source: "https://github.com/ai-evos/agent-skills"
 date_added: "2026-02-27"
 ---
+
 ## When to Use
 
 Use this skill when navigating international trade regulations, classifying goods under HS codes, determining appropriate Incoterms, managing import/export documentation, or optimizing customs duty payments through Free Trade Agreements.
@@ -239,11 +240,3 @@ Use this skill when you are **planning, auditing, or remediating customs and tra
 - Classifying products (HS/HTS/TARIC), designing documentation flows, or implementing Incoterms for new trade lanes.
 - Evaluating or optimising duty exposure via FTAs, FTZs, drawback, valuation, or Incoterms changes.
 - Investigating compliance risk, penalty exposure, or restricted‑party screening issues across import/export operations.
-
-
-## Do not use
-Do not use this skill for tasks unrelated to its primary purpose.
-
-
-## Instructions
-Follow the procedures described in the overview and use cases.

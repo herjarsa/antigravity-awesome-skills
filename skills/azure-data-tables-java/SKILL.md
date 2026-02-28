@@ -5,6 +5,7 @@ risk: unknown
 source: community
 date_added: "2026-02-27"
 ---
+
 # Azure Tables SDK for Java
 
 Build table storage applications using the Azure Tables SDK for Java. Works with both Azure Table Storage and Cosmos DB Table API.
@@ -336,11 +337,3 @@ COSMOS_TABLE_ENDPOINT=https://<account>.table.cosmosdb.azure.com
 
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
-
-
-## Do not use
-Do not use this skill for tasks unrelated to its primary purpose.
-
-
-## Instructions
-Follow the procedures described in the overview and use cases.

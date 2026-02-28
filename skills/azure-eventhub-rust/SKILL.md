@@ -6,11 +6,6 @@ source: community
 date_added: "2026-02-27"
 ---
 
-  Triggers: "event hubs rust", "ProducerClient rust", "ConsumerClient rust",
-  "send event rust", "streaming rust".
-metadata:
-  package: azure_messaging_eventhubs
----
 # Azure Event Hubs SDK for Rust
 
 Client library for Azure Event Hubs — big data streaming platform and event ingestion service.
@@ -133,11 +128,3 @@ cargo add azure_messaging_eventhubs_checkpointstore_blob
 
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
-
-
-## Do not use
-Do not use this skill for tasks unrelated to its primary purpose.
-
-
-## Instructions
-Follow the procedures described in the overview and use cases.

@@ -6,6 +6,7 @@ risk: safe
 source: personal
 date_added: "2026-02-27"
 ---
+
 # Linux Troubleshooting Workflow
 
 ## Overview
@@ -217,11 +218,3 @@ Use @incident-responder to implement resolution
 - `os-scripting` - OS scripting
 - `bash-scripting` - Bash scripting
 - `cloud-devops` - DevOps
-
-
-## Do not use
-Do not use this skill for tasks unrelated to its primary purpose.
-
-
-## Instructions
-Follow the procedures described in the overview and use cases.

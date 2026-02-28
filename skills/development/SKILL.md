@@ -6,6 +6,7 @@ risk: safe
 source: personal
 date_added: "2026-02-27"
 ---
+
 # Development Workflow Bundle
 
 ## Overview
@@ -259,11 +260,3 @@ Before moving to next phase, verify:
 - `security-audit` - Security testing workflow
 - `testing-qa` - Comprehensive testing workflow
 - `documentation` - Documentation generation workflow
-
-
-## Do not use
-Do not use this skill for tasks unrelated to its primary purpose.
-
-
-## Instructions
-Follow the procedures described in the overview and use cases.

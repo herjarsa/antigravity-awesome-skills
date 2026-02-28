@@ -222,7 +222,3 @@ Refactored Example:
 $post = Post::where('user_id', auth()->id())
     ->findOrFail($id);
 ```
-
-
-## Instructions
-Follow the procedures described in the overview and use cases.

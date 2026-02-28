@@ -841,11 +841,3 @@ Generate a complete README.md file with:
 - Linked table of contents for long documents
 
 Write the README directly to `README.md` in the project root.
-
-
-## Do not use
-Do not use this skill for tasks unrelated to its primary purpose.
-
-
-## Instructions
-Follow the procedures described in the overview and use cases.

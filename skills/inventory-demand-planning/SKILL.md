@@ -5,6 +5,7 @@ risk: safe
 source: "https://github.com/ai-evos/agent-skills"
 date_added: "2026-02-27"
 ---
+
 ## When to Use
 
 Use this skill when forecasting product demand, calculating optimal safety stock levels, planning inventory replenishment cycles, estimating the impact of retail promotions, or conducting ABC/XYZ inventory segmentation.
@@ -223,11 +224,3 @@ Use this skill when you need to **forecast demand and shape inventory policy acr
 - Selecting and tuning forecasting methods, safety stock policies, and reorder logic for different demand patterns.
 - Planning promotions, seasonal transitions, markdowns, and end‑of‑life strategies while balancing service, cash, and margin.
 - Investigating chronic stockouts, excess inventory, or forecast bias and redesigning the planning process with clearer decision frameworks.
-
-
-## Do not use
-Do not use this skill for tasks unrelated to its primary purpose.
-
-
-## Instructions
-Follow the procedures described in the overview and use cases.

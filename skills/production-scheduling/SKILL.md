@@ -5,6 +5,7 @@ risk: safe
 source: "https://github.com/ai-evos/agent-skills"
 date_added: "2026-02-27"
 ---
+
 ## When to Use
 
 Use this skill when planning manufacturing operations, sequencing jobs to minimize changeover times, balancing production lines, resolving factory bottlenecks, or responding to unexpected equipment downtime and supply disruptions.
@@ -213,11 +214,3 @@ Use this skill when you need to **design or adjust production schedules and cons
 - Sequencing jobs, balancing lines, and optimising changeovers in discrete or batch manufacturing.
 - Responding to disruptions (machine breakdowns, shortages, quality holds, absenteeism) while protecting the bottleneck and customer commitments.
 - Building scheduling rules, KPIs, and communication patterns between planning, production, maintenance, and quality teams.
-
-
-## Do not use
-Do not use this skill for tasks unrelated to its primary purpose.
-
-
-## Instructions
-Follow the procedures described in the overview and use cases.

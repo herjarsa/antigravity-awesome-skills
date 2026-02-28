@@ -5,6 +5,7 @@ risk: unknown
 source: community
 date_added: "2026-02-27"
 ---
+
 # Salesforce Automation via Rube MCP
 
 Automate Salesforce CRM operations through Composio's Salesforce toolkit via Rube MCP.
@@ -191,11 +192,3 @@ SELECT Id, Name FROM Opportunity WHERE CloseDate = NEXT_MONTH
 
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
-
-
-## Do not use
-Do not use this skill for tasks unrelated to its primary purpose.
-
-
-## Instructions
-Follow the procedures described in the overview and use cases.

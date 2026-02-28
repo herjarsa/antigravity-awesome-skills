@@ -5,6 +5,7 @@ risk: unknown
 source: community
 date_added: "2026-02-27"
 ---
+
 # Azure Communication Call Automation (Java)
 
 Build server-side call automation workflows including IVR systems, call routing, recording, and AI-powered interactions.
@@ -256,11 +257,3 @@ CALLBACK_BASE_URL=https://your-app.com/api/callbacks
 
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
-
-
-## Do not use
-Do not use this skill for tasks unrelated to its primary purpose.
-
-
-## Instructions
-Follow the procedures described in the overview and use cases.

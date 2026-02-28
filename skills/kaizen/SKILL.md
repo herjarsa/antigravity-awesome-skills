@@ -731,11 +731,3 @@ Use commands for structured problem-solving. Apply skill for day-to-day developm
 - Premature optimization
 
 **Mindset:** Good enough today, better tomorrow. Repeat.
-
-
-## Do not use
-Do not use this skill for tasks unrelated to its primary purpose.
-
-
-## Instructions
-Follow the procedures described in the overview and use cases.

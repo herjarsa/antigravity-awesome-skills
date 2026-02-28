@@ -6,6 +6,7 @@ risk: safe
 source: personal
 date_added: "2026-02-27"
 ---
+
 # AI Agent Development Workflow
 
 ## Overview
@@ -170,11 +171,3 @@ User Input -> Planner -> Agent -> Tools -> Memory -> Response
 - `ai-ml` - AI/ML development
 - `rag-implementation` - RAG systems
 - `workflow-automation` - Workflow patterns
-
-
-## Do not use
-Do not use this skill for tasks unrelated to its primary purpose.
-
-
-## Instructions
-Follow the procedures described in the overview and use cases.

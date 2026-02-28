@@ -7,6 +7,7 @@ source: community
 tags: "[automation, scaffolding, skill-creation, meta-skill]"
 date_added: "2026-02-27"
 ---
+
 # skill-creator
 
 ## Purpose
@@ -587,11 +588,3 @@ Executable utilities for skill maintenance:
 - **Repository:** https://github.com/yourusername/cli-ai-skills
 - **Writing Style Guide:** `resources/templates/writing-style-guide.md`
 - **Progress Tracker Template:** `resources/templates/progress-tracker.md`
-
-
-## Do not use
-Do not use this skill for tasks unrelated to its primary purpose.
-
-
-## Instructions
-Follow the procedures described in the overview and use cases.

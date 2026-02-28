@@ -5,6 +5,7 @@ risk: unknown
 source: community
 date_added: "2026-02-27"
 ---
+
 # Azure.Identity (.NET)
 
 Authentication library for Azure SDK clients using Microsoft Entra ID (formerly Azure AD).
@@ -340,11 +341,3 @@ All credential implementations are thread-safe. A single credential instance can
 
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
-
-
-## Do not use
-Do not use this skill for tasks unrelated to its primary purpose.
-
-
-## Instructions
-Follow the procedures described in the overview and use cases.

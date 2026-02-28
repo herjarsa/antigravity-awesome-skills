@@ -5,6 +5,7 @@ risk: safe
 source: "https://github.com/wrsmith108/linear-claude-skill"
 date_added: "2026-02-27"
 ---
+
 ## When to Use This Skill
 
 Manage Linear issues, projects, and teams
@@ -539,11 +540,3 @@ npx tsx scripts/linear-ops.ts project-status "My Project" completed
 | docs/labels.md | Label taxonomy |
 
 **External:** [Linear MCP Documentation](https://linear.app/docs/mcp.md)
-
-
-## Do not use
-Do not use this skill for tasks unrelated to its primary purpose.
-
-
-## Instructions
-Follow the procedures described in the overview and use cases.

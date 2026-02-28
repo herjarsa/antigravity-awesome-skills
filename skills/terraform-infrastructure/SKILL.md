@@ -6,6 +6,7 @@ risk: safe
 source: personal
 date_added: "2026-02-27"
 ---
+
 # Terraform Infrastructure Workflow
 
 ## Overview
@@ -160,11 +161,3 @@ Use @secrets-management to secure Terraform secrets
 - `cloud-devops` - Cloud/DevOps
 - `kubernetes-deployment` - Kubernetes
 - `aws-infrastructure` - AWS specific
-
-
-## Do not use
-Do not use this skill for tasks unrelated to its primary purpose.
-
-
-## Instructions
-Follow the procedures described in the overview and use cases.

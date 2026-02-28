@@ -21,7 +21,3 @@ Use this skill when you need to work with ai-powered ppt generation with documen
 This skill provides guidance and patterns for ai-powered ppt generation with document analysis and styled images.
 
 For more information, see the [source repository](https://github.com/op7418/NanoBanana-PPT-Skills).
-
-
-## Do not use
-Do not use this skill for tasks unrelated to its primary purpose.

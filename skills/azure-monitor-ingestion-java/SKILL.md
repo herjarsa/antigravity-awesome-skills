@@ -6,11 +6,6 @@ source: community
 date_added: "2026-02-27"
 ---
 
-  Triggers: "LogsIngestionClient java", "azure monitor ingestion java", "custom
-  logs java", "DCR java", "data collection rule java".
-metadata:
-  package: com.azure:azure-monitor-ingestion
----
 # Azure Monitor Ingestion SDK for Java
 
 Client library for sending custom logs to Azure Monitor using the Logs Ingestion API via Data Collection Rules.
@@ -236,11 +231,3 @@ String query = "MyTable_CL | where TimeGenerated > ago(1h) | limit 10";
 
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
-
-
-## Do not use
-Do not use this skill for tasks unrelated to its primary purpose.
-
-
-## Instructions
-Follow the procedures described in the overview and use cases.

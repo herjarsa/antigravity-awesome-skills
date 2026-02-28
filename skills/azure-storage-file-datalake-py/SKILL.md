@@ -6,11 +6,6 @@ source: community
 date_added: "2026-02-27"
 ---
 
-  Triggers: "data lake", "DataLakeServiceClient", "FileSystemClient", "ADLS
-  Gen2", "hierarchical namespace".
-metadata:
-  package: azure-storage-file-datalake
----
 # Azure Data Lake Storage Gen2 SDK for Python
 
 Hierarchical file system for big data analytics workloads.
@@ -217,11 +212,3 @@ asyncio.run(datalake_operations())
 
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
-
-
-## Do not use
-Do not use this skill for tasks unrelated to its primary purpose.
-
-
-## Instructions
-Follow the procedures described in the overview and use cases.

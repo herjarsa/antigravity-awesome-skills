@@ -5,6 +5,7 @@ risk: safe
 source: "https://github.com/ai-evos/agent-skills"
 date_added: "2026-02-27"
 ---
+
 ## When to Use
 
 Use this skill when dealing with deviations from planned logistics operations, such as transit delays, damaged shipments, lost cargo, or when initiating and managing claims and disputes with freight carriers.
@@ -202,11 +203,3 @@ Use this skill when you need to **triage and resolve logistics exceptions or des
 - Handling delays, damages, shortages, misdeliveries, and claims across LTL, FTL, parcel, intermodal, ocean, or air.
 - Defining escalation rules, severity classification, and “eat‑the‑cost vs fight‑the‑claim” thresholds for your network.
 - Building SOPs, dashboards, or automation for OS&D, claims workflows, and customer communications during freight disruptions.
-
-
-## Do not use
-Do not use this skill for tasks unrelated to its primary purpose.
-
-
-## Instructions
-Follow the procedures described in the overview and use cases.

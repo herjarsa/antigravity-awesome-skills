@@ -6,6 +6,7 @@ risk: unknown
 source: community
 date_added: "2026-02-27"
 ---
+
 # Writing Skills (Excellence)
 
 Dispatcher for skill creation excellence. Use the decision tree below to find the right template and standards.
@@ -119,11 +120,3 @@ mkdir -p ~/.config/opencode/skills/my-skill/references/core
 touch ~/.config/opencode/skills/my-skill/{SKILL.md,gotchas.md}
 touch ~/.config/opencode/skills/my-skill/references/core/README.md
 ```
-
-
-## Do not use
-Do not use this skill for tasks unrelated to its primary purpose.
-
-
-## Instructions
-Follow the procedures described in the overview and use cases.

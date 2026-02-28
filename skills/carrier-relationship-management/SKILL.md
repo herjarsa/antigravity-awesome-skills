@@ -5,6 +5,7 @@ risk: safe
 source: "https://github.com/ai-evos/agent-skills"
 date_added: "2026-02-27"
 ---
+
 ## When to Use
 
 Use this skill when building and managing a carrier network, conducting freight RFPs, negotiating linehaul and accessorial rates, tracking carrier KPIs via scorecards, or ensuring regulatory compliance of transportation partners.
@@ -188,11 +189,3 @@ Use this skill when you are **designing or tuning your carrier portfolio, routin
 - Running freight RFPs, renegotiating contract and fuel tables, or balancing spot vs. contract exposure.
 - Building carrier scorecards, exit criteria, and escalation protocols to manage performance and risk.
 - Deciding how to allocate lanes across asset carriers, brokers, and regional specialists to protect service while controlling logistics spend.
-
-
-## Do not use
-Do not use this skill for tasks unrelated to its primary purpose.
-
-
-## Instructions
-Follow the procedures described in the overview and use cases.

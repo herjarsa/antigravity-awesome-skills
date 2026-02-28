@@ -5,6 +5,7 @@ risk: safe
 source: "ClawForge (https://github.com/jackjin1997/ClawForge)"
 date_added: "2026-02-27"
 ---
+
 # Clean Code Skill
 
 This skill embodies the principles of "Clean Code" by Robert C. Martin (Uncle Bob). Use it to transform "code that works" into "code that is clean."
@@ -91,11 +92,3 @@ Use this skill when:
 - [ ] Have I avoided comments by making the code clearer?
 - [ ] Am I passing too many arguments?
 - [ ] Is there a failing test for this change?
-
-
-## Do not use
-Do not use this skill for tasks unrelated to its primary purpose.
-
-
-## Instructions
-Follow the procedures described in the overview and use cases.

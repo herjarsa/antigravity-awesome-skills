@@ -5,6 +5,7 @@ risk: safe
 source: "https://github.com/ai-evos/agent-skills"
 date_added: "2026-02-27"
 ---
+
 ## When to Use
 
 Use this skill when investigating product defects or process deviations, performing root cause analysis (RCA), managing Corrective and Preventive Actions (CAPA), interpreting Statistical Process Control (SPC) data, or auditing supplier quality.
@@ -234,11 +235,3 @@ Use this skill when you need to **run or improve non‑conformance and CAPA proc
 - Investigating NCRs, selecting root‑cause methods, and defining MRB dispositions and CAPA actions.
 - Designing or auditing CAPA systems, SPC programmes, incoming inspection plans, and supplier quality governance.
 - Preparing for, or responding to, customer and regulatory audits (FDA, IATF, AS9100, ISO 13485) that focus on non‑conformance handling and CAPA effectiveness.
-
-
-## Do not use
-Do not use this skill for tasks unrelated to its primary purpose.
-
-
-## Instructions
-Follow the procedures described in the overview and use cases.

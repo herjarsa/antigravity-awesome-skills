@@ -6,11 +6,6 @@ source: community
 date_added: "2026-02-27"
 ---
 
-  Triggers: "text analytics", "sentiment analysis", "entity recognition", "key
-  phrase", "PII detection", "TextAnalyticsClient".
-metadata:
-  package: azure-ai-textanalytics
----
 # Azure AI Text Analytics SDK for Python
 
 Client library for Azure AI Language service NLP capabilities including sentiment, entities, key phrases, and more.
@@ -233,11 +228,3 @@ async def analyze():
 
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
-
-
-## Do not use
-Do not use this skill for tasks unrelated to its primary purpose.
-
-
-## Instructions
-Follow the procedures described in the overview and use cases.

@@ -5,6 +5,7 @@ risk: unknown
 source: community
 date_added: "2026-02-27"
 ---
+
 # Common RE scripting environments
 - IDAPython (IDA Pro scripting)
 - Ghidra scripting (Java/Python via Jython)

@@ -5,6 +5,7 @@ risk: unknown
 source: community
 date_added: "2026-02-27"
 ---
+
 # Shodan Reconnaissance and Pentesting
 
 ## Purpose
@@ -503,11 +504,3 @@ shodan download network_scan.json.gz 'net:192.168.1.0/24'
 
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
-
-
-## Do not use
-Do not use this skill for tasks unrelated to its primary purpose.
-
-
-## Instructions
-Follow the procedures described in the overview and use cases.

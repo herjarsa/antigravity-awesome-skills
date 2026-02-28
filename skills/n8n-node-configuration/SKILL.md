@@ -10,6 +10,15 @@ date_added: "2026-02-27"
 
 Expert guidance for operation-aware node configuration with property dependencies.
 
+## When to Use This Skill
+
+Use this skill when:
+- Configuring n8n nodes
+- Understanding property dependencies
+- Determining required fields
+- Choosing between get_node detail levels
+- Learning common configuration patterns by node type
+
 ---
 
 ## Configuration Philosophy
@@ -760,8 +769,8 @@ get_node({
 
 For comprehensive guides on specific topics:
 
-- **[DEPENDENCIES.md](DEPENDENCIES.md)** - Deep dive into property dependencies and displayOptions
-- **[OPERATION_PATTERNS.md](OPERATION_PATTERNS.md)** - Common configuration patterns by node type
+- **DEPENDENCIES.md** - Deep dive into property dependencies and displayOptions
+- **OPERATION_PATTERNS.md** - Common configuration patterns by node type
 
 ---
 

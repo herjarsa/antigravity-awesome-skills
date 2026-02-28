@@ -5,6 +5,7 @@ risk: unknown
 source: community
 date_added: "2026-02-27"
 ---
+
 # Vercel Automation via Rube MCP
 
 Automate Vercel platform operations through Composio's Vercel toolkit via Rube MCP.
@@ -227,11 +228,3 @@ Automate Vercel platform operations through Composio's Vercel toolkit via Rube M
 
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
-
-
-## Do not use
-Do not use this skill for tasks unrelated to its primary purpose.
-
-
-## Instructions
-Follow the procedures described in the overview and use cases.

@@ -30,11 +30,3 @@ Nunca entregue UI quebrada. Priorize sempre pixel-perfect + produção-grade.
 ## When to Use
 
 Use when you need a full senior engineering workflow with planning, architecture, TDD, clean code, and pixel-perfect UX validation in Portuguese (Brazil).
-
-
-## Do not use
-Do not use this skill for tasks unrelated to its primary purpose.
-
-
-## Instructions
-Follow the procedures described in the overview and use cases.

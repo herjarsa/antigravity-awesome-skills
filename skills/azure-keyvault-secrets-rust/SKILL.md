@@ -6,11 +6,6 @@ source: community
 date_added: "2026-02-27"
 ---
 
-  Triggers: "keyvault secrets rust", "SecretClient rust", "get secret rust",
-  "set secret rust".
-metadata:
-  package: azure_security_keyvault_secrets
----
 # Azure Key Vault Secrets SDK for Rust
 
 Client library for Azure Key Vault Secrets — secure storage for passwords, API keys, and other secrets.
@@ -148,11 +143,3 @@ Assign these Key Vault roles:
 
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
-
-
-## Do not use
-Do not use this skill for tasks unrelated to its primary purpose.
-
-
-## Instructions
-Follow the procedures described in the overview and use cases.

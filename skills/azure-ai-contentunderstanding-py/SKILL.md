@@ -6,12 +6,6 @@ source: community
 date_added: "2026-02-27"
 ---
 
-  Triggers: "azure-ai-contentunderstanding", "ContentUnderstandingClient",
-  "multimodal analysis", "document extraction", "video analysis", "audio
-  transcription".
-metadata:
-  package: azure-ai-contentunderstanding
----
 # Azure AI Content Understanding SDK for Python
 
 Multimodal AI service that extracts semantic content from documents, video, audio, and image files for RAG and automated workflows.
@@ -280,11 +274,3 @@ from azure.ai.contentunderstanding.models import (
 
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
-
-
-## Do not use
-Do not use this skill for tasks unrelated to its primary purpose.
-
-
-## Instructions
-Follow the procedures described in the overview and use cases.

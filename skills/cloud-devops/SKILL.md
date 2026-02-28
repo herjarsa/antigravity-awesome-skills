@@ -6,6 +6,7 @@ risk: safe
 source: personal
 date_added: "2026-02-27"
 ---
+
 # Cloud/DevOps Workflow Bundle
 
 ## Overview
@@ -232,11 +233,3 @@ Services: Cloud Run, GKE, Cloud Functions, BigQuery
 - `security-audit` - Security testing
 - `database` - Database operations
 - `testing-qa` - Testing workflows
-
-
-## Do not use
-Do not use this skill for tasks unrelated to its primary purpose.
-
-
-## Instructions
-Follow the procedures described in the overview and use cases.

@@ -197,11 +197,3 @@ hf cache rm model/gpt2           # Remove a repo from cache
 
 - **Complete command reference**: See references/commands.md
 - **Workflow examples**: See references/examples.md
-
-
-## Do not use
-Do not use this skill for tasks unrelated to its primary purpose.
-
-
-## Instructions
-Follow the procedures described in the overview and use cases.

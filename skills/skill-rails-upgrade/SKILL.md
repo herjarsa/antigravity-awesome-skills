@@ -407,11 +407,3 @@ Use this skill when working with analyze rails apps and provide upgrade assessme
 3. **Minimal changes** - Only add what's necessary for the new Rails version
 4. **Transparency** - Show the user exactly what will change before doing it
 5. **Reversibility** - User should be able to `git checkout` to restore if needed
-
-
-## Do not use
-Do not use this skill for tasks unrelated to its primary purpose.
-
-
-## Instructions
-Follow the procedures described in the overview and use cases.

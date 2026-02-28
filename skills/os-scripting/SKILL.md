@@ -6,6 +6,7 @@ risk: safe
 source: personal
 date_added: "2026-02-27"
 ---
+
 # OS/Shell Scripting Troubleshooting Workflow Bundle
 
 ## Overview
@@ -425,11 +426,3 @@ Before completing workflow, verify:
 - `cloud-devops` - Cloud and DevOps
 - `security-audit` - Security testing
 - `database` - Database operations
-
-
-## Do not use
-Do not use this skill for tasks unrelated to its primary purpose.
-
-
-## Instructions
-Follow the procedures described in the overview and use cases.

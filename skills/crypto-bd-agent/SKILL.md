@@ -6,6 +6,7 @@ source: community
 tags: 
 date_added: "2026-02-27"
 ---
+
 # Crypto BD Agent — Autonomous Business Development for Exchanges
 
 > Production-tested patterns for building AI agents that autonomously discover,
@@ -232,7 +233,3 @@ Buzz BD Agent (SolCex Exchange):
 - 24/7 live stream: retake.tv/BuzzBD
 - Verify: 8004scan.io
 - GitHub: https://github.com/buzzbysolcex/buzz-bd-agent
-
-
-## Instructions
-Follow the procedures described in the overview and use cases.

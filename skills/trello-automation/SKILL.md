@@ -5,6 +5,7 @@ risk: unknown
 source: community
 date_added: "2026-02-27"
 ---
+
 # Trello Automation via Rube MCP
 
 Automate Trello board management, card creation, and team workflows through Composio's Rube MCP integration.
@@ -182,11 +183,3 @@ Most list endpoints return all items. For boards with 1000+ cards, use `limit` a
 
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
-
-
-## Do not use
-Do not use this skill for tasks unrelated to its primary purpose.
-
-
-## Instructions
-Follow the procedures described in the overview and use cases.

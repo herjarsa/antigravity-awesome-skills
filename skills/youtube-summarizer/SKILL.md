@@ -7,6 +7,7 @@ source: community
 tags: "[video, summarization, transcription, youtube, content-analysis]"
 date_added: "2026-02-27"
 ---
+
 # youtube-summarizer
 
 ## Purpose
@@ -405,11 +406,3 @@ Welcome to this comprehensive tutorial on machine learning fundamentals. In toda
 **Version:** 1.2.0
 **Last Updated:** 2026-02-02
 **Maintained By:** Eric Andrade
-
-
-## Do not use
-Do not use this skill for tasks unrelated to its primary purpose.
-
-
-## Instructions
-Follow the procedures described in the overview and use cases.

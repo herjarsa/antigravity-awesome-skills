@@ -6,11 +6,6 @@ source: community
 date_added: "2026-02-27"
 ---
 
-  Triggers: "azure-search-documents", "SearchClient", "SearchIndexClient",
-  "vector search", "hybrid search", "semantic search".
-metadata:
-  package: azure-search-documents
----
 # Azure AI Search SDK for Python
 
 Full-text, vector, and hybrid search with AI enrichment capabilities.
@@ -534,11 +529,3 @@ except HttpResponseError as e:
 
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
-
-
-## Do not use
-Do not use this skill for tasks unrelated to its primary purpose.
-
-
-## Instructions
-Follow the procedures described in the overview and use cases.

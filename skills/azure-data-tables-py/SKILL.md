@@ -6,11 +6,6 @@ source: community
 date_added: "2026-02-27"
 ---
 
-  Triggers: "table storage", "TableServiceClient", "TableClient", "entities",
-  "PartitionKey", "RowKey".
-metadata:
-  package: azure-data-tables
----
 # Azure Tables SDK for Python
 
 NoSQL key-value store for structured data (Azure Storage Tables or Cosmos DB Table API).
@@ -249,11 +244,3 @@ asyncio.run(table_operations())
 
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
-
-
-## Do not use
-Do not use this skill for tasks unrelated to its primary purpose.
-
-
-## Instructions
-Follow the procedures described in the overview and use cases.

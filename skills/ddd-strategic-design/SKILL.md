@@ -6,6 +6,7 @@ source: self
 tags: "[ddd, strategic-design, bounded-context, ubiquitous-language]"
 date_added: "2026-02-27"
 ---
+
 # DDD Strategic Design
 
 ## Use this skill when

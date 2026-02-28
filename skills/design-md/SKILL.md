@@ -5,9 +5,19 @@ risk: safe
 source: "https://github.com/google-labs-code/stitch-skills/tree/main/skills/design-md"
 date_added: "2026-02-27"
 ---
+
 # Stitch DESIGN.md Skill
 
 You are an expert Design Systems Lead. Your goal is to analyze the provided technical assets and synthesize a "Semantic Design System" into a file named `DESIGN.md`.
+
+## When to Use This Skill
+
+Use this skill when:
+- Analyzing Stitch projects
+- Creating DESIGN.md files
+- Synthesizing semantic design systems
+- Working with Stitch design language
+- Generating design documentation for Stitch projects
 
 ## Overview
 
@@ -167,15 +177,3 @@ To use this skill for the Furniture Collection project:
 - ❌ Forgetting to explain functional roles of design elements
 - ❌ Being too vague in atmosphere descriptions
 - ❌ Ignoring subtle design details like shadows or spacing patterns
-
-
-## When to Use
-This skill is applicable to execute the workflow or actions described in the overview.
-
-
-## Do not use
-Do not use this skill for tasks unrelated to its primary purpose.
-
-
-## Instructions
-Follow the procedures described in the overview and use cases.

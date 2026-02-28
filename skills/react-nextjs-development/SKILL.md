@@ -6,6 +6,7 @@ risk: safe
 source: personal
 date_added: "2026-02-27"
 ---
+
 # React/Next.js Development Workflow
 
 ## Overview
@@ -225,11 +226,3 @@ Use @vercel-deployment to deploy Next.js app to production
 - `testing-qa` - Testing workflow
 - `documentation` - Documentation
 - `typescript-development` - TypeScript patterns
-
-
-## Do not use
-Do not use this skill for tasks unrelated to its primary purpose.
-
-
-## Instructions
-Follow the procedures described in the overview and use cases.

@@ -21,7 +21,3 @@ Use this skill when you need to work with lab environment for claude superpowers
 This skill provides guidance and patterns for lab environment for claude superpowers.
 
 For more information, see the [source repository](https://github.com/obra/superpowers-lab).
-
-
-## Do not use
-Do not use this skill for tasks unrelated to its primary purpose.

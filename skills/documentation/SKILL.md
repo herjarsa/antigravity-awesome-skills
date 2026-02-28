@@ -6,6 +6,7 @@ risk: safe
 source: personal
 date_added: "2026-02-27"
 ---
+
 # Documentation Workflow Bundle
 
 ## Overview
@@ -257,11 +258,3 @@ Use @doc-coauthoring to collaborate on docs
 - `development` - Development workflow
 - `testing-qa` - Documentation testing
 - `ai-ml` - AI documentation
-
-
-## Do not use
-Do not use this skill for tasks unrelated to its primary purpose.
-
-
-## Instructions
-Follow the procedures described in the overview and use cases.

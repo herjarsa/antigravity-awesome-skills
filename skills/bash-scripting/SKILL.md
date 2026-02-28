@@ -6,6 +6,7 @@ risk: safe
 source: personal
 date_added: "2026-02-27"
 ---
+
 # Bash Scripting Workflow
 
 ## Overview
@@ -193,11 +194,3 @@ main "$@"
 - `os-scripting` - OS scripting
 - `linux-troubleshooting` - Linux troubleshooting
 - `cloud-devops` - DevOps automation
-
-
-## Do not use
-Do not use this skill for tasks unrelated to its primary purpose.
-
-
-## Instructions
-Follow the procedures described in the overview and use cases.

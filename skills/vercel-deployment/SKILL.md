@@ -78,11 +78,3 @@ Optimize build for faster deployments and smaller bundles
 ## Related Skills
 
 Works well with: `nextjs-app-router`, `supabase-backend`
-
-
-## Do not use
-Do not use this skill for tasks unrelated to its primary purpose.
-
-
-## Instructions
-Follow the procedures described in the overview and use cases.

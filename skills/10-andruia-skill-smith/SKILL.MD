@@ -1,12 +1,12 @@
 ---
+id: 10-andruia-skill-smith
 name: 10-andruia-skill-smith
-description: Ingeniero de Sistemas de Andru.ia. Diseña, redacta y despliega
-  nuevas habilidades (skills) dentro del repositorio siguiendo el Estándar de
-  Diamante.
-metadata:
-  id: 10-andruia-skill-smith
-  category: andruia
+description: "Ingeniero de Sistemas de Andru.ia. Diseña, redacta y despliega nuevas habilidades (skills) dentro del repositorio siguiendo el Estándar de Diamante."
+category: andruia
+risk: official
+source: personal
 ---
+
 # 🔨 Andru.ia Skill-Smith (The Forge)
 
 
@@ -39,14 +39,3 @@ Generar el código para los siguientes archivos:
 ## ⚠️ Reglas de Oro
 - **Prefijos Numéricos:** Asignar un número correlativo a la carpeta (ej. 11, 12, 13) para mantener el orden.
 - **Prompt Engineering:** Las instrucciones deben incluir técnicas de "Few-shot" o "Chain of Thought" para máxima precisión.
-
-## When to Use
-This skill is applicable to execute the workflow or actions described in the overview.
-
-
-## Do not use
-Do not use this skill for tasks unrelated to its primary purpose.
-
-
-## Instructions
-Follow the procedures described in the overview and use cases.

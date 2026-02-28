@@ -5,6 +5,7 @@ risk: safe
 source: "https://docs.dbos.dev/"
 date_added: "2026-02-27"
 ---
+
 # DBOS Python Best Practices
 
 Guide for building reliable, fault-tolerant Python applications with DBOS durable workflows.
@@ -93,11 +94,3 @@ references/queue-concurrency.md
 
 - https://docs.dbos.dev/
 - https://github.com/dbos-inc/dbos-transact-py
-
-
-## Do not use
-Do not use this skill for tasks unrelated to its primary purpose.
-
-
-## Instructions
-Follow the procedures described in the overview and use cases.

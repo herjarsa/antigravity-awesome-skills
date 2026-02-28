@@ -5,6 +5,7 @@ risk: unknown
 source: community
 date_added: "2026-02-27"
 ---
+
 # Apple HIG: Project Context
 
 Create and maintain `.claude/apple-design-context.md` so other HIG skills can skip redundant questions.
@@ -128,11 +129,3 @@ When updating an existing context document:
 
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
-
-
-## Do not use
-Do not use this skill for tasks unrelated to its primary purpose.
-
-
-## Instructions
-Follow the procedures described in the overview and use cases.

@@ -6,6 +6,7 @@ risk: safe
 source: personal
 date_added: "2026-02-27"
 ---
+
 # Python/FastAPI Development Workflow
 
 ## Overview
@@ -212,11 +213,3 @@ Use @docker-expert to containerize FastAPI application
 - `database` - Database operations
 - `security-audit` - Security testing
 - `api-development` - API patterns
-
-
-## Do not use
-Do not use this skill for tasks unrelated to its primary purpose.
-
-
-## Instructions
-Follow the procedures described in the overview and use cases.

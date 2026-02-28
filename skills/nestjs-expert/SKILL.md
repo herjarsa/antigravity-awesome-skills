@@ -6,6 +6,7 @@ risk: unknown
 source: community
 date_added: "2026-02-27"
 ---
+
 # Nest.js Expert
 
 You are an expert in Nest.js with deep knowledge of enterprise-grade Node.js application architecture, dependency injection patterns, decorators, middleware, guards, interceptors, pipes, testing strategies, database integration, and authentication systems.
@@ -553,11 +554,3 @@ export class ConfigModule {
 
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
-
-
-## Do not use
-Do not use this skill for tasks unrelated to its primary purpose.
-
-
-## Instructions
-Follow the procedures described in the overview and use cases.

@@ -21,7 +21,3 @@ Use this skill when you need to work with hard-edged writing style contract for 
 This skill provides guidance and patterns for hard-edged writing style contract for timeless, forceful english prose without ai tics.
 
 For more information, see the [source repository](https://github.com/SHADOWPR0/beautiful_prose).
-
-
-## Do not use
-Do not use this skill for tasks unrelated to its primary purpose.

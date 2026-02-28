@@ -6,6 +6,7 @@ source: self
 tags: "[ddd, domain, bounded-context, architecture]"
 date_added: "2026-02-27"
 ---
+
 # Domain-Driven Design
 
 ## Use this skill when

@@ -6,11 +6,6 @@ source: community
 date_added: "2026-02-27"
 ---
 
-  Triggers: "keyvault keys rust", "KeyClient rust", "create key rust", "encrypt
-  rust", "sign rust".
-metadata:
-  package: azure_security_keyvault_keys
----
 # Azure Key Vault Keys SDK for Rust
 
 Client library for Azure Key Vault Keys — secure storage and management of cryptographic keys.
@@ -173,11 +168,3 @@ Assign these Key Vault roles:
 
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
-
-
-## Do not use
-Do not use this skill for tasks unrelated to its primary purpose.
-
-
-## Instructions
-Follow the procedures described in the overview and use cases.

@@ -6,11 +6,6 @@ source: community
 date_added: "2026-02-27"
 ---
 
-  Triggers: "event grid", "EventGridPublisherClient", "CloudEvent",
-  "EventGridEvent", "publish events".
-metadata:
-  package: azure-eventgrid
----
 # Azure Event Grid SDK for Python
 
 Event routing service for building event-driven applications with pub/sub semantics.
@@ -174,11 +169,3 @@ async with EventGridPublisherClient(
 
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
-
-
-## Do not use
-Do not use this skill for tasks unrelated to its primary purpose.
-
-
-## Instructions
-Follow the procedures described in the overview and use cases.

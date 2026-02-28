@@ -5,6 +5,7 @@ risk: unknown
 source: community
 date_added: "2026-02-27"
 ---
+
 # CircleCI Automation via Rube MCP
 
 Automate CircleCI CI/CD operations through Composio's CircleCI toolkit via Rube MCP.
@@ -178,11 +179,3 @@ Format: {vcs_type}/{org_name}/{repo_name}
 
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
-
-
-## Do not use
-Do not use this skill for tasks unrelated to its primary purpose.
-
-
-## Instructions
-Follow the procedures described in the overview and use cases.

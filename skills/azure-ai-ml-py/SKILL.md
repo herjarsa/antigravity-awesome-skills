@@ -6,11 +6,6 @@ source: community
 date_added: "2026-02-27"
 ---
 
-  Triggers: "azure-ai-ml", "MLClient", "workspace", "model registry", "training
-  jobs", "datasets".
-metadata:
-  package: azure-ai-ml
----
 # Azure Machine Learning SDK v2 for Python
 
 Client library for managing Azure ML resources: workspaces, jobs, models, data, and compute.
@@ -277,11 +272,3 @@ print(f"Default: {default_ds.name}")
 
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
-
-
-## Do not use
-Do not use this skill for tasks unrelated to its primary purpose.
-
-
-## Instructions
-Follow the procedures described in the overview and use cases.
